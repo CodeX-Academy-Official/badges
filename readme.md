@@ -4,3 +4,4 @@
 * [Architecture](architecture)
 * [Engineering](engineering)
 * [Team](team)
+* [Languages](languages)
