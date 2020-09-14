@@ -1,4 +1,4 @@
-# TOC
+# Competency Areas
 
 * [Technologies](technologies)
 * [Architecture](architecture)
