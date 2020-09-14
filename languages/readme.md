@@ -7,7 +7,7 @@
 * [JavaScript 3](javascript3.md)
 
 ## TypeScript
-* [TypeScript 1](typescript2.md)
+* [TypeScript 1](typescript1.md)
 * [TypeScript 2](typescript2.md)
 * [TypeScript 3](typescript3.md)
 
