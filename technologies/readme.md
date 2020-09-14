@@ -1,5 +1,5 @@
 # Technologies
 
 * [Frontend](frontend)
-* [Frontend](backend)
+* [Backend](backend)
 * [Security](security)
