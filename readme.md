@@ -5,3 +5,4 @@
 * [Engineering](engineering)
 * [Team](team)
 * [Languages](languages)
+* [Kata](kata.md)
