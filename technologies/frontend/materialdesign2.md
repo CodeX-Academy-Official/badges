@@ -1,30 +1,31 @@
-# Material Design Apprentice 1
+# Material Design Apprentice 2
 
-A software developer who is able to use Material Design to simplify use of CSS in a website and format content appropriately.
+A software developer who is able to use advanced features of Material Design to extend the functionality of a front-end web application.
 
 ## Master the following:
 
-* Add Material Design CSS and JS to a Vanilla JS Front-End application
-* Implement Material Design in a React application using Material UI
-* Compare/contrast Material Design to other design systems like Bootstrap
-* Describe columns, gutters and margins.
-* Use the grid system to format content in rows and columns
-* Describe a layout with regions.
-* Understand Material Design's responsive breakpoints
-* Build mobile-first responsive web pages
+* Implement Material Design in an Angular application using Angular Material
+* Debate the utility of Material Design over other design systems
+* Implement horizontally scrolling grids.
+* Implement fluid grids.
+* Implement a layout with a persistent region (ex: menu drawer).
 * Can utilize the following components:
-  * Text Fields
-  * Tooltips
-  * Time Pickers
-  * Date Pickers
-  * Banners
-  * Buttons
-  * Dialogs
-  * Lists
+  * Bottom Navigation
+  * App Bars
+  * Data Tables
+  * Dividers
+  * Menus
+  * Navigation Drawer
+  * Progress Indicators
+  * Selection Controls
+  * Sheets
+  * Sliders
+  * Snackbars
+  * Tabs
   
 ## Suggested Learning:
 * [Material Design Documentation](https://material.io/)
-* [Material UI](https://material-ui.com/)
+* [Angular Material](https://material.angular.io/)
 
 ## Evaluation:
 
