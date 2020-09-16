@@ -40,6 +40,7 @@ Create useful applications, being able to...
 * [Learn C#](https://dotnet.microsoft.com/learn/csharp) by Microsoft
 * [C# Tutorial](https://www.w3schools.com/cs/) by W3 Schools
 * [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners?l=Lvld4EQIC_2706218949) by Channel 9
+* [Basics of LINQ with C# for Beginners](https://www.udemy.com/course/basics-of-linq-with-c-for-beginners/) by Udemy
 
 ## Evaluation:
 
