@@ -6,22 +6,13 @@ A software developer who is able to use advanced features of Material Design to 
 
 * Implement Material Design in an Angular application using Angular Material
 * Debate the utility of Material Design over other design systems
-* Implement horizontally scrolling grids.
-* Implement fluid grids.
-* Implement a layout with a persistent region (ex: menu drawer).
 * Can utilize the following components:
-  * Bottom Navigation
-  * App Bars
-  * Data Tables
-  * Dividers
-  * Menus
-  * Navigation Drawer
+  * Tooltips
+  * Banners
   * Progress Indicators
   * Selection Controls
   * Sheets
   * Sliders
-  * Snackbars
-  * Tabs
   
 ## Suggested Learning:
 * [Material Design Documentation](https://material.io/)
