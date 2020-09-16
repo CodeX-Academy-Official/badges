@@ -1,4 +1,4 @@
-# React Apprentice 2
+# Lodash Apprentice 2
 
 A developer who can expertly use Lodash to write functional javascript code.
 
