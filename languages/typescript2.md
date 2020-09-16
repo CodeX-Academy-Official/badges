@@ -4,6 +4,14 @@ A developer who is proficient programming in the TypeScript language using advan
 
 ## Master the following skills:
 
+* Utilize classes in TypeScript:
+  * Writing and Using Classes
+  * Constructor method
+  * Inheritance of classes
+  * Type casting
+  * Type Assertion
+  * Static Properties
+  * Abstract class
 * Utilize interfaces in TypeScript:
   * Interface Declaration and Initialization with an object
   * Duck Typing
@@ -13,24 +21,6 @@ A developer who is proficient programming in the TypeScript language using advan
   * Excess Property Checks
   * Indexable Types
   * Extending Interfaces
-* Utilize generics in TypeScript:
-  * When to Use Generic Functions
-  * Generic Types
-  * Generic Interface
-  * Generic Classes
-  * Generic Constraints
-  * Using Type Parameters in Generic Constraint
-* Utilize Modules and Namespaces in TypeScript:
-  * Export Syntax
-  * Import Syntax
-  * Re-export
-  * Default exports
-  * Using require()
-  * Declaring and Using Namespaces
-  * The difference between require and import syntax?
-* Utilize ambients in TypeScript
-  * Definition
-  * Syntax
 
 ## Suggested Learning:
 
