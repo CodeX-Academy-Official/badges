@@ -1,4 +1,4 @@
-# Angular Apprentice 1
+# Angular Apprentice 2
 
 A developer who can effectively use Angular to build immersive front-end applications.
 
