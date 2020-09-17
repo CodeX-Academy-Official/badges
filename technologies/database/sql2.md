@@ -9,7 +9,17 @@ Someone who is learning how to use relational databases.
 * Update and remove data using SQL
 * Create relations between tables
 * Utilize joins to query tables across multiple tables
- 
+* Using SQL queries/commands, able to aggregate data using...
+  * group by
+  * count
+  * sum
+  * average
+  * max
+  * min
+* Apply indexes to improve query performance
+* Create and use stored procedures
+* Create and use stored functions
+
 ## Suggested Learning:
 
 * [Code Academy SQL](https://www.codecademy.com/learn/learn-sql)
