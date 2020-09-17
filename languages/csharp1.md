@@ -5,24 +5,21 @@ A developer who is proficient programming in the C# language.
 ## Master the following skills:
 
 Understand the .NET ecosystem on the surface:
-* Explain the differences between the current versions of .NET
 * Explain the types of applications which can be developed using .NET
-* Use namespaces to organize and provide a level of separation of code
-* Explain how .NET manages memory so that programmers don't have to worry about memory management
 * List the different IDE and editor options we have as .NET developers
 * Describe the difference between a Project and a Solution
-* Describe the inputs, outputs and general process of "building" in .NET
 
 Work with the C# language, being able to...
 * create a class; instantiate a class
 * define a method inside a class
 * define a field inside a class
+* select proper datatypes for variables, properties and fields
 * explicitly add a constructor to a class
 * pass a parameter to a class instantiation
 * comment code (single and multiple line)
 * create a solution file and add multiple projects to it
-* write “do while”, “for” and “while” loop statements
-* write “if, else if” and “switch” statements
+* iterate over collections of data with “do while”, “while” loop statements, “for” and "foreach"
+* control flow with conditional structures
 * throw and catch exceptions
 * demonstrate a “method overload” 
 * define “getters” and “setters”

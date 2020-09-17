@@ -4,6 +4,12 @@ A developer who is proficient in advanced programming using the C# language.
 
 ## Master the following skills:
 
+Understand the .NET ecosystem on the surface:
+* Explain the differences between the current versions of .NET
+* Use namespaces to organize and provide a level of separation of code
+* Explain how .NET manages memory so that programmers don't have to worry about memory management
+* Describe the inputs, outputs and general process of "building" in .NET
+
 Work with the C# language, being able to...
 * define a custom extension method
 * define an interface and class with generics

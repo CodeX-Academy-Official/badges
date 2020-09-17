@@ -17,6 +17,7 @@ A developer who can implement build backend applications using NodeJS and Expres
 * Serve non-template static files with Express
 * Receive form data from HTTP request and use it to influence output
 * Debug Express application code with breakpoints
+* Allow CORS requests from all or specific origins
 * Utilize 3rd party plugins with an Express application
 
 ## Suggested Learning:
