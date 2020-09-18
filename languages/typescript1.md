@@ -7,6 +7,7 @@ A developer who is proficient programming in the TypeScript language.
 * Defend the utility of TypeScript
 * Explain the principle benefits of TypeScript
 * Setup the Environment for TypeScript
+* Setup Babel to compile TypeScript as part of build
 * Convert an existing JavaScript file/function to TypeScript
 * Utilize various datatypes in TypeScript:
   * Basic Data Types
