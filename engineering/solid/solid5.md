@@ -13,7 +13,7 @@ A developer who strives to write code that adheres to the SOLID principles.
 
 * [Dependency Inversion Principle](https://www.youtube.com/watch?v=9oHY5TllWaU&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=5)
 * [Dependency Inversion Principle Explained Practically in C#](https://www.youtube.com/watch?v=NnZZMkwI6KI)
-
+* [Dependency Inversion Principle Explained SOLID design principles](https://www.youtube.com/watch?v=9oHY5TllWaU)
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
