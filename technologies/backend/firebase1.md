@@ -14,7 +14,7 @@ A developer who is able to use Firebase to develop data-driven web and mobile ap
 
 ## Suggested Learning:
 
-* [Firebase Docs and Tutorial](https://firebase.google.com/docs/web/setup)
+* [Firebase Docs and Tutorial](https://firebase.google.com/docs/web/setup){:target="_blank"}
 * [Firebase in a Weekend](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 * [Introducing Firebase](https://www.youtube.com/playlist?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
 
