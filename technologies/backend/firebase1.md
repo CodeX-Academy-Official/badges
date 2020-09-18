@@ -15,8 +15,8 @@ A developer who is able to use Firebase to develop data-driven web and mobile ap
 ## Suggested Learning:
 
 * [Firebase Docs and Tutorial](https://firebase.google.com/docs/web/setup)
-* [Firebase FireStore tutorial= (https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
-* [Firebase Auth tutorial] = (https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ).
+* [Firebase FireStore tutorial(https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
+* [Firebase Auth tutorial](https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ).
 
 
 ## Evaluation:
