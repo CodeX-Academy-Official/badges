@@ -1,26 +1,22 @@
-# AWS Apprentice 2
+# AWS Apprentice 3
 
 A developer who can build full-stack applications using Amazon AWS services.
 
 ## Master the following skills:
 
 * Explain the utility and purpose of the following services from AWS:
-  * Elastic Beanstalk
-  * RDS
-  * SES
+  * VPC
+  * ECR 
+  * Lambda
+  * API Gateway
+  * ECS
 * Using the AWS CLI and AWS Console, be able to...
-  * Deploy working data-driven back-end to secure URL in Elastic Beanstalk
-  * Connect to RDS database using SQL client
-  * View EB logs to diagnose docker container issues
-
-## Suggested Learning:
-
-* [AWS Concepts](https://www.udemy.com/course/aws-concepts/)
-* [Learn Amazon Web Services (AWS): The complete introduction](https://www.udemy.com/course/learn-amazon-web-services-the-complete-introduction/)
-* [Amazon Web Services (AWS) - Zero to Hero](https://www.udemy.com/course/amazon-web-services-aws-v/)
-* [SimpliLearn Resources](https://www.simplilearn.com/tutorials/aws-tutorial/what-is-aws?source=sl_frs_nav_playlist_video_clicked)
-* [AWS Cloud Practitioner Essentials Class](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
-
+  * Deploy back-end to ECS and use with front-end
+  * View ECS logs to diagnose docker container issues
+  * Deploy working Lambda function that can be triggered via URL and HTTP POST.
+  * Protect front-end, back-end and database in a VPC
+  * Push docker container to ERC for deployment to EB
+  
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:

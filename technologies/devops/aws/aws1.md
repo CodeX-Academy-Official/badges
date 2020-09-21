@@ -9,16 +9,10 @@ A developer who can build full-stack applications using Amazon AWS services.
   * IAM
   * S3
   * CloudFront
-  * Elastic Beanstalk
-  * RDS
-  * SES
 * Create an AWS account on the free tier
 * Using the AWS CLI and AWS Console, be able to...
   * Create IAM users with limited permissions
   * Deploy working front-end to secure URL in CloudFront
-  * Deploy working data-driven back-end to secure URL in Elastic Beanstalk
-  * Connect to RDS database using SQL client
-  * View EB logs to diagnose docker container issues
 
 ## Suggested Learning:
 
