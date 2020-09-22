@@ -1,22 +1,15 @@
-# Firebase Developer 1
+# Auth Apprentice 1
 
-A developer who is able to use Firebase to develop secure, data-driven web applications.
+A developer who is able to develop secure web-based front-end applications.
 
 ## Master the following skills:
 
-* Able to discuss the types of problems Firebase tries to solve
-* Integrate Firebase with an existing front-end application
-* Integrate firebase authentication to allow users to log in and sign up through a front-end application
-* Utilize the Cloud Firestore to create, read, update and delete data from the front-end
-* Query data in Firebase and display the array of responses in the front-end application
-* Host a front-end web application with Firebase Hosting
+* Differentiate between authentication and authorization
+* Integrate authentication to allow users to log in and sign up through a front-end application
 
 ## Suggested Learning:
 
-* [Firebase Docs and Tutorial](https://firebase.google.com/docs/web/setup)
-* [Firebase FireStore tutorial](https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
 * [Firebase Auth tutorial](https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ)
-
 
 ## Evaluation:
 

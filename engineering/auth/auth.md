@@ -9,6 +9,7 @@ A developer who can secure front-end and back-end systems using oAuth.
 * Compare/Contrast OAuth and OpenID Connect
 * Understand what elements OpenID Connect adds to the OAuth 2.0 scene
 
+
 Authorization
 * Describe the 3 steps of the OAuth flow.
 * Describe the components/systems involved in the OAuth flow.
