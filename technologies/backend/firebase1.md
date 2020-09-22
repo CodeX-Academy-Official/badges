@@ -9,7 +9,6 @@ A developer who is able to use Firebase to develop data-driven web and mobile ap
 * Can integrate firebase authentication to allow users to log in and sign up through a front-end application
 * Can utilize the Cloud Firestore to create, read, update and delete data from the front-end
 * Able to query data in Firebase and display the array of responses in the front-end application
-* Able to write, deploy and utilize Cloud Functions with various triggers
 * Can host a front-end web application with Firebase Hosting
 
 ## Suggested Learning:
