@@ -1,4 +1,4 @@
-# DDD Apprentice 1
+# Architecture Apprentice 1
 
 A developer who can build well-architected systems in a Domain-Driven Design context.
 

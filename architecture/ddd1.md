@@ -1,4 +1,4 @@
-# DDD Apprentice 1
+# Architecture Apprentice 1
 
 A developer who can tactically support simple architecture influenced by DDD.
 
