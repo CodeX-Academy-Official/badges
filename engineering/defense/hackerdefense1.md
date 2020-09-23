@@ -1,14 +1,23 @@
-# Auth Apprentice 1
+# Hacker Defense Apprentice 1
 
-A developer who is able to develop secure web-based front-end applications.
+A developer who is able to create applications that are resistant to hacker attacks
 
 ## Master the following skills:
 
-* Integrate authentication to allow users to log in and sign up through a front-end application
+* List 5 common ways a hacker can gain unauthorized access to your application
+* Discuss penetration testing
 
-## Suggested Learning:
+* Describe the process of SQL injection
+* Demonstrate how to perform a SQL Injection attack
+* Demonstrate how to defend against SQL injection
 
-* [Firebase Auth tutorial](https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ)
+* Describe the process of a Brute Force attack
+* Demonstrate how to perform a Brute Force attack
+* Demonstrate how to defend against Brute Force attack
+
+## Resources:
+
+* [Top 10 Vulnerable Websites for Penetration Testing](https://securitytrails.com/blog/vulnerable-websites-for-penetration-testing)
 
 ## Evaluation:
 

@@ -1,14 +1,24 @@
-# Auth Apprentice 1
+# Hacker Defense Apprentice 1
 
-A developer who is able to develop secure web-based front-end applications.
+A developer who is able to create applications that are resistant to hacker attacks
 
 ## Master the following skills:
 
-* Integrate authentication to allow users to log in and sign up through a front-end application
+* Describe the process of a XSS attack
+* Demonstrate how to perform a XSS attack
+* Demonstrate how to defend against XSS attack
 
-## Suggested Learning:
+* Describe the process of a Zero-Day attack
+* Demonstrate how to perform a Zero-Day attack
+* Demonstrate how to defend against a Zero-Day attack
 
-* [Firebase Auth tutorial](https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ)
+* Describe the process of a Man-in-the-Middle attack
+* Demonstrate how to perform a Man-in-the-Middle attack
+* Demonstrate how to defend against a Man-in-the-Middle attack
+
+## Resources:
+
+* [Top 10 Vulnerable Websites for Penetration Testing](https://securitytrails.com/blog/vulnerable-websites-for-penetration-testing)
 
 ## Evaluation:
 
