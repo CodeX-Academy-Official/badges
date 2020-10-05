@@ -5,15 +5,7 @@ A developer who can build well-architected systems in a Domain-Driven Design con
 ## Master the following skills:
 
 
-1. 10% - DDD Lite, Awareness  
-  * The Goal of DDD
-  * Ubiquitous Language (naming things)
-  * Separation of domain code / project structure
-  * Repositories
-  * Services
-  * Dependency Injection
-  * Entities with ORM
-  * Code-First vs DB-First
+
   
 2. Strategic
   * DDD is for non-technical people 1st

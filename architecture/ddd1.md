@@ -1,9 +1,9 @@
 # Architecture Apprentice 1
 
-A developer who can tactically support simple architecture influenced by DDD.
+A developer who can tactically support simple architecture influenced by Domain-Driven Design.
 
 ## Master the following skills:
-
+ 
 * Discuss 3 goals of DDD in regards to a software project
 * Defend the utility of an ubiquitous language on both the business and tech side
 * Structure a code project in a way that correctly separates domain code from application code
