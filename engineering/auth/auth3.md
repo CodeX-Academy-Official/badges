@@ -1,6 +1,6 @@
 # Auth Apprentice 3
 
-A developer who can secure front-end and back-end systems using oAuth.
+A developer who can secure front-end and back-end systems using oAuth security flows.
 
 ## Master the following skills:
 
@@ -13,19 +13,8 @@ Levels:
 
 
 Differentiate between 2 party systems vs 3 party systems (2-legged/3-legged oauth)
-
-
-
-
-* Differentiate between authentication and authorization
-
-* Describe the difference between authentication and authorization
 * List the different types of security flows an application can implement
-* Compare/Contrast OAuth and OpenID Connect
-* Understand what elements OpenID Connect adds to the OAuth 2.0 scene
 
-
-Authorization
 * Describe the 3 steps of the OAuth flow.
 * Describe the components/systems involved in the OAuth flow.
 * List the alternatives to OAuth 2.0.
@@ -52,11 +41,30 @@ Authorization
 
 * Authenticate against OAuth Provider in server-to-server application (client credentials flow)
 
-Authentication
-
 * Describe the common OAuth grant types and their use cases
 
 * Use "OAuth Debugger" (oauthdebugger.com) to test an OAuth Provider
+
+Describe how JWT's relate to oAuth
+Defend the utilty of JWTs as access tokens
+
+* Use JWT for access tokens
+Recognize an invalid JWT
+Decode a JWT to access the information contained
+
+
+
+
+Level 4 -OIDC
+* Differentiate between authentication and authorization
+* Compare/Contrast OAuth and OpenID Connect
+* Understand what elements OpenID Connect adds to the OAuth 2.0 scene
+
+
+Level 5 - Advanced
+
+
+
 * Use "OpenID Connect Debugger" (oidcdebugger.com) to test an OpenID Connect Provider
 * Use a JWT decoder to view the contents of a Json Web Token
 * Describe the anatomy of a JWT
