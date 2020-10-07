@@ -1,6 +1,6 @@
-# Agile Apprentice 1
+# Scrum Apprentice 1
 
-A developer who can work efficiently in an Agile Software Development context.
+A developer who can work efficiently in a Scrum context.
 
 ## Master the following skills:
 
