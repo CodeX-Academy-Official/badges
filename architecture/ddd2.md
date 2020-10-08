@@ -1,75 +1,36 @@
 # Architecture Apprentice 2
 
-A developer who can build well-architected systems in a Domain-Driven Design context.
+A developer who can assist business leaders and product owners in building well-communicated and well-architected systems in a Domain-Driven Design context.
 
 ## Master the following skills:
 
-
-
-  
-2. Strategic
-  * DDD is for non-technical people 1st
-  * Bounded Context
-  * Ubiquitous Language
-  * Context Maps
-    * Shared Kernel
-    * Customer/Supplier
-    * Conformist
-    * Partner
-    * Anti-Corruption Layer
-  * Domain Modeling
-
-3. Tactical
-  * Entities
-  * Encapsulation (invariants, mutability)
-  * Rich Domain Model vs Anemic Model
-  * Value Objects
-  * Aggregates
-  * Services
-  * Repositories
-  * Factories
-  * Events
-  * Modules
-
-4. Advanced
-  * Context communication
-
-* Define domain
-* List 5 examples of domains in software
-* Differentiate between a core domain and a supporting or sub-domain
-* Defend the need for a ubiquitous language between technical and business teams
-* Describe a bounded context and how it relates to domains
-* Formulate questions at the business level that help reveal bounded contexts
-* Discuss 3 possibilities for communication between bounded contexts
-* Describe the process of domain modeling
-* Design a domain model with at least 10 components
-
-* Differentiate between strategic and tactical Domain-Driven Design
-* Differentiate between a value object and an entity
-* Demonstrate value objects in code
-* Demonstrate domain entities in code
-* Differentiate between aggregates and entities
-* Demonstrate an aggregate root with entities and value objects together in code
-* Write encapsulated entities with no public setters
-
-
+* Define Strategic Domain-Driven Design 
+* Differentiate between stategic and tactical DDD
 * Defend the need for a strategy like DDD to build well-architected systems
-* Define domain
-
-* Defend the need to protect your code from abuse by other developers
-
-* Describe invariants
-* Differentiate between domain and data models
-* Defend the need for code-first database design over database-first design
+* Defend the utility of strategic DDD for non-technical people
+* Differentiate between correctly and incorrectly implemented ubiquitous language
+* Define domain in the context of DDD
+* Describe how a domain can drive a design
+* Identify 5 examples of domains in software
+* Differentiate between a core domain and a supporting or sub-domain
+* Describe bounded contexts and how they relate to the business domain
+* Formulate questions at the business level that help reveal bounded contexts
+* Describe how bounded contexts may intergrate and communicate with other bounded contexts using the following patterns:
+  * Shared Kernel
+  * Customer/Supplier
+  * Conformist
+  * Partner
+  * Anti-Corruption Layer
+* Develop a context map of a business domain including various bounded contexts
 
 ## Suggested Learning:
 
 * [Domain-Driven Design Crash Course](https://vaadin.com/learn/tutorials/ddd)
-
 * [What is Strategic Design?](https://thedomaindrivendesign.io/what-is-strategic-design/)
-* [What is Tactical Design?](https://thedomaindrivendesign.io/what-is-tactical-design/)
-
 * [DDD Cheat Sheet](https://hackernoon.com/my-ddd-cheat-sheet-ue2n30g5)
+* [What is Domain Driven Design](https://www.youtube.com/watch?v=NNFJREcalc0&list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG&index=2)
+* [DDD Strategic Design in under 15 minutes](https://www.youtube.com/watch?v=Evers5npkmE&list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG&index=3)
+* [Strategic Domain Driven Design](https://www.infoq.com/presentations/strategic-ddd/) by Nick Tune
 
 ## Evaluation:
 

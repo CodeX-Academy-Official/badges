@@ -1,6 +1,6 @@
-# Auth Apprentice 3
+# Auth Apprentice 5
 
-A developer who can secure front-end and back-end systems using oAuth security flows.
+A developer who can secure front-end and back-end systems using complex oAuth and OIDC security flows.
 
 ## Master the following skills:
 
