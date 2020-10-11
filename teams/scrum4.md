@@ -18,6 +18,8 @@ A developer who can work effectively as part of a Scrum development team.
 * Discuss what story points indicate when estimating
 * Estimate the effort needed to complete various user stories
 * Defend agile estimation techniques over traditional estimation techniques
+* Discuss why estimates are often wrong
+* Plan to mitigate risk from incorrect estimates
 
 ## Suggested Learning:
 
