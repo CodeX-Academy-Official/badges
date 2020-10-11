@@ -9,21 +9,12 @@ A developer who can work effectively as part of a Scrum development team.
 * Identify impediments to the progress of the project and report the same to the ScrumMaster.
 * Ensure a clear understanding of Epic(s) and Personas
 * Understand the User Stories in the Prioritized Product Backlog
-* Write user stories for product features and divide them into smaller tasks.
 * Provide input to the Product Owner on creation of User Stories
 * Estimate the effort required in completing tasks
 * Agree with other Scrum Core Team members on the Length of Sprint
-* Develop Task List based on agreed User Stories and dependencies
 * Identify risks and implements risk mitigation actions, if any
-
-
-USER STORIES
-* Formats
-* Personas
-* INVEST
-* Splitting Approaches
-* Vertical Slicing
-* Sizing
+* Defend the utility of "spikes"
+* Plan a spike around a task to resolve unknowns
 
 ## Suggested Learning:
 

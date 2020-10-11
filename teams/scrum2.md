@@ -12,6 +12,7 @@ A developer who can work effectively as part of a Scrum development team.
 * Differentiate between the roles of Scrum Master and Product Owner
 * Attend daily scrum meetings and report the completed and planned tasks for each day.
 * Identify improvement opportunities, if any, from the current Sprint and agrees on any actionable improvements for the next Sprint
+* Defend the need for timeboxing in various Scrum scenarios
 * Participate in the Retrospect Project Meeting
 * Participate in Prioritized Product Backlog Review (aka Grooming) Meetings
 * Demonstrate completed deliverables to the Product Owner for approval
