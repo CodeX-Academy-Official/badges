@@ -15,6 +15,9 @@ A developer who can work effectively as part of a Scrum development team.
 * Slice stories to smallest increment while maintaining adherence to INVEST
 * Exemplify stories that fall outside of INVEST for some reason
 * Extract team tasks from user stories
+* Discuss what story points indicate when estimating
+* Estimate the effort needed to complete various user stories
+* Defend agile estimation techniques over traditional estimation techniques
 
 ## Suggested Learning:
 
@@ -25,7 +28,6 @@ A developer who can work effectively as part of a Scrum development team.
 * [How to Split User Stories](https://www.mountaingoatsoftware.com/blog/video-training-how-to-split-user-stories)
 * [Vertical Slices and Scale](https://agileforall.com/vertical-slices-and-scale/)
 * [What are Story Points](https://www.mountaingoatsoftware.com/blog/what-are-story-points)
-* [Story Points Are Still About Effort](https://www.mountaingoatsoftware.com/blog/story-points-are-still-about-effort)
 * [Story Point Estimation](https://www.youtube.com/watch?v=n8MxsFtolAM)
 
 ## Evaluation:
