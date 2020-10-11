@@ -1,20 +1,21 @@
-# Serverless Apprentice 2
+# Serverless Apprentice 1
 
-A developer who can work with the Serverless framework to build and trigger cloud-based tasks.
+A developer who can work with the Serverless framework to build scalable back-ends.
 
 ## Master the following skills:
 
-* Build Lambda functions that are triggered by events in AWS like:
-  * Notification from SNS
-  * Queue Item from SQS
-  * Document upload to S3
-  * Time/date
-* Deploy Lambdas as part of a CI/CD pipeline
+* Write Lambda functions that perform short-running tasks
+* Test Lambdas locally
+* Deploy Lambdas to AWS as endpoints
+* Test Lambdas in the cloud using endpoint urls
 
 ## Suggested Learning Resources
 
 * [Serverless Docs](https://www.serverless.com/framework/docs/)
-* [Invoking AWS Lambda Functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html)
+* [Serverless Full Stack Application on AWS](https://www.serverless.com/learn/courses/full-stack-application-development-on-aws/)
+* [Serverless for Frontend Developers](https://www.serverless.com/learn/courses/serverless-for-frontend-developers/)
+* [How To Build A Serverless REST API with AWS Lambda & DynamoDB](https://www.serverless.com/blog/build-a-serverless-rest-api)
+* [The Serverless Framework with AWS](https://www.youtube.com/watch?v=D5_FHbdsjRc&list=PLmexTtcbIn_gP8bpsUsHfv-58KsKPsGEo)
 
 ## Evaluation:
 
