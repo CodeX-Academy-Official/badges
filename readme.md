@@ -1,4 +1,4 @@
-# Competency Areas
+# CodeX Academy Competency Areas
 
 * [Technologies](technologies)
 * [Architecture](architecture)
