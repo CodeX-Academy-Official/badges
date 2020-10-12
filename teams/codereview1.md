@@ -1,6 +1,6 @@
 # Code Review Apprentice 1
 
-A developer who can work efficiently in a Scrum context.
+A developer who can effectively review and give feedback on code written by developers.
 
 ## Master the following skills:
 
