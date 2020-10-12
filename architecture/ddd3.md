@@ -20,6 +20,10 @@ A developer who can implement tactical system architecture to support a strategi
 * Differentiate between domain and data models
 * Defend the need for code-first database design over database-first design
 
+## Suggested Learning Resources:
+
+* [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
