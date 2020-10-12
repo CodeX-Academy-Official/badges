@@ -1,4 +1,4 @@
-# Azure Apprentice 1
+# Microsoft Azure Apprentice 1
 
 A developer who can deploy full-stack web applications to Microsoft Azure.
 
