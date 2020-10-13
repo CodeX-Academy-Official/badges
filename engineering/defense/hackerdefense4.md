@@ -1,18 +1,18 @@
-# Hacker Defense Apprentice 1
+# Hacker Defense Apprentice 4
 
 A developer who is able to create applications that are resistant to hacker attacks
 
 ## Master the following skills:
 
-* Describe the processes of each of the security risks below
+* Describe each security risks below
 * Describe common attacks that hackers can use for each security risk below
 * Demonstrate how to perform attacks using the security risks below
 * Demonstrate how to defend against attacks that exploit the security risks below
 
 OWASP Security Risks:
-* Injection
-* Broken Authentication
-* Sensitive Data Exposure
+* Insecure Deserialization
+* Using Components with Known Vulnerabilities
+* Insuficient Logging and Monitoring
 
 ## Resources:
 

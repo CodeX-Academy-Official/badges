@@ -1,20 +1,18 @@
-# Hacker Defense Apprentice 1
+# Hacker Defense Apprentice 2
 
 A developer who is able to create applications that are resistant to hacker attacks
 
 ## Master the following skills:
 
-* Describe the process of a XSS attack
-* Demonstrate how to perform a XSS attack
-* Demonstrate how to defend against XSS attack
+* Describe each security risks below
+* Describe common attacks that hackers can use for each security risk below
+* Demonstrate how to perform attacks using the security risks below
+* Demonstrate how to defend against attacks that exploit the security risks below
 
-* Describe the process of a Zero-Day attack
-* Demonstrate how to perform a Zero-Day attack
-* Demonstrate how to defend against a Zero-Day attack
-
-* Describe the process of a Man-in-the-Middle attack
-* Demonstrate how to perform a Man-in-the-Middle attack
-* Demonstrate how to defend against a Man-in-the-Middle attack
+OWASP Security Risks:
+* XML External Entities (XXE)
+* Broken Access Control
+* Security Misconfiguration
 
 ## Resources:
 
