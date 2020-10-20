@@ -4,7 +4,6 @@ A software developer who is able to use Material Design to simplify use of CSS i
 
 ## Master the following:
 
-* Add Material Design CSS and JS to a Vanilla JS Front-End application
 * Implement Material Design in a React application using Material UI
 * Compare/contrast Material Design to other design systems like Bootstrap
 * Describe columns, gutters and margins.
