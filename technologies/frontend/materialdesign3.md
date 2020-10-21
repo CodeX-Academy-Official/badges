@@ -1,4 +1,4 @@
-# Material Design Apprentice 2
+# Material Design Apprentice 3
 
 A software developer who is able to use advanced features of Material Design to extend the functionality of a front-end web application.
 
