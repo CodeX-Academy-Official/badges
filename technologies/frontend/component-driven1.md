@@ -4,16 +4,23 @@ A developer who is able to build front-end applications starting with pure compo
 
 ## Master the following skills:
 
-* Install Storybook into an existing React app
-* Build components in Storybook before integrating them into a larger view
+* Discuss component-driven development in the context of front-end development
+* Understand the concept of "Atomic Design"
+* Demonstrate the following Atomic Design concepts on an existing website:
+  * Atoms
+  * Molecules
+  * Organisms
+  * Templates
+  * Pages
+* Implement Storybook into an existing React app
+* Build molecule and organism-level components in Storybook before integrating them into a larger view
 * Display components in various states in Storybook
 * Integrate storybook into application's webpack process
 * Include your application's CSS in storybook preview so that components look like they would in the target application.
 * Document components and their inputs/outputs using Storybook
-* Use storybook add-ons to extend functionality
-* Has created 10 unique stories in storybook
-* Can convert stories into snapshot tests using Jest and Storyshots
-* Can generate a Jest test coverage report for the storybook tests to see what code has been covered and what code has not
+* Created 10 or more unique stories in storybook
+* Convert stories into snapshot tests using Jest and Storyshots
+* Generate a Jest test coverage report for the storybook tests to see what code has been covered and what code has not
 
 ## Suggested Learning:
 
@@ -22,6 +29,7 @@ A developer who is able to build front-end applications starting with pure compo
 * [Storybook Driven Development](https://medium.com/nulogy/storybook-driven-development-a3c517276c07)
 * [Introduction to Storybook for React](https://storybook.js.org/docs/react/get-started/introduction)
 * [Storybook and Webpack](https://storybook.js.org/docs/react/configure/webpack)
+* [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 
 ## Evaluation:
 
