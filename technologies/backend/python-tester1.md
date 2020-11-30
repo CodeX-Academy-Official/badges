@@ -1,16 +1,16 @@
-# Django Apprentice 3
+# Python Testing Apprentice 1
 
-A developer who can build web-based applications using the Django framework.
+A developer who is able to write automated unit tests for simple Python functions and applications.
 
 ## Master the following skills:
 
-* Apply unit testing to ensure his logic works as expected
+* Write 20 unit tests 
+* Write 5 integration tests 
+* Utilize a mock correctly in a unit test
 * Understand how Test API Client works
-* Create tests to validate views will return the expected response
 
 ## Suggested Learning:
 
-* [Querysets](https://docs.djangoproject.com/en/3.0/ref/models/querysets/)
 * [Tests](https://docs.djangoproject.com/en/3.0/topics/testing/)
 * [Tests DRF](https://www.django-rest-framework.org/api-guide/testing/)
 
