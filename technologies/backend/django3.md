@@ -4,15 +4,6 @@ A developer who can build web-based applications using the Django framework.
 
 ## Master the following skills:
 
-* Understand how the Django ORM works
-* Create queries applying simple filtering techniques
-* Understand that queries are lazy and how queries evaluate
-* Apply select related to make queries more efficient
-* Apply only to make queries more efficient
-* Apply defer to make queries more efficient
-* Apply Order results of a query
-* Apply annotate for more complex queries
-* Apply aggregate for more complex queries
 * Apply unit testing to ensure his logic works as expected
 * Understand how Test API Client works
 * Create tests to validate views will return the expected response
