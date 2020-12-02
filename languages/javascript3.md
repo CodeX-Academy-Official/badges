@@ -5,7 +5,7 @@ A developer who can code independently and build complex applications in the bro
 ## Master the following skills:
 
 * Setting/clearing Timeouts and Intervals
-* The this Keyword
+* The `this` Keyword
 * Using objects and properties with both object dot notation and bracket notation
 * JSON, Parsing, Stringifying
 * Built-In Array Iterators (forEach, IndexOf, Find, Map, Filter, Reduce, Some)
