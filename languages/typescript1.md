@@ -29,7 +29,6 @@ A developer who is proficient programming in the TypeScript language.
   * Writing and Using Classes
   * Constructor method
   * Inheritance of classes
-  * Type Assertion
   * Static Properties
   * Abstract class
 
