@@ -23,14 +23,12 @@ A developer who is proficient programming in the TypeScript language.
 * Utilize destructuring & spread
   * Array Destructuring
   * Object Destructuring
-  * Mixed Destructuring
   * Property renaming
   * Default Values
 * Utilize classes in TypeScript:
   * Writing and Using Classes
   * Constructor method
   * Inheritance of classes
-  * Type casting
   * Type Assertion
   * Static Properties
   * Abstract class
