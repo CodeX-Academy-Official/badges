@@ -24,7 +24,7 @@ Someone who is learning how to use the Git source control system.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/mastery-evaluation-level-1) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-1-mastery-evaluation) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
