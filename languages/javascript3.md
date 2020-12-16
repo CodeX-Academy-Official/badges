@@ -18,8 +18,11 @@ A developer who can code independently and build complex applications in the bro
 
 ## Suggested Learning:
 
-* [The Odin Project - Web Development 101](https://www.theodinproject.com/)
+* Independent Research - Try googling "JavaScript" along with the competency listed above
+* [The Odin Project - Web Development 101](https://www.theodinproject.com/) - This is a large course. The comptetencies you are trying to learn are all there, but there is no single page or link that will guide you to each competency. You'll have to sift through the content (a very common activity for even the most experienced developers).
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-2-mastery-evaluation) to request an evaluation.
+
+[.](level-2)
