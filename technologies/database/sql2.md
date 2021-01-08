@@ -6,9 +6,6 @@ Someone who is learning how to use relational databases.
 
 * Demonstrate how to use primary keys
 * Demonstrate how to use foreign keys
-* Update and remove data using SQL
-* Create relations between tables
-* Utilize joins to query tables across multiple tables
 * Using SQL queries/commands, able to aggregate data using...
   * group by
   * count
