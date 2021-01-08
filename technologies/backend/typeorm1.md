@@ -5,7 +5,7 @@ A developer who can implement an ORM in a NodeJS application to communicate with
 ## Master the following skills:
 
 * Integrate TypeORM with a NodeJS/Express application
-* Configure TypeORM to connect to a databse
+* Configure TypeORM to connect to a database
 * Build a repository using TypeORM
 * Build entities for use with TypeORM
 * Build migrations for Entity changes in TypeORM

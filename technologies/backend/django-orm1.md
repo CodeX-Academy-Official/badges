@@ -4,15 +4,22 @@ A developer who is able to use the Django ORM to run simple CRUD operations agai
 
 ## Master the following skills:
 
-* Understand how the Django ORM works
-* Create queries applying simple filtering techniques
-* Understand that queries are lazy and how queries evaluate
-* Apply select related to make queries more efficient
-* Apply only to make queries more efficient
-* Apply defer to make queries more efficient
-* Apply Order results of a query
-* Apply annotate for more complex queries
-* Apply aggregate for more complex queries
+* Integrate Django ORM with a Django application
+* Configure Django ORM to connect to a database
+* Build a repository using Django ORM
+* Build entities for use with Django ORM
+* Build migrations for Entity changes in Django ORM
+* Apply and revert migrations
+* Wrap sets of queries in a transaction for simple rollback on error
+* Query a database using Django ORM to perform:
+  * Simple Reads
+  * Queries with filters
+  * Joins
+  * Writes
+  * Deletes
+  * Updates
+* Use the data from the database to influence application output
+
 
 ## Suggested Learning:
 
