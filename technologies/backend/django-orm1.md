@@ -7,8 +7,8 @@ A developer who is able to use the Django ORM to run simple CRUD operations agai
 * Integrate Django ORM with a Django application
 * Configure Django ORM to connect to a database
 * Build a repository using Django ORM
-* Build entities for use with Django ORM
-* Build migrations for Entity changes in Django ORM
+* Build model for use with Django ORM
+* Build migrations for model changes in Django ORM
 * Apply and revert migrations
 * Wrap sets of queries in a transaction for simple rollback on error
 * Query a database using Django ORM to perform:
