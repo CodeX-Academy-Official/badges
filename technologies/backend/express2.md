@@ -1,4 +1,4 @@
-# Express Apprentice 1
+# Express Apprentice 2
 
 A developer who can implement build backend applications using NodeJS and Express.
 
