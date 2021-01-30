@@ -4,9 +4,7 @@ A developer who is able to use the Django ORM to run simple CRUD operations agai
 
 ## Master the following skills:
 
-* Integrate Django ORM with a Django application
 * Configure Django ORM to connect to a database
-* Build a repository using Django ORM
 * Build model for use with Django ORM
 * Build migrations for model changes in Django ORM
 * Apply and revert migrations
