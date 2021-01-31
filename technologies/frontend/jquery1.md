@@ -1,4 +1,4 @@
-# jQuery Apprentice 1
+# jQuery Developer 1
 
 A software developer who can code independently using JQuery to build complex applications in the browser.
 
@@ -20,6 +20,6 @@ A software developer who can code independently using JQuery to build complex ap
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-2-mastery-evaluation) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-2-mastery-evaluation?a1=jQuery%20Developer%201&a2=Cnd-oYKxS_qOH_ZFcpwXkA) to request an evaluation.
 
 [.](level-2)

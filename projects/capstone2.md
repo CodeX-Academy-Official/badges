@@ -1,4 +1,4 @@
-# Front-End Developer Apprentice Project 2
+# Front-End Developer Level 2 Capstone Project
 
 Create a dynamic web application and deploy it to a public url.
 
@@ -8,6 +8,6 @@ Combine the knowledge from previous badges and deploy a functional browser appli
 
 ## Evaluation:
 
-Ask your mentor if you are ready for project evaluation. Then, click [here](http://projectevals.codex.academy) to request an evaluation.
+Ask your mentor if you are ready for project evaluation. Then, click [here](https://calendly.com/codex-academy/project-evaluation?a1=eqrF8EpzSB6I1SvDAPxTpw) to request an evaluation.
 
 [.](level-2)

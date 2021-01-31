@@ -1,4 +1,4 @@
-# Front-End Developer Apprentice Project 1
+# Front-End Developer Level 1 Capstone Project
 
 Complete a simple project and deploy to a publicly accessible website.
 
@@ -12,6 +12,6 @@ If you need help thinking about what to build, you could check out [this list of
 
 ## Evaluation:
 
-Ask your mentor if you are ready for project evaluation. Then, click [here](http://projectevals.codex.academy) to request an evaluation.
+Ask your mentor if you are ready for project evaluation. Then, click [here](https://calendly.com/codex-academy/project-evaluation?a1=AiwQow-qSKyuxASGZZIORA) to request an evaluation.
 
 [.](level-1)

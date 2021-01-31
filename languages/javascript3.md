@@ -1,4 +1,4 @@
-# JavaScript Apprentice 3
+# JavaScript Developer 3
 
 A developer who can code independently and build complex applications in the browser.
 
@@ -23,6 +23,6 @@ A developer who can code independently and build complex applications in the bro
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-2-mastery-evaluation) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-2-mastery-evaluation?a1=JavaScript%20Developer%203&a2=Hi3PzfAvTEOe75ricoA2RA) to request an evaluation.
 
 [.](level-2)

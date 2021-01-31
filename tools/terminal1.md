@@ -1,4 +1,4 @@
-# Command Line Learner 1
+# Command Line Power User 1
 
 Someone who can use the basic features of a bash terminal.
 
@@ -24,7 +24,7 @@ Someone who can use the basic features of a bash terminal.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-1-mastery-evaluation) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-1-mastery-evaluation?a1=Command%20Line%20Power%20User%201&a2=LFVCaj_fQ263FtM0B8ZNfA) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

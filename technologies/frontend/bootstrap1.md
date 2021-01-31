@@ -1,4 +1,4 @@
-# Bootstrap Apprentice 1
+# Bootstrap Developer 1
 
 A software developer who is able to use Bootstrap to simplify use of CSS in a website and format content appropriately.
 
@@ -25,6 +25,6 @@ A software developer who is able to use Bootstrap to simplify use of CSS in a we
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-2-mastery-evaluation) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-2-mastery-evaluation?a1=Bootstrap%20Developer%201&a2=66Pz-G6UScWSrbCUxsHuSg) to request an evaluation.
 
 [.](level-2)
