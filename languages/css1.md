@@ -16,6 +16,8 @@ A developer who can code independently and build simple and well-styled websites
 ## Suggested Learning: 
 * [What is CSS](https://www.colorcode.io/course/css-basics)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+* [HTML Dog](https://www.htmldog.com/guides/css/beginner/) - CSS Beginner
+* [FreeCodeCamp.org](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/) - Basic CSS
 
 ## Evaluation:
 
