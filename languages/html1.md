@@ -1,6 +1,6 @@
 # HTML Apprentice 1
 
-A developer who can code independently and build simple and well-styled websites.
+A developer who can code independently and build simple and well-structured websites.
 
 ## Master the following skills:
 
