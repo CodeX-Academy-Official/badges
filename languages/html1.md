@@ -1,6 +1,6 @@
 # HTML Apprentice 1
 
-A developer who can code independently and build simple and well-styled websites.
+A developer who can code independently and build simple and well-structured websites.
 
 ## Master the following skills:
 
@@ -15,10 +15,10 @@ A developer who can code independently and build simple and well-styled websites
 
 ## Suggested Learning: 
 * [What is HTML](https://www.colorcode.io/course/html-basics)
-* [The Odin Project](https://www.theodinproject.com/) - Web Development 101 and HTML5 and CSS3
+* [The Odin Project](https://www.theodinproject.com/courses/html-and-css) - Web Development 101 and HTML5 and CSS3
 * [W3C HTML5 Tutorial](http://www.w3schools.com/html/)
-* [HTML Dog's Tutorial](https://www.htmldog.com/guides/css/beginner/) - Beginner
-* [FreeCodeCamp.Com](https://www.freecodecamp.org/) - Responsive Web Design - Basic HTML and Basic CSS
+* [HTML Dog's Tutorial](https://www.htmldog.com/guides/html/beginner/) - Beginner
+* [FreeCodeCamp.Com](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) - Responsive Web Design - Basic HTML and Basic CSS
 
 ## Evaluation:
 
