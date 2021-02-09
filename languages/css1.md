@@ -14,10 +14,10 @@ A developer who can code independently and build simple and well-styled websites
 * Understand and be able to identify what styles are built in to existing HTML tags.
 
 ## Suggested Learning: 
-* [What is CSS](https://www.colorcode.io/course/css-basics)
-* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
-* [HTML Dog](https://www.htmldog.com/guides/css/beginner/) - CSS Beginner
-* [FreeCodeCamp.org](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/) - Basic CSS
+* [What is CSS](https://www.colorcode.io/course/css-basics){:target="_blank"}
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/){:target="_blank"}
+* [HTML Dog](https://www.htmldog.com/guides/css/beginner/){:target="_blank"} - CSS Beginner
+* [FreeCodeCamp.org](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/){:target="_blank"} - Basic CSS
 
 ## Evaluation:
 
