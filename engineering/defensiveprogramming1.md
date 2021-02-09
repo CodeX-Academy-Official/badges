@@ -12,7 +12,7 @@ A developer who can develop software defensively to produce higher quality code.
 
 ## Suggested Learning:
 
-* [The 7 Most Common Types of Errors in Programming and How to Avoid Them](https://textexpander.com/blog/the-7-most-common-types-of-errors-in-programming-and-how-to-avoid-them/)
+* [The 7 Most Common Types of Errors in Programming and How to Avoid Them](https://textexpander.com/blog/the-7-most-common-types-of-errors-in-programming-and-how-to-avoid-them/){:target="_blank"}
 * [10 Java Performance Problems](https://www.rockvalleycollege.edu/webadmin/upload/Top-10-Java-Performance-Problems.pdf){:target="_blank"}
 * [Minimizing Unreproducible Bugs](https://testing.googleblog.com/2014/02/minimizing-unreproducible-bugs.html){:target="_blank"}
 * [N+1 Queries and How to Avoid Them](https://medium.com/@bretdoucette/n-1-queries-and-how-to-avoid-them-a12f02345be5){:target="_blank"}

@@ -1,4 +1,4 @@
-{:target="_blank"}# Auth Apprentice 5
+# Auth Apprentice 5
 
 A developer who can secure front-end and back-end systems using oAuth and OIDC.
 

@@ -44,7 +44,7 @@ A developer who can secure front-end and back-end systems using oAuth security f
 * [OAuth with NodeJS and Express](http://thecodebarbarian.com/oauth-with-node-js-and-express.html){:target="_blank"} Tutorial
 * [Implementing OAuth 2.0 with NodeJS](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/){:target="_blank"}
 * [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc){:target="_blank"}
-* [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0)
+* [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0){:target="_blank"}
 * [Playlist by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv){:target="_blank"}
 
 ## Evaluation:
