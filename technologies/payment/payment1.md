@@ -17,10 +17,10 @@ A developer who can develop web applications with simple online payment flows.
 
 ## Suggested Learning:
 
-* [Stripe Docs](https://stripe.com/docs)
-* [Stripe Docs - Accept a Payment](https://stripe.com/docs/checkout/integration-builder)
-* [Introduction to Stripe Payments in Node.js Using Express](https://www.digitalocean.com/community/tutorials/nodejs-intro-stripe-payments)
-* [How To Setup Payments With Node.js And Stripe](https://www.youtube.com/watch?v=mI_-1tbIXQI)
+* [Stripe Docs](https://stripe.com/docs){:target="_blank"}
+* [Stripe Docs - Accept a Payment](https://stripe.com/docs/checkout/integration-builder){:target="_blank"}
+* [Introduction to Stripe Payments in Node.js Using Express](https://www.digitalocean.com/community/tutorials/nodejs-intro-stripe-payments){:target="_blank"}
+* [How To Setup Payments With Node.js And Stripe](https://www.youtube.com/watch?v=mI_-1tbIXQI){:target="_blank"}
 
 ## Evaluation:
 

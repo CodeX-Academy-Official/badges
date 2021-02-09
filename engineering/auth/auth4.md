@@ -19,11 +19,11 @@ A developer who can secure front-end systems using OIDC.
 
 ## Suggested Learning:
 
-* [OpenID Connect Docs](https://openid.net/connect/)
-* [JWT Docs](https://jwt.io/)
-* [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
-* [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0)
-* [OpenID Connect and OAuth2](https://auth0.com/docs/videos/learn-identity-series/openid-connect-and-oauth2)
+* [OpenID Connect Docs](https://openid.net/connect/){:target="_blank"}
+* [JWT Docs](https://jwt.io/){:target="_blank"}
+* [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc){:target="_blank"}
+* [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0){:target="_blank"}
+* [OpenID Connect and OAuth2](https://auth0.com/docs/videos/learn-identity-series/openid-connect-and-oauth2){:target="_blank"}
 
 ## Evaluation:
 

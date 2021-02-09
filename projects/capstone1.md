@@ -8,7 +8,7 @@ Combine the knowledge from previous badges and deploy a functional browser appli
 
 ## Ideas/Suggestions
 
-If you need help thinking about what to build, you could check out [this list of ideas](https://skillcrush.com/blog/projects-you-can-do-with-javascript/).
+If you need help thinking about what to build, you could check out [this list of ideas](https://skillcrush.com/blog/projects-you-can-do-with-javascript/){:target="_blank"}.
 
 ## Evaluation:
 

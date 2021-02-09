@@ -34,10 +34,10 @@ A developer who is proficient programming in the TypeScript language.
 
 ## Suggested Learning:
 
-* [Introduction to TypeScript](https://www.udemy.com/course/typescript/) by Udemy
-* [TypeScript Fast Crash Course](https://www.udemy.com/course/typescript-fast-crash-course/) by Udemy
-* [Learn TypeScript in 5 Minutes](https://www.freecodecamp.org/news/learn-typescript-in-5-minutes-13eda868daeb/) from FreeCodeCamp
-* [TypeScript Documentation](https://www.typescriptlang.org/)
+* [Introduction to TypeScript](https://www.udemy.com/course/typescript/){:target="_blank"} by Udemy
+* [TypeScript Fast Crash Course](https://www.udemy.com/course/typescript-fast-crash-course/){:target="_blank"} by Udemy
+* [Learn TypeScript in 5 Minutes](https://www.freecodecamp.org/news/learn-typescript-in-5-minutes-13eda868daeb/){:target="_blank"} from FreeCodeCamp
+* [TypeScript Documentation](https://www.typescriptlang.org/){:target="_blank"}
 
 ## Evaluation:
 

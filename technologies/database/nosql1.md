@@ -17,10 +17,10 @@ A developer who can implement backend systems using NoSQL databases and NodeJS
 
 ## Suggested Learning:
 
-* [MongoDB Essentials](https://www.udemy.com/course/mongodb-essentials/)
-* [Creaste a REST API with Node JS and Mongo DB](https://www.udemy.com/course/create-a-rest-api-with-node-js-and-mongo-db/)
-* [Express Documentation](https://expressjs.com/en/guide/database-integration.html)
-* [Building a Simple CRUD app with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
+* [MongoDB Essentials](https://www.udemy.com/course/mongodb-essentials/){:target="_blank"}
+* [Creaste a REST API with Node JS and Mongo DB](https://www.udemy.com/course/create-a-rest-api-with-node-js-and-mongo-db/){:target="_blank"}
+* [Express Documentation](https://expressjs.com/en/guide/database-integration.html){:target="_blank"}
+* [Building a Simple CRUD app with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb/){:target="_blank"}
 
 ## Evaluation:
 

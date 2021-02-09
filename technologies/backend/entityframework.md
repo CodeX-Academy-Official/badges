@@ -26,10 +26,10 @@ A developer who can implement an ORM in a .NET application to communicate with t
 
 ## Suggested Learning:
 
-* [Entity Framework Documentation](https://docs.microsoft.com/en-us/ef/)
-* [Entity Framework Tutorials](https://www.entityframeworktutorial.net/)
-* [Learn Entity Framework](https://www.udemy.com/course/learn-entity-framework/)
-* [CRUD C#.NET with Entity Framework](https://www.udemy.com/course/crud-cnet-with-entity-framework/)
+* [Entity Framework Documentation](https://docs.microsoft.com/en-us/ef/){:target="_blank"}
+* [Entity Framework Tutorials](https://www.entityframeworktutorial.net/){:target="_blank"}
+* [Learn Entity Framework](https://www.udemy.com/course/learn-entity-framework/){:target="_blank"}
+* [CRUD C#.NET with Entity Framework](https://www.udemy.com/course/crud-cnet-with-entity-framework/){:target="_blank"}
 
 ## Evaluation:
 

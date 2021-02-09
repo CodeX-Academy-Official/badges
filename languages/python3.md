@@ -17,13 +17,13 @@ A developer capable of developing and maintaining advanced applications written 
 
 ## Suggested Learning:
 
-* [Iterators](https://www.programiz.com/python-programming/iterator)
-* [Generators](https://www.programiz.com/python-programming/generator)
-* [Exceptions](https://www.programiz.com/python-programming/exceptions)
-* [Decorators](https://www.programiz.com/python-programming/decorator)
-* [Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
-* [Context Managers](https://dbader.org/blog/python-context-managers-and-with-statement)
-* [Regex](https://www.programiz.com/python-programming/regex)
+* [Iterators](https://www.programiz.com/python-programming/iterator){:target="_blank"}
+* [Generators](https://www.programiz.com/python-programming/generator){:target="_blank"}
+* [Exceptions](https://www.programiz.com/python-programming/exceptions){:target="_blank"}
+* [Decorators](https://www.programiz.com/python-programming/decorator){:target="_blank"}
+* [Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception){:target="_blank"}
+* [Context Managers](https://dbader.org/blog/python-context-managers-and-with-statement){:target="_blank"}
+* [Regex](https://www.programiz.com/python-programming/regex){:target="_blank"}
 
 ## Evaluation:
 

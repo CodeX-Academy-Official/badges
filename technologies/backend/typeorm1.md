@@ -22,9 +22,9 @@ A developer who can implement an ORM in a NodeJS application to communicate with
 
 ## Suggested Learning:
 
-* [TypeORM Documentation](https://typeorm.io/)
-* [TypeORM Tutorial](https://www.tutorialspoint.com/typeorm/index.htm)
-* [TypeORM Video Tutorials](https://www.youtube.com/watch?v=sGuiC4N76Jw&list=PLN3n1USn4xlmlo0GtSjIeWGXe_Ndo9sYd) by Ben Awad
+* [TypeORM Documentation](https://typeorm.io/){:target="_blank"}
+* [TypeORM Tutorial](https://www.tutorialspoint.com/typeorm/index.htm){:target="_blank"}
+* [TypeORM Video Tutorials](https://www.youtube.com/watch?v=sGuiC4N76Jw&list=PLN3n1USn4xlmlo0GtSjIeWGXe_Ndo9sYd){:target="_blank"} by Ben Awad
 
 ## Evaluation:
 

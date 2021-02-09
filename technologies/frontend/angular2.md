@@ -57,7 +57,7 @@ A developer who can effectively use Angular to build immersive front-end applica
   
 ## Suggested Learning:
 
-* [Angular Docs](https://angular.io/)
+* [Angular Docs](https://angular.io/){:target="_blank"}
 
 ## Evaluation:
 

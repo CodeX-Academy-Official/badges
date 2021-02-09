@@ -16,12 +16,12 @@ A developer who can tactically support simple architecture influenced by Domain-
 
 ## Suggested Learning:
 
-* [Domain-Driven Design Crash Course](https://vaadin.com/learn/tutorials/ddd)
-* [Introduction to DDD Lite](https://threedots.tech/post/ddd-lite-in-go-introduction/)
-* [Repository Pattern](https://blog.kylegalbraith.com/2018/03/06/getting-familiar-with-the-awesome-repository-pattern/)
-* [Domain-Driven Design: File Structure](https://dev.to/stevescruz/domain-driven-design-ddd-file-structure-4pja)
-* [Words Matter: Ubiquitous Language and Throughput](https://www.youtube.com/watch?v=g4LNezYjLLM)
-* [Code-First vs Model-First vs Database-First: Pros and Cons](https://www.ryadel.com/en/code-first-model-first-database-first-vs-comparison-orm-asp-net-core-entity-framework-ef-data/)
+* [Domain-Driven Design Crash Course](https://vaadin.com/learn/tutorials/ddd){:target="_blank"}
+* [Introduction to DDD Lite](https://threedots.tech/post/ddd-lite-in-go-introduction/){:target="_blank"}
+* [Repository Pattern](https://blog.kylegalbraith.com/2018/03/06/getting-familiar-with-the-awesome-repository-pattern/){:target="_blank"}
+* [Domain-Driven Design: File Structure](https://dev.to/stevescruz/domain-driven-design-ddd-file-structure-4pja){:target="_blank"}
+* [Words Matter: Ubiquitous Language and Throughput](https://www.youtube.com/watch?v=g4LNezYjLLM){:target="_blank"}
+* [Code-First vs Model-First vs Database-First: Pros and Cons](https://www.ryadel.com/en/code-first-model-first-database-first-vs-comparison-orm-asp-net-core-entity-framework-ef-data/){:target="_blank"}
 
 ## Evaluation:
 

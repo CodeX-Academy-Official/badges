@@ -18,15 +18,15 @@ A developer who can secure front-end and back-end systems using simple authentic
 
 ## Suggested Learning:
 
-* [SSL and SSL Certificates Explained For Beginners](http://www.steves-internet-guide.com/ssl-certificates-explained/)
-* [What happens when you enter a password?](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=48319&section=1.1)
-* [What NOT to do!](https://www.cnbc.com/video/2019/03/21/facebook-stored-passwords-in-plain-text-accessible-by-employees-report-says.html)
-* [HTTP Request Anatomy](https://www.youtube.com/watch?v=DvQp7hJk0TA)
-* [The Anatomy of an HTTP Request](https://www.shipengine.com/the-anatomy-of-an-http-request/)
-* [NodeJS - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/24/nodejs-basic-authentication-tutorial-with-example-api)
-* [How Does Token-Based Authentication Work](https://www.solarwindsmsp.com/blog/how-does-token-based-authentication-work#)
-* [Hashing Passwords: One-Way Road to Security](https://auth0.com/blog/hashing-passwords-one-way-road-to-security/)
-* [Stateful vs Stateless Applications (Explained by Example)](https://www.youtube.com/watch?v=nFPzI_Qg3FU)
+* [SSL and SSL Certificates Explained For Beginners](http://www.steves-internet-guide.com/ssl-certificates-explained/){:target="_blank"}
+* [What happens when you enter a password?](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=48319&section=1.1){:target="_blank"}
+* [What NOT to do!](https://www.cnbc.com/video/2019/03/21/facebook-stored-passwords-in-plain-text-accessible-by-employees-report-says.html){:target="_blank"}
+* [HTTP Request Anatomy](https://www.youtube.com/watch?v=DvQp7hJk0TA){:target="_blank"}
+* [The Anatomy of an HTTP Request](https://www.shipengine.com/the-anatomy-of-an-http-request/){:target="_blank"}
+* [NodeJS - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/24/nodejs-basic-authentication-tutorial-with-example-api){:target="_blank"}
+* [How Does Token-Based Authentication Work](https://www.solarwindsmsp.com/blog/how-does-token-based-authentication-work#){:target="_blank"}
+* [Hashing Passwords: One-Way Road to Security](https://auth0.com/blog/hashing-passwords-one-way-road-to-security/){:target="_blank"}
+* [Stateful vs Stateless Applications (Explained by Example)](https://www.youtube.com/watch?v=nFPzI_Qg3FU){:target="_blank"}
 
 ## Evaluation:
 

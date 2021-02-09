@@ -14,10 +14,10 @@ A developer who can expertly use ReactJS to build stateful, immersive front-end 
 
 ## Suggested Learning:
 
-* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-* [Learn Redux](https://learnredux.com/)
-* [Redux Docs](https://react-redux.js.org/)
-* [Flux In-Depth Overview](https://facebook.github.io/flux/docs/in-depth-overview)
+* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux){:target="_blank"}
+* [Learn Redux](https://learnredux.com/){:target="_blank"}
+* [Redux Docs](https://react-redux.js.org/){:target="_blank"}
+* [Flux In-Depth Overview](https://facebook.github.io/flux/docs/in-depth-overview){:target="_blank"}
 
 ## Evaluation:
 

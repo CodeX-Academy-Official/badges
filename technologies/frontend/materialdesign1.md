@@ -20,8 +20,8 @@ A software developer who is able to use Material Design to simplify use of CSS i
   * Lists
   
 ## Suggested Learning:
-* [Material Design Documentation](https://material.io/)
-* [Material UI](https://material-ui.com/)
+* [Material Design Documentation](https://material.io/){:target="_blank"}
+* [Material UI](https://material-ui.com/){:target="_blank"}
 
 ## Evaluation:
 

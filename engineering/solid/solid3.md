@@ -11,8 +11,8 @@ A developer who strives to write code that adheres to the SOLID principles.
 
 ## Suggested Learning:
 
-* [Liskov Substitution Principle](https://www.youtube.com/watch?v=dJQMqNOC4Pc&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=3)
-* [Liskov Substitution Principle Explained Practically in C#](https://www.youtube.com/watch?v=-3UXq2krhyw)
+* [Liskov Substitution Principle](https://www.youtube.com/watch?v=dJQMqNOC4Pc&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=3){:target="_blank"}
+* [Liskov Substitution Principle Explained Practically in C#](https://www.youtube.com/watch?v=-3UXq2krhyw){:target="_blank"}
 
 ## Evaluation:
 

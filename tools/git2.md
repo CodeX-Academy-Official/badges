@@ -11,7 +11,7 @@ Someone who is learning how to use the Git source control system.
 * Rebasing with Conflicts
 
 ## Suggested Learning:
-* [Git SCM Documentation on Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+* [Git SCM Documentation on Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging){:target="_blank"}
 * We recommend doing some independent research on the skills above.
 
 ## Evaluation:

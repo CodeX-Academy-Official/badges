@@ -14,12 +14,12 @@ A developer who can utilize various popular .NET libraries to save time and exte
 
 ## Suggested Learning:
 
-* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
-* [Polly](https://github.com/App-vNext/Polly)
-* [MailKit](https://github.com/jstedfast/MailKit)
-* [SaasKit](https://github.com/saaskit/saaskit)
-* [Hangfire](http://hangfire.io/)
-* [CacheManager](https://github.com/MichaCo/CacheManager)
+* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore){:target="_blank"}
+* [Polly](https://github.com/App-vNext/Polly){:target="_blank"}
+* [MailKit](https://github.com/jstedfast/MailKit){:target="_blank"}
+* [SaasKit](https://github.com/saaskit/saaskit){:target="_blank"}
+* [Hangfire](http://hangfire.io/){:target="_blank"}
+* [CacheManager](https://github.com/MichaCo/CacheManager){:target="_blank"}
 
 ## Evaluation:
 

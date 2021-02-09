@@ -21,7 +21,7 @@ A developer who is able to use the Django ORM to run simple CRUD operations agai
 
 ## Suggested Learning:
 
-* [Documentation](https://docs.djangoproject.com/en/3.1/topics/db/)
+* [Documentation](https://docs.djangoproject.com/en/3.1/topics/db/){:target="_blank"}
 
 ## Evaluation:
 

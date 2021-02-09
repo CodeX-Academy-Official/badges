@@ -19,8 +19,8 @@ Someone who is learning how to use relational databases.
 
 ## Suggested Learning:
 
-* [Code Academy SQL](https://www.codecademy.com/learn/learn-sql)
-* [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) by Khan Academy
+* [Code Academy SQL](https://www.codecademy.com/learn/learn-sql){:target="_blank"}
+* [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql){:target="_blank"} by Khan Academy
 
 ## Evaluation:
 

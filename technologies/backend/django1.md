@@ -30,11 +30,11 @@ A developer who can build web-based applications using the Django framework.
 
 ## Suggested Learning:
 
-* [Installation](https://docs.djangoproject.com/en/3.0/intro/install/)
-* [DRF Installation](https://www.django-rest-framework.org/#installation)
-* [First APP](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
-* [DB Setup](https://docs.djangoproject.com/en/3.0/intro/tutorial02/)
-* [DRF Quickstart](https://www.django-rest-framework.org/tutorial/quickstart/)
+* [Installation](https://docs.djangoproject.com/en/3.0/intro/install/){:target="_blank"}
+* [DRF Installation](https://www.django-rest-framework.org/#installation){:target="_blank"}
+* [First APP](https://docs.djangoproject.com/en/3.0/intro/tutorial01/){:target="_blank"}
+* [DB Setup](https://docs.djangoproject.com/en/3.0/intro/tutorial02/){:target="_blank"}
+* [DRF Quickstart](https://www.django-rest-framework.org/tutorial/quickstart/){:target="_blank"}
 
 ## Evaluation:
 

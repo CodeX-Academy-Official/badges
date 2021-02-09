@@ -20,9 +20,9 @@ to handle a Command
 
 ## Suggested Learning:
 
-* [Introduction to CQRS and Event Sourcing](https://eventsourcery.com/)
-* [Video course: Event Sourcing, Distributed Systems & CQRS](https://www.youtube.com/playlist?list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ)
-* [Event Sourcing Projections Patterns: Deduplication Strategies](https://domaincentric.net/blog/event-sourcing-projection-patterns-deduplication-strategies)
+* [Introduction to CQRS and Event Sourcing](https://eventsourcery.com/){:target="_blank"}
+* [Video course: Event Sourcing, Distributed Systems & CQRS](https://www.youtube.com/playlist?list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ){:target="_blank"}
+* [Event Sourcing Projections Patterns: Deduplication Strategies](https://domaincentric.net/blog/event-sourcing-projection-patterns-deduplication-strategies){:target="_blank"}
 
 ## Evaluation:
 

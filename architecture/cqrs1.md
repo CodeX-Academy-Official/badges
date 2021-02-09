@@ -23,8 +23,8 @@ A developer who can build systems that take advantage of the segregation of comm
 
 ## Suggested Learning:
 
-* [CQRS](https://cqrs.nu/)
-* [Command-Query Separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
+* [CQRS](https://cqrs.nu/){:target="_blank"}
+* [Command-Query Separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation){:target="_blank"}
 
 ## Evaluation:
 

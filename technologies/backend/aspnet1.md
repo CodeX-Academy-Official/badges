@@ -20,12 +20,12 @@ A developer who can build web-based applications using Microsoft ASP.NET.
 
 ## Suggested Learning:
 
-* [Introduction to ASP.NET Core](https://www.udemy.com/course/introduction-to-aspnet-core-x/)
-* [ASP.NET Web API Docs](https://docs.microsoft.com/en-us/aspnet/web-api/)
-* [Learn ASP.NET Tutorials](https://dotnet.microsoft.com/learn/aspnet)
-* [ASP.NET Web APIs](https://dotnet.microsoft.com/apps/aspnet/apis)
-* [Les Jackson's .NET Core 3.1 MVC Rest API Course](https://www.youtube.com/watch?v=fmvcAzHpsk8)
-* [Beginners Guide to Dependency Injection for C# Developers](https://www.udemy.com/course/injection-intro/)
+* [Introduction to ASP.NET Core](https://www.udemy.com/course/introduction-to-aspnet-core-x/){:target="_blank"}
+* [ASP.NET Web API Docs](https://docs.microsoft.com/en-us/aspnet/web-api/){:target="_blank"}
+* [Learn ASP.NET Tutorials](https://dotnet.microsoft.com/learn/aspnet){:target="_blank"}
+* [ASP.NET Web APIs](https://dotnet.microsoft.com/apps/aspnet/apis){:target="_blank"}
+* [Les Jackson's .NET Core 3.1 MVC Rest API Course](https://www.youtube.com/watch?v=fmvcAzHpsk8){:target="_blank"}
+* [Beginners Guide to Dependency Injection for C# Developers](https://www.udemy.com/course/injection-intro/){:target="_blank"}
 
 ## Evaluation:
 

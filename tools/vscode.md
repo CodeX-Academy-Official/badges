@@ -13,12 +13,12 @@ Able to efficiently use VS Code and related tools.
 
 ## Suggested Learning:
 
-* [Udemy's Beginner VS Code](https://www.udemy.com/course/beginner-vs-code/)
-* [Microsoft's Getting Started with VS Code](https://code.visualstudio.com/docs/introvideos/basics)
+* [Udemy's Beginner VS Code](https://www.udemy.com/course/beginner-vs-code/){:target="_blank"}
+* [Microsoft's Getting Started with VS Code](https://code.visualstudio.com/docs/introvideos/basics){:target="_blank"}
 
 ## Suggested Excercies:
 
-* You can use [this exercise](https://docs.google.com/document/d/14CHbTdab9pN10hCuc5JvQRh4r1_zCBCymKiHMkS8Qrg/edit?usp=sharing) to help you solidify your knowledge.
+* You can use [this exercise](https://docs.google.com/document/d/14CHbTdab9pN10hCuc5JvQRh4r1_zCBCymKiHMkS8Qrg/edit?usp=sharing){:target="_blank"} to help you solidify your knowledge.
 
 ## Evaluation:
 

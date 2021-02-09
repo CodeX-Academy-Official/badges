@@ -17,14 +17,14 @@ A developer who can build web-based applications using Microsoft ASP.NET.
 
 ## Suggested Learning:
 
-* [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic)
-* [Authenticating to a REST API in c#](https://www.youtube.com/watch?v=XX5pn4pJ4b0)
-* [Deserializing JSON using c# and json.net](https://www.youtube.com/watch?v=CjoAYslTKX0)
-* [Routing in ASP.NET Core](https://www.youtube.com/watch?v=1fpIynISxnM)
-* [Middleware in ASP.NET Core](https://www.youtube.com/watch?v=HCxAERjO4C4)
-* [ASP.NET Web API - Action Filters](https://www.youtube.com/watch?v=x7kZJf416J4)
-* [Routing & Model Binding with ASP.NET Core](https://www.youtube.com/watch?v=svccL46v-rg)
-* [ASP.NET Core File Upload Tutorial](https://www.youtube.com/watch?v=l69kUe1fNSc)
+* [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic){:target="_blank"}
+* [Authenticating to a REST API in c#](https://www.youtube.com/watch?v=XX5pn4pJ4b0){:target="_blank"}
+* [Deserializing JSON using c# and json.net](https://www.youtube.com/watch?v=CjoAYslTKX0){:target="_blank"}
+* [Routing in ASP.NET Core](https://www.youtube.com/watch?v=1fpIynISxnM){:target="_blank"}
+* [Middleware in ASP.NET Core](https://www.youtube.com/watch?v=HCxAERjO4C4){:target="_blank"}
+* [ASP.NET Web API - Action Filters](https://www.youtube.com/watch?v=x7kZJf416J4){:target="_blank"}
+* [Routing & Model Binding with ASP.NET Core](https://www.youtube.com/watch?v=svccL46v-rg){:target="_blank"}
+* [ASP.NET Core File Upload Tutorial](https://www.youtube.com/watch?v=l69kUe1fNSc){:target="_blank"}
 
 ## Evaluation:
 

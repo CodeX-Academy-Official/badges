@@ -22,10 +22,10 @@ A developer who can implement build backend applications using NodeJS and Expres
 
 ## Suggested Learning:
 
-* [ExpressJS Documentation](https://expressjs.com/)
-* [ExpressJS Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
-* [ExpressJS and NodeJS Course for Beginners](https://www.freecodecamp.org/news/learn-express-js-in-this-complete-course/) by FreeCodeCamp
-* [ExpressJS Fundamentals](https://www.udemy.com/course/expressjs-fundamentals/) by Udemy
+* [ExpressJS Documentation](https://expressjs.com/){:target="_blank"}
+* [ExpressJS Tutorial](https://www.tutorialspoint.com/expressjs/index.htm){:target="_blank"}
+* [ExpressJS and NodeJS Course for Beginners](https://www.freecodecamp.org/news/learn-express-js-in-this-complete-course/){:target="_blank"} by FreeCodeCamp
+* [ExpressJS Fundamentals](https://www.udemy.com/course/expressjs-fundamentals/){:target="_blank"} by Udemy
 
 ## Evaluation:
 

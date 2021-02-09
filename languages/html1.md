@@ -14,11 +14,11 @@ A developer who can code independently and build simple and well-structured webs
 * Can construct a table using tags: header, footer, rows, columns
 
 ## Suggested Learning: 
-* [What is HTML](https://www.colorcode.io/course/html-basics)
-* [The Odin Project](https://www.theodinproject.com/courses/html-and-css) - Web Development 101 and HTML5 and CSS3
-* [W3C HTML5 Tutorial](http://www.w3schools.com/html/)
-* [HTML Dog's Tutorial](https://www.htmldog.com/guides/html/beginner/) - Beginner
-* [FreeCodeCamp.Com](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) - Responsive Web Design - Basic HTML and Basic CSS
+* [What is HTML](https://www.colorcode.io/course/html-basics){:target="_blank"}
+* [The Odin Project](https://www.theodinproject.com/courses/html-and-css){:target="_blank"} - Web Development 101 and HTML5 and CSS3
+* [W3C HTML5 Tutorial](http://www.w3schools.com/html/){:target="_blank"}
+* [HTML Dog's Tutorial](https://www.htmldog.com/guides/html/beginner/){:target="_blank"} - Beginner
+* [FreeCodeCamp.Com](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/){:target="_blank"} - Responsive Web Design - Basic HTML and Basic CSS
 
 ## Evaluation:
 

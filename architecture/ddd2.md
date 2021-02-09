@@ -25,13 +25,13 @@ A developer who can assist business leaders and product owners in building well-
 
 ## Suggested Learning:
 
-* [Domain-Driven Design Crash Course](https://vaadin.com/learn/tutorials/ddd)
-* [What is Strategic Design?](https://thedomaindrivendesign.io/what-is-strategic-design/)
-* [What is Tactical Design?](https://thedomaindrivendesign.io/what-is-tactical-design/)
-* [DDD Cheat Sheet](https://hackernoon.com/my-ddd-cheat-sheet-ue2n30g5)
-* [What is Domain Driven Design](https://www.youtube.com/watch?v=NNFJREcalc0&list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG&index=2)
-* [DDD Strategic Design in under 15 minutes](https://www.youtube.com/watch?v=Evers5npkmE&list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG&index=3)
-* [Strategic Domain Driven Design](https://www.infoq.com/presentations/strategic-ddd/) by Nick Tune
+* [Domain-Driven Design Crash Course](https://vaadin.com/learn/tutorials/ddd){:target="_blank"}
+* [What is Strategic Design?](https://thedomaindrivendesign.io/what-is-strategic-design/){:target="_blank"}
+* [What is Tactical Design?](https://thedomaindrivendesign.io/what-is-tactical-design/){:target="_blank"}
+* [DDD Cheat Sheet](https://hackernoon.com/my-ddd-cheat-sheet-ue2n30g5){:target="_blank"}
+* [What is Domain Driven Design](https://www.youtube.com/watch?v=NNFJREcalc0&list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG&index=2){:target="_blank"}
+* [DDD Strategic Design in under 15 minutes](https://www.youtube.com/watch?v=Evers5npkmE&list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG&index=3){:target="_blank"}
+* [Strategic Domain Driven Design](https://www.infoq.com/presentations/strategic-ddd/){:target="_blank"} by Nick Tune
 
 ## Evaluation:
 
