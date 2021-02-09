@@ -36,7 +36,7 @@ Developer
 
 ## Suggested Learning:
 
-* [AWS Cloud Practitioner Essentials Class](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
+* [AWS Cloud Practitioner Essentials Class](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/){:target="_blank"}
 
 ## Evaluation:
 

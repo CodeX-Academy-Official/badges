@@ -11,8 +11,8 @@ A developer who is able to write automated unit tests for simple Python function
 
 ## Suggested Learning:
 
-* [Tests](https://docs.djangoproject.com/en/3.0/topics/testing/)
-* [Tests DRF](https://www.django-rest-framework.org/api-guide/testing/)
+* [Tests](https://docs.djangoproject.com/en/3.0/topics/testing/){:target="_blank"}
+* [Tests DRF](https://www.django-rest-framework.org/api-guide/testing/){:target="_blank"}
 
 ## Evaluation:
 

@@ -8,8 +8,8 @@ A developer who is able to develop secure web-based front-end applications.
 
 ## Suggested Learning:
 
-* [Firebase Auth tutorial](https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ)
-* [Firebase Auth Docs](https://firebase.google.com/docs/auth)
+* [Firebase Auth tutorial](https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ){:target="_blank"}
+* [Firebase Auth Docs](https://firebase.google.com/docs/auth){:target="_blank"}
 
 ## Evaluation:
 

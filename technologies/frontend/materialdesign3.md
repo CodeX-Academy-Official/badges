@@ -1,4 +1,4 @@
-# Material Design Apprentice 3
+{:target="_blank"}# Material Design Apprentice 3
 
 A software developer who is able to use advanced features of Material Design to extend the functionality of a front-end web application.
 
@@ -19,8 +19,8 @@ A software developer who is able to use advanced features of Material Design to 
   
   
 ## Suggested Learning:
-* [Material Design Documentation](https://material.io/)
-* [Angular Material](https://material.angular.io/)
+* [Material Design Documentation](https://material.io/){:target="_blank"}
+* [Angular Material](https://material.angular.io/){:target="_blank"}
 
 ## Evaluation:
 

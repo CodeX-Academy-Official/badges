@@ -16,7 +16,7 @@ A developer who can use pip and its packages to enhance python-based application
 
 ## Suggested Learning:
 
-* [PIP](https://pip.pypa.io/en/stable/)
+* [PIP](https://pip.pypa.io/en/stable/){:target="_blank"}
 
 ## Evaluation:
 

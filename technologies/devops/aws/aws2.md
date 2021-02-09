@@ -15,11 +15,11 @@ A developer who can build full-stack applications using Amazon AWS services.
 
 ## Suggested Learning:
 
-* [AWS Concepts](https://www.udemy.com/course/aws-concepts/)
-* [Learn Amazon Web Services (AWS): The complete introduction](https://www.udemy.com/course/learn-amazon-web-services-the-complete-introduction/)
-* [Amazon Web Services (AWS) - Zero to Hero](https://www.udemy.com/course/amazon-web-services-aws-v/)
-* [SimpliLearn Resources](https://www.simplilearn.com/tutorials/aws-tutorial/what-is-aws?source=sl_frs_nav_playlist_video_clicked)
-* [AWS Cloud Practitioner Essentials Class](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
+* [AWS Concepts](https://www.udemy.com/course/aws-concepts/){:target="_blank"}
+* [Learn Amazon Web Services (AWS): The complete introduction](https://www.udemy.com/course/learn-amazon-web-services-the-complete-introduction/){:target="_blank"}
+* [Amazon Web Services (AWS) - Zero to Hero](https://www.udemy.com/course/amazon-web-services-aws-v/){:target="_blank"}
+* [SimpliLearn Resources](https://www.simplilearn.com/tutorials/aws-tutorial/what-is-aws?source=sl_frs_nav_playlist_video_clicked){:target="_blank"}
+* [AWS Cloud Practitioner Essentials Class](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/){:target="_blank"}
 
 ## Evaluation:
 

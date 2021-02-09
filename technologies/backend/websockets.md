@@ -10,15 +10,15 @@ A developer who can implement WebSockets at a basic level and can assist in deci
 
 ## Suggested Learning:
 
-* [What are WebSockets](https://www.youtube.com/watch?v=ZbrEztkwcw8)
-* [WebSockets Pros and Cons](https://www.youtube.com/watch?v=DFlgyrP5HMY)
+* [What are WebSockets](https://www.youtube.com/watch?v=ZbrEztkwcw8){:target="_blank"}
+* [WebSockets Pros and Cons](https://www.youtube.com/watch?v=DFlgyrP5HMY){:target="_blank"}
 
 Javascript/NodeJs:
-* [Using WebSockets with Node.Js](https://flaviocopes.com/node-websockets/)
-* [WebSockets in Node.js](https://masteringjs.io/tutorials/node/websockets)
+* [Using WebSockets with Node.Js](https://flaviocopes.com/node-websockets/){:target="_blank"}
+* [WebSockets in Node.js](https://masteringjs.io/tutorials/node/websockets){:target="_blank"}
 
 Python/Django:
-* [Getting Started with Django Channels](https://realpython.com/getting-started-with-django-channels/)
+* [Getting Started with Django Channels](https://realpython.com/getting-started-with-django-channels/){:target="_blank"}
 
 
 ## Evaluation:

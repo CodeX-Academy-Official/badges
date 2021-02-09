@@ -52,12 +52,12 @@ A developer who can effectively use Angular to build immersive front-end applica
 
 ## Suggested Learning:
 
-* [Angular Docs](https://angular.io/)
-* [Building Your First Angular App](https://medium.com/free-code-camp/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451)
-* [Angular for Beginners - Angular CLI](https://www.freecodecamp.org/news/angular-9-for-beginners-how-to-install-your-first-app-with-angular-cli/)
-* [Angular for Beginners - Components and Strings](https://www.freecodecamp.org/news/angular-9-for-beginners-components-and-string-interpolation/)
-* [Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
-* [RxJS in 6 Minutes](https://medium.com/@mohandere/rxjs-5-in-5-minutes-1c3b4ed0d8cc)
+* [Angular Docs](https://angular.io/){:target="_blank"}
+* [Building Your First Angular App](https://medium.com/free-code-camp/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451){:target="_blank"}
+* [Angular for Beginners - Angular CLI](https://www.freecodecamp.org/news/angular-9-for-beginners-how-to-install-your-first-app-with-angular-cli/){:target="_blank"}
+* [Angular for Beginners - Components and Strings](https://www.freecodecamp.org/news/angular-9-for-beginners-components-and-string-interpolation/){:target="_blank"}
+* [Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ){:target="_blank"}
+* [RxJS in 6 Minutes](https://medium.com/@mohandere/rxjs-5-in-5-minutes-1c3b4ed0d8cc){:target="_blank"}
 
 
 ## Evaluation:

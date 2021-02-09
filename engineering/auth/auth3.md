@@ -34,18 +34,18 @@ A developer who can secure front-end and back-end systems using oAuth security f
 
 *Caution: Keep in mind that this badge focuses on oAuth only. OIDC comes at a later time, but it's almost impossible to find good learning materials that only talk about oAuth. Try your best to focus on oAuth and file away any OIDC concerns until later.*
 
-* [OAuth 2.0 Docs](https://oauth.net/2/)
-* [Authentication and Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330) by Udacity
-* [Authentication and Authorization](https://www.coursera.org/lecture/information-security-data/authentication-and-authorisation-DXhwt) by Coursera
-* [Hands-on Authentication and Authorization: OAuth](https://www.udemy.com/course/hands-on-oauth-authentication-and-authorization-with-oauth2/) by Udemy
-* [Secure your ReactJS Applications with Auth0](https://www.udemy.com/course/secure-your-reactjs-applications-with-auth0/)
-* [JWT Docs](https://jwt.io/)
-* [Passport Docs](http://www.passportjs.org/)
-* [OAuth with NodeJS and Express](http://thecodebarbarian.com/oauth-with-node-js-and-express.html) Tutorial
-* [Implementing OAuth 2.0 with NodeJS](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/)
-* [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+* [OAuth 2.0 Docs](https://oauth.net/2/){:target="_blank"}
+* [Authentication and Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330){:target="_blank"} by Udacity
+* [Authentication and Authorization](https://www.coursera.org/lecture/information-security-data/authentication-and-authorisation-DXhwt){:target="_blank"} by Coursera
+* [Hands-on Authentication and Authorization: OAuth](https://www.udemy.com/course/hands-on-oauth-authentication-and-authorization-with-oauth2/){:target="_blank"} by Udemy
+* [Secure your ReactJS Applications with Auth0](https://www.udemy.com/course/secure-your-reactjs-applications-with-auth0/){:target="_blank"}
+* [JWT Docs](https://jwt.io/){:target="_blank"}
+* [Passport Docs](http://www.passportjs.org/){:target="_blank"}
+* [OAuth with NodeJS and Express](http://thecodebarbarian.com/oauth-with-node-js-and-express.html){:target="_blank"} Tutorial
+* [Implementing OAuth 2.0 with NodeJS](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/){:target="_blank"}
+* [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc){:target="_blank"}
 * [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0)
-* [Playlist by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv)
+* [Playlist by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv){:target="_blank"}
 
 ## Evaluation:
 

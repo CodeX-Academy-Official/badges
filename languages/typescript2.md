@@ -24,7 +24,7 @@ A developer who is proficient programming in the TypeScript language using advan
 
 ## Suggested Learning:
 
-* [TypeScript Documentation](https://www.typescriptlang.org/)
+* [TypeScript Documentation](https://www.typescriptlang.org/){:target="_blank"}
 
 ## Evaluation:
 

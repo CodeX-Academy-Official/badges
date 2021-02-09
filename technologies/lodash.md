@@ -56,9 +56,9 @@ A developer who can expertly use Lodash to write functional javascript code.
 
 ## Suggested Learning:
 
-* [Lodash Documentation](https://lodash.com/)
-* [Learning Lodash 4 Tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3OL-PKT5FvIBdXVazTNTl-_)
-* [Javascript Functional Programming](https://www.youtube.com/watch?v=6NPfQJJEySY)
+* [Lodash Documentation](https://lodash.com/){:target="_blank"}
+* [Learning Lodash 4 Tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3OL-PKT5FvIBdXVazTNTl-_){:target="_blank"}
+* [Javascript Functional Programming](https://www.youtube.com/watch?v=6NPfQJJEySY){:target="_blank"}
 
 ## Evaluation:
 

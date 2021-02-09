@@ -24,11 +24,11 @@ A developer who is able to effectively use VueJS to build immersive front-end ap
 
 ## Suggested Learning:
 
-* [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
-* [VueJS Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
-* [VueJS Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
-* [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
-* [VueJS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
+* [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3){:target="_blank"}
+* [VueJS Fundamentals](https://vueschool.io/courses/vuejs-fundamentals){:target="_blank"}
+* [VueJS Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals){:target="_blank"}
+* [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone){:target="_blank"}
+* [VueJS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U){:target="_blank"}
 
 ## Evaluation:
 

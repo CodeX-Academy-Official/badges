@@ -13,8 +13,8 @@ A developer who can work with the Serverless framework to build and trigger clou
 
 ## Suggested Learning Resources
 
-* [Serverless Docs](https://www.serverless.com/framework/docs/)
-* [Invoking AWS Lambda Functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html)
+* [Serverless Docs](https://www.serverless.com/framework/docs/){:target="_blank"}
+* [Invoking AWS Lambda Functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html){:target="_blank"}
 
 ## Evaluation:
 

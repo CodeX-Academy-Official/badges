@@ -17,16 +17,16 @@ A software developer who can interact with simple REST API's.
 
 ## Suggested Learning:
 
-* [W3 Schools Intro](https://www.w3schools.com/jquery/jquery_ajax_intro.asp)
-* [AJAX Tutorial](https://www.youtube.com/playlist?list=PL0eyrZgxdwhyeIDc3EA4XGsI9HoWLc6nF)
-* [Fetch API Getting Started](https://www.youtube.com/watch?v=uBR2wAvGces)
-* [FreeCodeCamp's APIs for Beginners](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
-* [SkillShare's Understanding APIs and RESTful APIs Crash Course](https://www.skillshare.com/classes/Understanding-APIs-and-RESTful-APIs-Crash-Course/1452001627?via=browse-rating-api-layout-grid)
-* [JQuery's AJAX Documentation](https://api.jquery.com/category/ajax/)
+* [W3 Schools Intro](https://www.w3schools.com/jquery/jquery_ajax_intro.asp){:target="_blank"}
+* [AJAX Tutorial](https://www.youtube.com/playlist?list=PL0eyrZgxdwhyeIDc3EA4XGsI9HoWLc6nF){:target="_blank"}
+* [Fetch API Getting Started](https://www.youtube.com/watch?v=uBR2wAvGces){:target="_blank"}
+* [FreeCodeCamp's APIs for Beginners](https://www.freecodecamp.org/news/apis-for-beginners-full-course/){:target="_blank"}
+* [SkillShare's Understanding APIs and RESTful APIs Crash Course](https://www.skillshare.com/classes/Understanding-APIs-and-RESTful-APIs-Crash-Course/1452001627?via=browse-rating-api-layout-grid){:target="_blank"}
+* [JQuery's AJAX Documentation](https://api.jquery.com/category/ajax/){:target="_blank"}
 
 ## Suggested API's for Testing
-* [Open Weather API](https://openweathermap.org/api)
-* [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+* [Open Weather API](https://openweathermap.org/api){:target="_blank"}
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/){:target="_blank"}
 
 ## Evaluation:
 

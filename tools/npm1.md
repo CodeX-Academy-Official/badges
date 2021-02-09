@@ -18,9 +18,9 @@ A developer who can use npm and its packages to enhance javascript-based applica
 
 ## Suggested Learning:
 
-* [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/)
-* [npm for Beginners](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/)
-* [Using npm to manage frontend dependencies](https://www.agiliq.com/blog/2019/01/using-npm-to-manage-frontend-libraries/)
+* [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/){:target="_blank"}
+* [npm for Beginners](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/){:target="_blank"}
+* [Using npm to manage frontend dependencies](https://www.agiliq.com/blog/2019/01/using-npm-to-manage-frontend-libraries/){:target="_blank"}
 
 ## Evaluation:
 

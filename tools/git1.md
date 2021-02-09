@@ -4,7 +4,7 @@ Someone who is learning how to use the Git source control system.
 
 ## Master the following skills:
 
-* Install [Git SCM](https://git-scm.com/downloads) to your computer.
+* Install [Git SCM](https://git-scm.com/downloads){:target="_blank"} to your computer.
 
 ### Using the command line only:
 
@@ -16,9 +16,9 @@ Someone who is learning how to use the Git source control system.
 * Pulling from remote
 
 ## Suggested Learning: 
-* [Udemy's Getting Started With Git](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LcWa2fBnTmPI5KyCoiS5ug)
-* [Udemy's Command Line Essentials](https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-uvcZ4.yYfUqcznE3sExmVg)
-* [Udemy's Git 5-Day Challenge](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-C4A7acx79m1Ej_KjcGpvag)
+* [Udemy's Getting Started With Git](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LcWa2fBnTmPI5KyCoiS5ug){:target="_blank"}
+* [Udemy's Command Line Essentials](https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-uvcZ4.yYfUqcznE3sExmVg){:target="_blank"}
+* [Udemy's Git 5-Day Challenge](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-C4A7acx79m1Ej_KjcGpvag){:target="_blank"}
 
 ## Evaluation:
 

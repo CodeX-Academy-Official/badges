@@ -12,8 +12,8 @@ A developer who can write basic JavaScript code to solve simple problems.
 
 ## Suggested Learning:
 
-* [Watch and Code - Practical Javascript](https://watchandcode.com/)
-* [The Odin Project - Web Development 101](https://www.theodinproject.com/)
+* [Watch and Code - Practical Javascript](https://watchandcode.com/){:target="_blank"}
+* [The Odin Project - Web Development 101](https://www.theodinproject.com/){:target="_blank"}
 
 ## Evaluation:
 

@@ -13,13 +13,13 @@ A developer who can deploy full-stack web applications to Microsoft Azure.
 
 ## Suggested Learning:
 
-* [Explore Microsoft Azure Cloud Concepts](https://docs.microsoft.com/en-us/learn/paths/explore-microsoft-azure-cloud-concepts/)
-* [Microsoft Azure Concepts](https://www.udemy.com/course/linux-academy-microsoft-azure-concepts/)
-* [Create a 3-Tier Application Using Azure Virtual Machines](https://www.udemy.com/course/free-azure/)
-* [Create a Web App](https://azure.microsoft.com/en-us/get-started/web-app/)
-* [Microsoft Azure Web App Tutorial | Learn Microsoft Azure Web App](https://www.youtube.com/watch?v=dY4XrkcpQjE)
-* [Azure Web App Development Tutorial for Beginners](https://www.youtube.com/watch?v=4BwyqmRTrx8&list=PLGjZwEtPN7j_ceFeiDRjHpeEY7uK4JUkh)
-* [Azure Identity & Access Management Tutorials](https://www.youtube.com/watch?v=Ma7VAQE7ga4&list=PLGjZwEtPN7j-c0vzM9RPTGShYi8exVFZv)
+* [Explore Microsoft Azure Cloud Concepts](https://docs.microsoft.com/en-us/learn/paths/explore-microsoft-azure-cloud-concepts/){:target="_blank"}
+* [Microsoft Azure Concepts](https://www.udemy.com/course/linux-academy-microsoft-azure-concepts/){:target="_blank"}
+* [Create a 3-Tier Application Using Azure Virtual Machines](https://www.udemy.com/course/free-azure/){:target="_blank"}
+* [Create a Web App](https://azure.microsoft.com/en-us/get-started/web-app/){:target="_blank"}
+* [Microsoft Azure Web App Tutorial | Learn Microsoft Azure Web App](https://www.youtube.com/watch?v=dY4XrkcpQjE){:target="_blank"}
+* [Azure Web App Development Tutorial for Beginners](https://www.youtube.com/watch?v=4BwyqmRTrx8&list=PLGjZwEtPN7j_ceFeiDRjHpeEY7uK4JUkh){:target="_blank"}
+* [Azure Identity & Access Management Tutorials](https://www.youtube.com/watch?v=Ma7VAQE7ga4&list=PLGjZwEtPN7j-c0vzM9RPTGShYi8exVFZv){:target="_blank"}
 
 ## Evaluation:
 

@@ -33,12 +33,12 @@ Create useful applications, being able to...
 
 ## Suggested Learning:
 
-* [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) by Udemy
-* [Learn C#](https://dotnet.microsoft.com/learn/csharp) by Microsoft
-* [C# Tutorial](https://www.w3schools.com/cs/) by W3 Schools
-* [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners?l=Lvld4EQIC_2706218949) by Channel 9
-* [Basics of LINQ with C# for Beginners](https://www.udemy.com/course/basics-of-linq-with-c-for-beginners/) by Udemy
-* [Getting Started with C#](https://www.youtube.com/watch?v=h7aIzCkmbl8&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP)
+* [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/){:target="_blank"} by Udemy
+* [Learn C#](https://dotnet.microsoft.com/learn/csharp){:target="_blank"} by Microsoft
+* [C# Tutorial](https://www.w3schools.com/cs/){:target="_blank"} by W3 Schools
+* [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners?l=Lvld4EQIC_2706218949){:target="_blank"} by Channel 9
+* [Basics of LINQ with C# for Beginners](https://www.udemy.com/course/basics-of-linq-with-c-for-beginners/){:target="_blank"} by Udemy
+* [Getting Started with C#](https://www.youtube.com/watch?v=h7aIzCkmbl8&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP){:target="_blank"}
 
 ## Evaluation:
 

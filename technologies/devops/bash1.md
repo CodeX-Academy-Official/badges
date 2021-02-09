@@ -10,10 +10,10 @@ A developer who can write automation shell scripts using Bash
 
 ## Suggested Learning:
 
-* [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
-* [The Bash Guide](https://guide.bash.academy/)
-* [Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/) by Udemy
-* [Introduction to Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/)
+* [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners){:target="_blank"}
+* [The Bash Guide](https://guide.bash.academy/){:target="_blank"}
+* [Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/){:target="_blank"} by Udemy
+* [Introduction to Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/){:target="_blank"}
 
 ## Evaluation:
 

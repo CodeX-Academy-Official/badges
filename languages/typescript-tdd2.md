@@ -8,11 +8,11 @@ A developer who is proficient in writing TypeScript production code following TD
 
 ## Suggested Learning:
 
-* [Jest Docs on Mocks](https://jestjs.io/docs/en/mock-functions)
-* [Mocking Async Code](https://www.youtube.com/watch?v=4Fl5GH4eYZ8)
-* [Mock Functions](https://www.youtube.com/watch?v=iN86lpkRcDk)
-* [Manual Mocks](https://www.youtube.com/watch?v=9EV9gtnt-go)
-* [Testiong with Jest: From Zero to Hero](https://www.youtube.com/watch?v=NHMIn723hQY)
+* [Jest Docs on Mocks](https://jestjs.io/docs/en/mock-functions){:target="_blank"}
+* [Mocking Async Code](https://www.youtube.com/watch?v=4Fl5GH4eYZ8){:target="_blank"}
+* [Mock Functions](https://www.youtube.com/watch?v=iN86lpkRcDk){:target="_blank"}
+* [Manual Mocks](https://www.youtube.com/watch?v=9EV9gtnt-go){:target="_blank"}
+* [Testiong with Jest: From Zero to Hero](https://www.youtube.com/watch?v=NHMIn723hQY){:target="_blank"}
 
 ## Evaluation:
 

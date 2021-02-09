@@ -15,8 +15,8 @@ A software developer who can code independently using JQuery to build complex ap
 * Integrate 3rd party plugins to get functionality without having to create it
 
 ## Suggested Learning: 
-* [Udacity's Intro to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) 
-* [EdX's Intro to JQuery](https://www.edx.org/course/introduction-to-jquery)
+* [Udacity's Intro to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245){:target="_blank"}
+* [EdX's Intro to JQuery](https://www.edx.org/course/introduction-to-jquery){:target="_blank"}
 
 ## Evaluation:
 

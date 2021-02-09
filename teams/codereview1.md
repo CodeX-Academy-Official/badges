@@ -27,12 +27,12 @@ A developer who can effectively review and give feedback on code written by deve
 
 ## Suggested Learning:
 
-* [Code Review](https://web.mit.edu/6.005/www/fa15/classes/04-code-review/) by MIT
-* [Best Practices for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
-* [10 Tips for Effective Code Review](https://www.youtube.com/watch?v=fatTnX8_ZRk)
-* [Review Techniques](https://www.coursera.org/lecture/reviews-and-metrics-for-software-improvements/5-2-1-review-techniques-d2hGO)
-* [Five golden principles of a code review](https://medium.com/dev-bits/five-golden-principles-of-a-code-review-ecf7fd977dfd)
-* [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+* [Code Review](https://web.mit.edu/6.005/www/fa15/classes/04-code-review/){:target="_blank"} by MIT
+* [Best Practices for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/){:target="_blank"}
+* [10 Tips for Effective Code Review](https://www.youtube.com/watch?v=fatTnX8_ZRk){:target="_blank"}
+* [Review Techniques](https://www.coursera.org/lecture/reviews-and-metrics-for-software-improvements/5-2-1-review-techniques-d2hGO){:target="_blank"}
+* [Five golden principles of a code review](https://medium.com/dev-bits/five-golden-principles-of-a-code-review-ecf7fd977dfd){:target="_blank"}
+* [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f){:target="_blank"}
 
 ## Evaluation:
 

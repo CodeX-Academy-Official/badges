@@ -27,11 +27,11 @@ A developer capable of developing and maintaining basic structures in Python.
 
 ## Suggested Learning:
 
-* [Learn the basics](https://www.learnpython.org/)
-* [PyEnv](https://github.com/pyenv/pyenv#simple-python-version-management-pyenv)
-* [Functions](https://www.programiz.com/python-programming/function)
-* [Arguments](https://www.programiz.com/python-programming/function-argument)
-* [Date and Time](https://www.programiz.com/python-programming/datetime)
+* [Learn the basics](https://www.learnpython.org/){:target="_blank"}
+* [PyEnv](https://github.com/pyenv/pyenv#simple-python-version-management-pyenv){:target="_blank"}
+* [Functions](https://www.programiz.com/python-programming/function){:target="_blank"}
+* [Arguments](https://www.programiz.com/python-programming/function-argument){:target="_blank"}
+* [Date and Time](https://www.programiz.com/python-programming/datetime){:target="_blank"}
 
 ## Evaluation:
 

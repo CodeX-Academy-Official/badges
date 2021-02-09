@@ -9,7 +9,7 @@ A developer who is able to use SASS/SCSS variables and mix-ins effectively in a 
 
 ## Suggested Learning:
 
-* [Sass Documentation](https://sass-lang.com/)
+* [Sass Documentation](https://sass-lang.com/){:target="_blank"}
 
 ## Evaluation:
 

@@ -14,12 +14,12 @@ A developer who can build and manage full CI/CD pipelines.
 
 ## Suggested Learning:
 
-* [The CI/CD Process](https://www.coursera.org/lecture/uva-darden-continous-delivery-devops/the-ci-cd-process-QZG2b) by Coursera
-* [Intro to Devops](https://www.udacity.com/course/intro-to-devops--ud611) by Udacity
-* [CI/CD Pipeline - Devops Automation in 1 hr](https://www.udemy.com/course/ci-cd-pinepline-devops-automation-in-1-hr/) by Udemy
-* [AWS Devops CI/CD](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/) by Udemy
-* [Circle CI](https://circleci.com/)
-* [Github Actions](https://github.com/features/actions)
+* [The CI/CD Process](https://www.coursera.org/lecture/uva-darden-continous-delivery-devops/the-ci-cd-process-QZG2b){:target="_blank"} by Coursera
+* [Intro to Devops](https://www.udacity.com/course/intro-to-devops--ud611){:target="_blank"} by Udacity
+* [CI/CD Pipeline - Devops Automation in 1 hr](https://www.udemy.com/course/ci-cd-pinepline-devops-automation-in-1-hr/){:target="_blank"} by Udemy
+* [AWS Devops CI/CD](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/){:target="_blank"} by Udemy
+* [Circle CI](https://circleci.com/){:target="_blank"}
+* [Github Actions](https://github.com/features/actions){:target="_blank"}
 
 ## Evaluation:
 

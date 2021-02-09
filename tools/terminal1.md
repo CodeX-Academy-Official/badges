@@ -16,9 +16,9 @@ Someone who can use the basic features of a bash terminal.
 
 ## Suggested Learning:
 
-* [Beginner's Tutorial](https://www.davidbaumgold.com/tutorials/command-line/)
-* [DataCamp's Intro to Shell](https://www.datacamp.com/courses/introduction-to-shell)
-* [Udemy's Learn The Linux Command Line](https://www.udemy.com/course/command-line/)
+* [Beginner's Tutorial](https://www.davidbaumgold.com/tutorials/command-line/){:target="_blank"}
+* [DataCamp's Intro to Shell](https://www.datacamp.com/courses/introduction-to-shell){:target="_blank"}
+* [Udemy's Learn The Linux Command Line](https://www.udemy.com/course/command-line/){:target="_blank"}
 
 ## Evaluation:
 

@@ -1,4 +1,4 @@
-# Auth Apprentice 5
+{:target="_blank"}# Auth Apprentice 5
 
 A developer who can secure front-end and back-end systems using oAuth and OIDC.
 
@@ -19,9 +19,9 @@ A developer who can secure front-end and back-end systems using oAuth and OIDC.
 
 ## Suggested Learning:
 
-* [OpenID Connect Docs](https://openid.net/connect/)
-* [JWT Docs](https://jwt.io/)
-* [An introduction to OpenID Connect in ASP.NET Core](https://andrewlock.net/an-introduction-to-openid-connect-in-asp-net-core/)
+* [OpenID Connect Docs](https://openid.net/connect/){:target="_blank"}
+* [JWT Docs](https://jwt.io/){:target="_blank"}
+* [An introduction to OpenID Connect in ASP.NET Core](https://andrewlock.net/an-introduction-to-openid-connect-in-asp-net-core/){:target="_blank"}
 
 
 ## Evaluation:

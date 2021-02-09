@@ -11,9 +11,9 @@ A developer who is able to work with Babel to transpile javascript code to stand
 
 ## Suggested Learning:
 
-* [A Short and Simple Guide to Babel](https://flaviocopes.com/babel/)
-* [Getting Started with Babel](https://www.youtube.com/watch?v=ahh65GQz74g)
-* [Babel Documentation](https://babeljs.io/)
+* [A Short and Simple Guide to Babel](https://flaviocopes.com/babel/){:target="_blank"}
+* [Getting Started with Babel](https://www.youtube.com/watch?v=ahh65GQz74g){:target="_blank"}
+* [Babel Documentation](https://babeljs.io/){:target="_blank"}
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:

@@ -14,11 +14,11 @@ A developer who can proficiently implement the named design pattern as well as r
 
 ## Suggested Learning:
 
-* [Design Pattern Guru](https://refactoring.guru/design-patterns)
-* [Do Factory](https://www.dofactory.com/)
-* [Design Patterns Course](https://www.coursera.org/learn/design-patterns) from Coursera
-* [TypeScript Design Patterns](https://www.udemy.com/course/typescript-design-patterns/)
-* [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+* [Design Pattern Guru](https://refactoring.guru/design-patterns){:target="_blank"}
+* [Do Factory](https://www.dofactory.com/){:target="_blank"}
+* [Design Patterns Course](https://www.coursera.org/learn/design-patterns){:target="_blank"} from Coursera
+* [TypeScript Design Patterns](https://www.udemy.com/course/typescript-design-patterns/){:target="_blank"}
+* [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc){:target="_blank"}
 
 ## Evaluation:
 

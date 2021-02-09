@@ -16,11 +16,11 @@ A developer who can develop software using reactive programming techniques and p
 
 ## Suggested Learning:
 
-* [ReactiveX Docs](http://reactivex.io/)
-* [Rx Tutorials](http://reactivex.io/tutorials.html)
-* [Programming Reactive Systems](https://www.edx.org/course/programming-reactive-systems)
-* [Streams & Reactive Programming](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/streams-and-reactive-programming/)
-* [Functional Reactive Programming](https://tgdwyer.github.io/functionalreactiveprogramming/)
+* [ReactiveX Docs](http://reactivex.io/){:target="_blank"}
+* [Rx Tutorials](http://reactivex.io/tutorials.html){:target="_blank"}
+* [Programming Reactive Systems](https://www.edx.org/course/programming-reactive-systems){:target="_blank"}
+* [Streams & Reactive Programming](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/streams-and-reactive-programming/){:target="_blank"}
+* [Functional Reactive Programming](https://tgdwyer.github.io/functionalreactiveprogramming/){:target="_blank"}
 
 ## Evaluation:
 
