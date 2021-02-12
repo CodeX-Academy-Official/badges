@@ -5,7 +5,7 @@ Able to efficiently use VS Code and related tools.
 ## Master the following skills:
 
 * Install VS Code to your computer.
-* Install and use extensions (like Prettier).
+* Install and use extensions (like Prettier or Power Mode).
 * Modify editor settings (globally and per language)
 * Use the embedded terminal
 * Open files and close tabs
