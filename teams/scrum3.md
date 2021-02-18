@@ -18,7 +18,7 @@ A developer who can work effectively as part of a Scrum development team.
 
 ## Suggested Learning:
 
-* [Make your agile team faster and more productive.](https://www.udemy.com/course/growing-agile-impediments/)
+* [Make your agile team faster and more productive.](https://www.udemy.com/course/growing-agile-impediments/){:target="_blank"}
 
 
 ## Evaluation:

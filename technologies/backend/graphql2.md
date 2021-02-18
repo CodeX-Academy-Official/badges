@@ -10,8 +10,8 @@ A developer who can implement GraphQL in a full-stack application.
 
 ## Suggested Learning:
 
-* [GraphQL JS docs](https://graphql.org/graphql-js/)
-* [Running an Express GraphQL Server](https://graphql.org/graphql-js/running-an-express-graphql-server/)
+* [GraphQL JS docs](https://graphql.org/graphql-js/){:target="_blank"}
+* [Running an Express GraphQL Server](https://graphql.org/graphql-js/running-an-express-graphql-server/){:target="_blank"}
 
 ## Evaluation:
 

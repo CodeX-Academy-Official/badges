@@ -20,11 +20,11 @@ A developer capable of developing and maintaining applications written in Python
 
 ## Suggested Learning:
 
-* [OOP](https://www.programiz.com/python-programming/object-oriented-programming)
-* [Lists](https://www.programiz.com/python-programming/list)
-* [Tuples](https://www.programiz.com/python-programming/tuple)
-* [Dictionary](https://www.programiz.com/python-programming/dictionary)
-* [Sets](https://www.programiz.com/python-programming/set )
+* [OOP](https://www.programiz.com/python-programming/object-oriented-programming){:target="_blank"}
+* [Lists](https://www.programiz.com/python-programming/list){:target="_blank"}
+* [Tuples](https://www.programiz.com/python-programming/tuple){:target="_blank"}
+* [Dictionary](https://www.programiz.com/python-programming/dictionary){:target="_blank"}
+* [Sets](https://www.programiz.com/python-programming/set ){:target="_blank"}
 
 ## Evaluation:
 

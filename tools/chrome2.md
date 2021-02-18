@@ -11,8 +11,8 @@ Able to use the basic functionality of the dev tools in Google Chrome.
 
 ## Suggested Learning:
 
-* [Google's Intro](https://developers.google.com/web/tools/chrome-devtools)
-* [Debugging Javascript](https://developers.google.com/web/tools/chrome-devtools/javascript)
+* [Google's Intro](https://developers.google.com/web/tools/chrome-devtools){:target="_blank"}
+* [Debugging Javascript](https://developers.google.com/web/tools/chrome-devtools/javascript){:target="_blank"}
 
 ## Evaluation:
 

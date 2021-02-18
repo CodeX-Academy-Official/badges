@@ -20,12 +20,12 @@ A developer who can build web-based applications using the Django framework.
 
 ## Suggested Learning:
 
-* [Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/)
-* [Class Based Views](https://www.django-rest-framework.org/tutorial/3-class-based-views/)
-* [Validators](ttps://www.django-rest-framework.org/api-guide/validators/)
-* [Pagination](https://www.django-rest-framework.org/api-guide/pagination/)
-* [Authentication](https://www.django-rest-framework.org/api-guide/authentication/)
-* [Permissions](https://www.django-rest-framework.org/api-guide/permissions/)
+* [Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/){:target="_blank"}
+* [Class Based Views](https://www.django-rest-framework.org/tutorial/3-class-based-views/){:target="_blank"}
+* [Validators](ttps://www.django-rest-framework.org/api-guide/validators/){:target="_blank"}
+* [Pagination](https://www.django-rest-framework.org/api-guide/pagination/){:target="_blank"}
+* [Authentication](https://www.django-rest-framework.org/api-guide/authentication/){:target="_blank"}
+* [Permissions](https://www.django-rest-framework.org/api-guide/permissions/){:target="_blank"}
 
 ## Evaluation:
 

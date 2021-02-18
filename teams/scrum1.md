@@ -29,7 +29,7 @@ A developer who can work efficiently in a Scrum context.
 
 ## Suggested Learning:
 
-* [ScrumStudy SFC Course](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
+* [ScrumStudy SFC Course](https://www.scrumstudy.com/certification/scrum-fundamentals-certified){:target="_blank"}
 
 ## Evaluation:
 

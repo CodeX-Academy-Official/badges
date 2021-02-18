@@ -10,9 +10,9 @@ Someone who is learning how to deploy applications to Heroku.
 * Viewing and understanding logs
 
 ## Suggested Learning:
-* [Deploying Applications with Heroku from Udacity](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
-* [Blog article/tutorial on how to deploy a static website to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
-* [How to run a simple html site on Heroku](https://medium.com/@winnieliang/how-to-run-a-simple-html-css-javascript-application-on-heroku-4e664c541b0b)
+* [Deploying Applications with Heroku from Udacity](https://www.udacity.com/course/deploying-applications-with-heroku--ud272){:target="_blank"}
+* [Blog article/tutorial on how to deploy a static website to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku){:target="_blank"}
+* [How to run a simple html site on Heroku](https://medium.com/@winnieliang/how-to-run-a-simple-html-css-javascript-application-on-heroku-4e664c541b0b){:target="_blank"}
 
 ## Evaluation:
 

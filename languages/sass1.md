@@ -13,9 +13,9 @@ A developer who is able to use SASS/SCSS effectively in a web application.
 
 ## Suggested Learning:
 
-* [Sass for Beginners](https://www.udemy.com/course/sass-for-the-beginners/)
-* [Give your CSS superpowers by learning Sass](https://www.freecodecamp.org/news/give-your-css-superpowers-by-learning-sass/)
-* [Sass Documentation](https://sass-lang.com/)
+* [Sass for Beginners](https://www.udemy.com/course/sass-for-the-beginners/){:target="_blank"}
+* [Give your CSS superpowers by learning Sass](https://www.freecodecamp.org/news/give-your-css-superpowers-by-learning-sass/){:target="_blank"}
+* [Sass Documentation](https://sass-lang.com/){:target="_blank"}
 
 ## Evaluation:
 

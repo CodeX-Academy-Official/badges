@@ -11,11 +11,11 @@ A developer who can engage other developers in productive pair programming.
 
 ## Suggested Learning:
 
-* [Introduction to Pair Programming](https://www.youtube.com/watch?v=rG_U12uqRhE) (WARNING: Extremely cheesy, but informative.)
-* [Pair Programming demystified!](https://blog.daftcode.pl/pair-programming-demystified-730c6f0b145b)
-* [Pair Programming](https://www.youtube.com/watch?v=QW8AkqJ1CAA)
-* [Pair programming Web Components with Paul Lewis](https://www.youtube.com/watch?v=XCti72iChzg)
-* [10 Ways to Kill Pair Programming](https://acklenavenue.com/blog/10-ways-to-kill-pair-programming)
+* [Introduction to Pair Programming](https://www.youtube.com/watch?v=rG_U12uqRhE){:target="_blank"} (WARNING: Extremely cheesy, but informative.)
+* [Pair Programming demystified!](https://blog.daftcode.pl/pair-programming-demystified-730c6f0b145b){:target="_blank"}
+* [Pair Programming](https://www.youtube.com/watch?v=QW8AkqJ1CAA){:target="_blank"}
+* [Pair programming Web Components with Paul Lewis](https://www.youtube.com/watch?v=XCti72iChzg){:target="_blank"}
+* [10 Ways to Kill Pair Programming](https://acklenavenue.com/blog/10-ways-to-kill-pair-programming){:target="_blank"}
 
 ## Evaluation:
 

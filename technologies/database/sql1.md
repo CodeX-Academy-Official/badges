@@ -14,7 +14,7 @@ Someone who is learning how to use relational databases.
 
 ## Suggested Learning:
 
-* [Code Academy SQL](https://www.codecademy.com/learn/learn-sql)
+* [Code Academy SQL](https://www.codecademy.com/learn/learn-sql){:target="_blank"}
 
 ## Evaluation:
 

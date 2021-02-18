@@ -13,7 +13,7 @@ A user of Postman who is able to use its features to access API's using HTTP req
 
 ## Suggested Learning:
 
-* [Postman's Learning Center](https://learning.getpostman.com/)
+* [Postman's Learning Center](https://learning.getpostman.com/){:target="_blank"}
 
 ## Evaluation:
 

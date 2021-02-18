@@ -13,9 +13,9 @@ A developer who can expertly use VueJS to build stateful, immersive front-end ap
 
 ## Suggested Learning:
 
-* [VueX Crash Course](https://www.youtube.com/watch?v=5lVQgZzLMHc)
-* [VueX For Everyone](https://vueschool.io/courses/vuex-for-everyone)
-* [Reusable Vue.JS Components with Slots](https://vueschool.io/courses/reusable-vuejs-components-with-slots)
+* [VueX Crash Course](https://www.youtube.com/watch?v=5lVQgZzLMHc){:target="_blank"}
+* [VueX For Everyone](https://vueschool.io/courses/vuex-for-everyone){:target="_blank"}
+* [Reusable Vue.JS Components with Slots](https://vueschool.io/courses/reusable-vuejs-components-with-slots){:target="_blank"}
 
 ## Evaluation:
 

@@ -20,11 +20,11 @@ A developer who can work effectively as part of a Scrum development team.
 
 ## Suggested Learning:
 
-* [Scrum.org](https://www.scrum.org/)
-* [Scrum Guides](https://www.scrumguides.org/scrum-guide.html)
-* [Mountain Goat Software Blog](https://www.mountaingoatsoftware.com/blog)
-* [Scrum: Learn the Scrum Basics in 1 Hour](https://www.udemy.com/course/scrum-learn-the-scrum-basics-in-1-hour-agile-scrum/)
-* [FREE 60 Minute Scrum Course](https://www.udemy.com/course/free-60-minute-scrum-course/)
+* [Scrum.org](https://www.scrum.org/){:target="_blank"}
+* [Scrum Guides](https://www.scrumguides.org/scrum-guide.html){:target="_blank"}
+* [Mountain Goat Software Blog](https://www.mountaingoatsoftware.com/blog){:target="_blank"}
+* [Scrum: Learn the Scrum Basics in 1 Hour](https://www.udemy.com/course/scrum-learn-the-scrum-basics-in-1-hour-agile-scrum/){:target="_blank"}
+* [FREE 60 Minute Scrum Course](https://www.udemy.com/course/free-60-minute-scrum-course/){:target="_blank"}
 
 ## Evaluation:
 

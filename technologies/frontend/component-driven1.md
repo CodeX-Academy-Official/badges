@@ -24,12 +24,12 @@ A developer who is able to build front-end applications starting with pure compo
 
 ## Suggested Learning:
 
-* [Component-Driven Development and Visual Test Coverage](https://www.youtube.com/watch?reload=9&v=UGnJ820L8-E)
-* [Storybook Docs](https://storybook.js.org/)
-* [Storybook Driven Development](https://medium.com/nulogy/storybook-driven-development-a3c517276c07)
-* [Introduction to Storybook for React](https://storybook.js.org/docs/react/get-started/introduction)
-* [Storybook and Webpack](https://storybook.js.org/docs/react/configure/webpack)
-* [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+* [Component-Driven Development and Visual Test Coverage](https://www.youtube.com/watch?reload=9&v=UGnJ820L8-E){:target="_blank"}
+* [Storybook Docs](https://storybook.js.org/){:target="_blank"}
+* [Storybook Driven Development](https://medium.com/nulogy/storybook-driven-development-a3c517276c07){:target="_blank"}
+* [Introduction to Storybook for React](https://storybook.js.org/docs/react/get-started/introduction){:target="_blank"}
+* [Storybook and Webpack](https://storybook.js.org/docs/react/configure/webpack){:target="_blank"}
+* [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/){:target="_blank"}
 
 ## Evaluation:
 

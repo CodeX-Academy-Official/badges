@@ -15,10 +15,10 @@ Able to develop Javascript code using various forms of testing.
 * Can write and run an integration test
 
 ## Suggested Learning: 
-* [Code Academy JS Unit Testing](https://www.codecademy.com/learn/learn-javascript-unit-testing)
-* [Udacity JS Testing](https://www.udacity.com/course/javascript-testing--ud549)
-* [Fun Fun Function - Unit Testing](https://www.youtube.com/watch?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr&v=Eu35xM76kKY&feature=emb_title)
-* [Exercism](https://exercism.io/) - For some practice
+* [Code Academy JS Unit Testing](https://www.codecademy.com/learn/learn-javascript-unit-testing){:target="_blank"}
+* [Udacity JS Testing](https://www.udacity.com/course/javascript-testing--ud549){:target="_blank"}
+* [Fun Fun Function - Unit Testing](https://www.youtube.com/watch?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr&v=Eu35xM76kKY&feature=emb_title){:target="_blank"}
+* [Exercism](https://exercism.io/){:target="_blank"} - For some practice
 
 ## Evaluation:
 

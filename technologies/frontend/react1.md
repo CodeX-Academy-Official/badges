@@ -26,10 +26,10 @@ A developer who is able to effectively use ReactJS to build immersive front-end 
 
 ## Suggested Learning:
 
-* [Learn React for Free](https://scrimba.com/g/glearnreact)
-* [React Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0)
-* [React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/)
-* [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs)
+* [Learn React for Free](https://scrimba.com/g/glearnreact){:target="_blank"}
+* [React Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0){:target="_blank"}
+* [React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/){:target="_blank"}
+* [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs){:target="_blank"}
 
 ## Evaluation:
 

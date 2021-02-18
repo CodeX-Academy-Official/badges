@@ -19,9 +19,9 @@ A software developer who is able to use Bootstrap to simplify use of CSS in a we
   * Spinners
   
 ## Suggested Learning:
-* [Learn Bootstrap 4](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/)
-* [FreeCodeCamp's Tutorial](https://www.freecodecamp.org/news/the-best-bootstrap-examples/)
-* [Bootstrap's Documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [Learn Bootstrap 4](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/){:target="_blank"}
+* [FreeCodeCamp's Tutorial](https://www.freecodecamp.org/news/the-best-bootstrap-examples/){:target="_blank"}
+* [Bootstrap's Documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/){:target="_blank"}
 
 ## Evaluation:
 

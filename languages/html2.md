@@ -29,10 +29,10 @@ Master the following areas of CSS:
 Able to build a complex and interactive page using HTML5 and CSS3.
 
 ## Suggested Learning: 
-* [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
-* [HTML Dog's Tutorial](https://www.htmldog.com/guides/css/intermediate/) - Intermediate
-* [The Odin Project](https://www.theodinproject.com/) - Web Development 101 and HTML5 and CSS3
-* [W3C HTML5 Tutorial](http://www.w3schools.com/html/)
+* [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/){:target="_blank"}
+* [HTML Dog's Tutorial](https://www.htmldog.com/guides/css/intermediate/){:target="_blank"} - Intermediate
+* [The Odin Project](https://www.theodinproject.com/){:target="_blank"} - Web Development 101 and HTML5 and CSS3
+* [W3C HTML5 Tutorial](http://www.w3schools.com/html/){:target="_blank"}
 
 ## Evaluation:
 

@@ -19,7 +19,7 @@ A developer who can code independently and build complex applications in the bro
 ## Suggested Learning:
 
 * Independent Research - Try googling "JavaScript" along with the competency listed above
-* [The Odin Project - Web Development 101](https://www.theodinproject.com/) - This is a large course. The comptetencies you are trying to learn are all there, but there is no single page or link that will guide you to each competency. You'll have to sift through the content (a very common activity for even the most experienced developers).
+* [The Odin Project - Web Development 101](https://www.theodinproject.com/){:target="_blank"} - This is a large course. The comptetencies you are trying to learn are all there, but there is no single page or link that will guide you to each competency. You'll have to sift through the content (a very common activity for even the most experienced developers).
 
 ## Evaluation:
 

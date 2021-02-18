@@ -14,9 +14,9 @@ A developer who can develop using containerization and Docker.
 
 ## Suggested Learning:
 
-* [Docker Docs](https://docs.docker.com/)
-* [Docker Essentials](https://www.udemy.com/course/docker-essentials/)
-* [Containerize your web development: How Docker is solving real world problems for web developers!](https://usersnap.com/blog/docker-for-web-developers/)
+* [Docker Docs](https://docs.docker.com/){:target="_blank"}
+* [Docker Essentials](https://www.udemy.com/course/docker-essentials/){:target="_blank"}
+* [Containerize your web development: How Docker is solving real world problems for web developers!](https://usersnap.com/blog/docker-for-web-developers/){:target="_blank"}
 
 ## Evaluation:
 

@@ -15,8 +15,8 @@ A developer who can implement backend systems using NoSQL databases and ASP.NET
 
 ## Suggested Learning:
 
-* [Build a Basic CRUD App with ASP.NET Core 3.0 and MongoDB](https://developer.okta.com/blog/2020/06/29/aspnet-core-mongodb)
-* [Build an ASP.NET app with the Mongo C# Driver](https://www.youtube.com/watch?v=gM4m5LizxL8)
+* [Build a Basic CRUD App with ASP.NET Core 3.0 and MongoDB](https://developer.okta.com/blog/2020/06/29/aspnet-core-mongodb){:target="_blank"}
+* [Build an ASP.NET app with the Mongo C# Driver](https://www.youtube.com/watch?v=gM4m5LizxL8){:target="_blank"}
 
 ## Evaluation:
 

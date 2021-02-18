@@ -1,6 +1,6 @@
 # Kata
 
-CodeX Academy expects its students to participate in Kata throughout their individual journeys to practice coding skills and solidify logical thinking and problem solving skills. In each level starting with Full-Stack Developer Apprentice 1, you will find a requirement to advance in kata training. We use [CodeWars](https://codewars.com) as a kata training platform. If you're just getting started, you should create an account and take the platform tutorials.
+CodeX Academy expects its students to participate in Kata throughout their individual journeys to practice coding skills and solidify logical thinking and problem solving skills. In each level starting with Full-Stack Developer Apprentice 1, you will find a requirement to advance in kata training. We use [CodeWars](https://codewars.com){:target="_blank"} as a kata training platform. If you're just getting started, you should create an account and take the platform tutorials.
 
 ## Requirements
 

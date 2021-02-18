@@ -17,8 +17,8 @@ A developer who can develop web applications with multiple online payment soluti
 
 ## Suggested Learning:
 
-* [Braintree Docs](https://developers.braintreepayments.com)
-* [Braintree GraphQL Docs](https://graphql.braintreepayments.com)
+* [Braintree Docs](https://developers.braintreepayments.com){:target="_blank"}
+* [Braintree GraphQL Docs](https://graphql.braintreepayments.com){:target="_blank"}
 
 ## Evaluation:
 

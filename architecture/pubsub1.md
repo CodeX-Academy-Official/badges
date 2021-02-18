@@ -11,10 +11,10 @@ A developer who can architect and develop solutions using the pub sub architectu
 
 ## Suggested Learning Resources
 
-* [Publish-Subscribe Architecture (Explained by Example)](https://www.youtube.com/watch?v=O1PgqUqZKTA)
-* [Message-Oriented Architectures with Cloud Pub/Sub](https://www.coursera.org/lecture/gcp-big-data-ml-fundamentals/message-oriented-architectures-with-cloud-pub-sub-gSSzv)
-* [How to Create Redis Pub/Sub](https://medium.com/@saurabh.singh0829/redis-pub-sub-implementation-f3208e4625c7)
-* [PubNub](https://www.pubnub.com/)
+* [Publish-Subscribe Architecture (Explained by Example)](https://www.youtube.com/watch?v=O1PgqUqZKTA){:target="_blank"}
+* [Message-Oriented Architectures with Cloud Pub/Sub](https://www.coursera.org/lecture/gcp-big-data-ml-fundamentals/message-oriented-architectures-with-cloud-pub-sub-gSSzv){:target="_blank"}
+* [How to Create Redis Pub/Sub](https://medium.com/@saurabh.singh0829/redis-pub-sub-implementation-f3208e4625c7){:target="_blank"}
+* [PubNub](https://www.pubnub.com/){:target="_blank"}
 
 ## Evaluation:
 

@@ -16,13 +16,13 @@ A developer who can utilize various popular .NET libraries to save time and exte
 
 ## Suggested Learning:
 
-* [Nuget Docs](https://www.nuget.org/)
-* [AutoMapper](https://github.com/AutoMapper/AutoMapper)
-* [Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks)
-* [FluentValidation](https://github.com/tallesl/net-libraries-that-make-your-life-easier#fluentvalidationb)
-* [JSON.NET](http://www.newtonsoft.com/json)
-* [RestSharp](http://restsharp.org/)
-* [NLog](https://github.com/NLog/NLog)
+* [Nuget Docs](https://www.nuget.org/){:target="_blank"}
+* [AutoMapper](https://github.com/AutoMapper/AutoMapper){:target="_blank"}
+* [Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks){:target="_blank"}
+* [FluentValidation](https://github.com/tallesl/net-libraries-that-make-your-life-easier#fluentvalidationb){:target="_blank"}
+* [JSON.NET](http://www.newtonsoft.com/json){:target="_blank"}
+* [RestSharp](http://restsharp.org/){:target="_blank"}
+* [NLog](https://github.com/NLog/NLog){:target="_blank"}
 
 ## Evaluation:
 
