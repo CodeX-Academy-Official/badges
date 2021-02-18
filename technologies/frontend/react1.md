@@ -30,6 +30,7 @@ A developer who is able to effectively use ReactJS to build immersive front-end 
 * [React Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0){:target="_blank"}
 * [React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/){:target="_blank"}
 * [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs){:target="_blank"}
+* [React for Begginers](https://reactforbeginners.com/){:target="_blank"}
 
 ## Evaluation:
 
