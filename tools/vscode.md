@@ -13,6 +13,7 @@ Able to efficiently use VS Code and related tools.
 
 ## Suggested Learning:
 
+* [VS Code for Beginners](https://youtu.be/0fROnrISdZU){:target="_blank"} by Byron Sommardahl at CodeX Academy
 * [freeCodeCamp.org Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo&ab_channel=freeCodeCamp.org){:target="_blank"}
   * Intro
   * Stable build vs Insider´s addition
