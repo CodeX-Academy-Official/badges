@@ -23,7 +23,7 @@ A developer who is proficient in writing production TypeScript code following TD
 
 * [TS-Jest](https://kulshekhar.github.io/ts-jest/){:target="_blank"} - a wrapper for Jest in TypeScript
 * [Bowling Kata (TypeScript)](https://www.youtube.com/watch?v=VKsvx0oidks&list=PL9YY6NVvPc5UwmZsuuSRUGh7ydiJ7ix4-&index=4&t=32s){:target="_blank"}
-* [Getting Started with Jest using TypeScript](https://egghead.io/lessons/typescript-getting-started-with-jest-using-typescript){:target="_blank"}
+* [Node, Typescript, Eslint + JEST  | Quick Setup ](https://youtu.be/pTdaeKSv49Y?list=PLJZ55yY08TNAtCdIWPApOGOjnmf8_d_jC){:target="_blank"}
 * [Demonstrating Test Driven Development in TypeScript](https://www.youtube.com/watch?v=_rLi95Q6hEI){:target="_blank"}
 * [Jest Documentation](https://jestjs.io/docs/en/getting-started#using-typescript){:target="_blank"}
 
