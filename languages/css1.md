@@ -21,6 +21,6 @@ A developer who can code independently and build simple and well-styled websites
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-1-mastery-evaluation?a1=CSS%20Apprentice%201&a2=O8cej6IdSwiTET8_a98TdA) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1?a1=CSS%20Apprentice%201&a2=O8cej6IdSwiTET8_a98TdA) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-1)
