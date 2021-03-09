@@ -4,21 +4,21 @@ A developer who strives to write code that adheres to the SOLID principles.
 
 ## Master the following skills:
 
-* List the SOLID principles from memory
-* Defend the need for code to be written in ways that adhere to the SOLID principles
-* Recognize a violation of the Liskov Substitution Principle in existing code
-* Write code that adheres to the Liskov Substitution Principle
+- List the SOLID principles from memory
+- Defend the need for code to be written in ways that adhere to the SOLID principles
+- Recognize a violation of the Liskov Substitution Principle in existing code
+- Write code that adheres to the Liskov Substitution Principle
 
 ## Suggested Learning:
 
-* [Liskov Substitution Principle](https://www.youtube.com/watch?v=dJQMqNOC4Pc&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=3){:target="_blank"}
-* [Liskov Substitution Principle Explained Practically in C#](https://www.youtube.com/watch?v=-3UXq2krhyw){:target="_blank"}
+- [Liskov Substitution Principle](https://www.youtube.com/watch?v=dJQMqNOC4Pc&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=3){:target="\_blank"}
+- [Liskov Substitution Principle Explained Practically in C#](https://www.youtube.com/watch?v=-3UXq2krhyw){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

@@ -4,22 +4,22 @@ A developer who can write automation shell scripts using Bash
 
 ## Master the following skills:
 
-* Understand the structure and syntax of Linux commands
-* Manage permissions for executable scripts
-* Write executable shell scripts to automate file system processes
+- Understand the structure and syntax of Linux commands
+- Manage permissions for executable scripts
+- Write executable shell scripts to automate file system processes
 
 ## Suggested Learning:
 
-* [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners){:target="_blank"}
-* [The Bash Guide](https://guide.bash.academy/){:target="_blank"}
-* [Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/){:target="_blank"} by Udemy
-* [Introduction to Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/){:target="_blank"}
+- [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners){:target="\_blank"}
+- [The Bash Guide](https://guide.bash.academy/){:target="\_blank"}
+- [Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/){:target="\_blank"} by Udemy
+- [Introduction to Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

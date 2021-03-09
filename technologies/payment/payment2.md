@@ -4,27 +4,27 @@ A developer who can develop web applications with multiple online payment soluti
 
 ## Master the following skills:
 
-* Compare/contrast services of Stripe and Braintree
-* Set up a payment processing sandbox for testing with Braintree
-* Obtain Braintree API Keys for testing
-* Integrate the Braintree SDK with an Express back-end
-* Accept online payments
-* Accept subscription payments
-* Display an order review screen that includes order items
-* Handle cancellations with a custom cancellation page
-* Handle successful payments with a custom success page
-* Test payments that result in scenarios like success, decline and "requires authentication"
+- Compare/contrast services of Stripe and Braintree
+- Set up a payment processing sandbox for testing with Braintree
+- Obtain Braintree API Keys for testing
+- Integrate the Braintree SDK with an Express back-end
+- Accept online payments
+- Accept subscription payments
+- Display an order review screen that includes order items
+- Handle cancellations with a custom cancellation page
+- Handle successful payments with a custom success page
+- Test payments that result in scenarios like success, decline and "requires authentication"
 
 ## Suggested Learning:
 
-* [Braintree Docs](https://developers.braintreepayments.com){:target="_blank"}
-* [Braintree GraphQL Docs](https://graphql.braintreepayments.com){:target="_blank"}
+- [Braintree Docs](https://developers.braintreepayments.com){:target="\_blank"}
+- [Braintree GraphQL Docs](https://graphql.braintreepayments.com){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

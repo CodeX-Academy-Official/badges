@@ -4,29 +4,30 @@ A software developer who is able to use advanced features of Material Design to 
 
 ## Master the following:
 
-* Implement horizontally scrolling grids.
-* Implement fluid grids.
-* Implement a layout with a persistent region (ex: menu drawer).
-* Can utilize the following components:
-  * Bottom Navigation
-  * App Bars
-  * Data Tables
-  * Dividers
-  * Menus
-  * Navigation Drawer
-  * Snackbars
-  * Tabs
-  
-  
+- Implement horizontally scrolling grids.
+- Implement fluid grids.
+- Implement a layout with a persistent region (ex: menu drawer).
+- Can utilize the following components:
+
+  - Bottom Navigation
+  - App Bars
+  - Data Tables
+  - Dividers
+  - Menus
+  - Navigation Drawer
+  - Snackbars
+  - Tabs
+
 ## Suggested Learning:
-* [Material Design Documentation](https://material.io/){:target="_blank"}
-* [Angular Material](https://material.angular.io/){:target="_blank"}
+
+- [Material Design Documentation](https://material.io/){:target="\_blank"}
+- [Angular Material](https://material.angular.io/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

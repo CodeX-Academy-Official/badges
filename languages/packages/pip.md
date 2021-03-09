@@ -4,25 +4,25 @@ A developer who can use pip and its packages to enhance python-based application
 
 ## Master the following skills:
 
-* Understand what pip is and does
-* Install PIP
-* Use pip to install global packages
-* Use pip to initialize a new application
-* Use pip to install missing packages for an existing project
-* Use pip to add packages to an application
-* Remove pip packages from an application
-* Update pip packages
-* Use pip packages in a python application
+- Understand what pip is and does
+- Install PIP
+- Use pip to install global packages
+- Use pip to initialize a new application
+- Use pip to install missing packages for an existing project
+- Use pip to add packages to an application
+- Remove pip packages from an application
+- Update pip packages
+- Use pip packages in a python application
 
 ## Suggested Learning:
 
-* [PIP](https://pip.pypa.io/en/stable/){:target="_blank"}
+- [PIP](https://pip.pypa.io/en/stable/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

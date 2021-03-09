@@ -4,23 +4,23 @@ Someone who is learning how to use relational databases.
 
 ## Master the following skills:
 
-* Using SQL queries/commands, able to...
-  * create tables
-  * add data to tables
-  * create relations between tables
-  * update and remove data using SQL
-  * query data using SQL
-  * utilize joins to query tables across multiple tables
+- Using SQL queries/commands, able to...
+  - create tables
+  - add data to tables
+  - create relations between tables
+  - update and remove data using SQL
+  - query data using SQL
+  - utilize joins to query tables across multiple tables
 
 ## Suggested Learning:
 
-* [Code Academy SQL](https://www.codecademy.com/learn/learn-sql){:target="_blank"}
+- [Code Academy SQL](https://www.codecademy.com/learn/learn-sql){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

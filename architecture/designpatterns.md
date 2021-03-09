@@ -6,25 +6,25 @@ A developer who can proficiently implement the named design pattern as well as r
 
 (regarding the design pattern identified in the badge name)
 
-* Compare/contrast this design pattern to other design patterns
-* Describe the design pattern to less experienced developers
-* Recognize situations where this design pattern is appropriate
-* Implement the design pattern correctly from memory
-* Code the design pattern using TDD (unit tests first) 
+- Compare/contrast this design pattern to other design patterns
+- Describe the design pattern to less experienced developers
+- Recognize situations where this design pattern is appropriate
+- Implement the design pattern correctly from memory
+- Code the design pattern using TDD (unit tests first)
 
 ## Suggested Learning:
 
-* [Design Pattern Guru](https://refactoring.guru/design-patterns){:target="_blank"}
-* [Do Factory](https://www.dofactory.com/){:target="_blank"}
-* [Design Patterns Course](https://www.coursera.org/learn/design-patterns){:target="_blank"} from Coursera
-* [TypeScript Design Patterns](https://www.udemy.com/course/typescript-design-patterns/){:target="_blank"}
-* [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc){:target="_blank"}
+- [Design Pattern Guru](https://refactoring.guru/design-patterns){:target="\_blank"}
+- [Do Factory](https://www.dofactory.com/){:target="\_blank"}
+- [Design Patterns Course](https://www.coursera.org/learn/design-patterns){:target="\_blank"} from Coursera
+- [TypeScript Design Patterns](https://www.udemy.com/course/typescript-design-patterns/){:target="\_blank"}
+- [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

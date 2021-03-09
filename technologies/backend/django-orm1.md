@@ -4,30 +4,29 @@ A developer who is able to use the Django ORM to run simple CRUD operations agai
 
 ## Master the following skills:
 
-* Configure Django ORM to connect to a database
-* Build model for use with Django ORM
-* Build migrations for model changes in Django ORM
-* Apply and revert migrations
-* Wrap sets of queries in a transaction for simple rollback on error
-* Query a database using Django ORM to perform:
-  * Simple Reads
-  * Queries with filters
-  * Joins
-  * Writes
-  * Deletes
-  * Updates
-* Use the data from the database to influence application output
-
+- Configure Django ORM to connect to a database
+- Build model for use with Django ORM
+- Build migrations for model changes in Django ORM
+- Apply and revert migrations
+- Wrap sets of queries in a transaction for simple rollback on error
+- Query a database using Django ORM to perform:
+  - Simple Reads
+  - Queries with filters
+  - Joins
+  - Writes
+  - Deletes
+  - Updates
+- Use the data from the database to influence application output
 
 ## Suggested Learning:
 
-* [Documentation](https://docs.djangoproject.com/en/3.1/topics/db/){:target="_blank"}
+- [Documentation](https://docs.djangoproject.com/en/3.1/topics/db/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
