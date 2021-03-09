@@ -8,6 +8,6 @@ Combine the knowledge from previous badges and deploy a functional browser appli
 
 ## Evaluation:
 
-Ask your mentor if you are ready for project evaluation. Then, click [here](https://calendly.com/codex-academy/project-evaluation?a1=eqrF8EpzSB6I1SvDAPxTpw) to request an evaluation.
+Ask your mentor if you are ready for project evaluation. Then, click [here](https://calendly.com/codex-evaluations/capstone-2?a1=eqrF8EpzSB6I1SvDAPxTpw&a2=Level%202) to request an evaluation.
 
 [.](level-2)
