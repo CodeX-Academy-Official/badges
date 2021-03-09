@@ -33,7 +33,7 @@ Able to efficiently use VS Code and related tools.
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/mastery-evaluation-first-steps?a1=VS%20Code%20Learner%201&a2=hpvFRz6yTtu2VvQPyA8LFg) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1-first-steps?a1=VS%20Code%20Learner%201&a2=hpvFRz6yTtu2VvQPyA8LFg) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-1)
 
