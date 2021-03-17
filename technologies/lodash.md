@@ -64,7 +64,7 @@ A developer who can expertly use Lodash to write functional javascript code.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-3-mastery-evaluation?a1=Lodash%20Developer%201&a2=ghf_sWV4RLC-_G16i-jY6g) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/3?a1=Lodash%20Developer%201&a2=ghf_sWV4RLC-_G16i-jY6g) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

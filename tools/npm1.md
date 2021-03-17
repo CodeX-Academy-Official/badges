@@ -26,7 +26,7 @@ A developer who can use npm and its packages to enhance javascript-based applica
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-3-mastery-evaluation?a1=NPM%20Power%20User%201&a2=cu12fxrOSs2N9nnck3A7JQ) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/3?a1=NPM%20Power%20User%201&a2=cu12fxrOSs2N9nnck3A7JQ) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

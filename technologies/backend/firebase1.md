@@ -19,7 +19,7 @@ A developer who is able to use Firebase to develop secure, data-driven web appli
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-3-mastery-evaluation?a1=Firebase%20Developer%201&a2=9x42ZE1TReGy7-go968UlA) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/3?a1=Firebase%20Developer%201&a2=9x42ZE1TReGy7-go968UlA) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

@@ -21,7 +21,7 @@ A developer who is able to effectively integrate and use Webpack in a web projec
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-3-mastery-evaluation?a1=Webpack%20Power%20User%201&a2=XxD-R6iMRS6hP4MqHIQHnQ) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/3?a1=Webpack%20Power%20User%201&a2=XxD-R6iMRS6hP4MqHIQHnQ) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
