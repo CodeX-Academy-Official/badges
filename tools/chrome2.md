@@ -18,7 +18,7 @@ Able to use the basic functionality of the dev tools in Google Chrome.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-2-mastery-evaluation?a1=Chrome%20Dev%20Tools%20Power%20User%201&a2=E_RKzv8nTVOybSTHaRjUmA) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/2?a1=Chrome%20Dev%20Tools%20Power%20User%201&a2=E_RKzv8nTVOybSTHaRjUmA) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
