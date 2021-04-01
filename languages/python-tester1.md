@@ -4,21 +4,21 @@ A developer who is able to write automated unit tests for simple Python function
 
 ## Master the following skills:
 
-* Write 20 unit tests 
-* Write 5 integration tests 
-* Utilize a mock correctly in a unit test
-* Understand how Test API Client works
+- Write 20 unit tests
+- Write 5 integration tests
+- Utilize a mock correctly in a unit test
+- Understand how Test API Client works
 
 ## Suggested Learning:
 
-* [Tests](https://docs.djangoproject.com/en/3.0/topics/testing/){:target="_blank"}
-* [Tests DRF](https://www.django-rest-framework.org/api-guide/testing/){:target="_blank"}
+- [Tests](https://docs.djangoproject.com/en/3.0/topics/testing/){:target="\_blank"}
+- [Tests DRF](https://www.django-rest-framework.org/api-guide/testing/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

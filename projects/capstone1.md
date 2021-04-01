@@ -12,6 +12,6 @@ If you need help thinking about what to build, you could check out [this list of
 
 ## Evaluation:
 
-Ask your mentor if you are ready for project evaluation. Then, click [here](https://calendly.com/codex-academy/project-evaluation?a1=AiwQow-qSKyuxASGZZIORA) to request an evaluation.
+Ask your mentor if you are ready for project evaluation. Then, click [here](https://calendly.com/codex-evaluations/capstone-1?a1=AiwQow-qSKyuxASGZZIORA&a2=Level%201) to request an evaluation.
 
 [.](level-1)

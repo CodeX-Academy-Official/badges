@@ -4,23 +4,23 @@ A developer who can work with the Serverless framework to build and trigger clou
 
 ## Master the following skills:
 
-* Build Lambda functions that are triggered by events in AWS like:
-  * Notification from SNS
-  * Queue Item from SQS
-  * Document upload to S3
-  * Time/date
-* Deploy Lambdas as part of a CI/CD pipeline
+- Build Lambda functions that are triggered by events in AWS like:
+  - Notification from SNS
+  - Queue Item from SQS
+  - Document upload to S3
+  - Time/date
+- Deploy Lambdas as part of a CI/CD pipeline
 
 ## Suggested Learning Resources
 
-* [Serverless Docs](https://www.serverless.com/framework/docs/){:target="_blank"}
-* [Invoking AWS Lambda Functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html){:target="_blank"}
+- [Serverless Docs](https://www.serverless.com/framework/docs/){:target="\_blank"}
+- [Invoking AWS Lambda Functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

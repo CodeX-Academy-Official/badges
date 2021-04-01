@@ -14,10 +14,10 @@ Able to use the basic functionality of the dev tools in Google Chrome.
 
 * [Udemy's Dev Tools Pro](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/){:target="_blank"}
 * [Google's Intro](https://developers.google.com/web/tools/chrome-devtools){:target="_blank"}
-* [How to Use the Timeline Tool](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool){:target="_blank"}
+* [Inspect Network Activity in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network){:target="_blank"}
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/mastery-evaluation-first-steps?a1=Chrome%20Dev%20Tools%20Learner%201&a2=CwCMwmY-RIOhHS-KOb12oA) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1-first-steps?a1=Chrome%20Dev%20Tools%20Learner%201&a2=CwCMwmY-RIOhHS-KOb12oA) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-1)

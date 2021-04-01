@@ -24,7 +24,7 @@ A software developer who is able to use Bootstrap to simplify use of CSS in a we
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-3-mastery-evaluation?a1=Bootstrap%20Developer%202&a2=rq4CyaJTTPiJWTCAc4wuQA) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/3?a1=Bootstrap%20Developer%202&a2=rq4CyaJTTPiJWTCAc4wuQA) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

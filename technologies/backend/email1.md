@@ -4,23 +4,23 @@ A developer who can implement systems that send emails
 
 ## Master the following skills:
 
-* Describe the systems that are involved in sending emails
-* Write code that sends email using an SMTP server
-* Write code that sends email using gmail
-* Write code that sends email using a mail service (SaaS)
+- Describe the systems that are involved in sending emails
+- Write code that sends email using an SMTP server
+- Write code that sends email using gmail
+- Write code that sends email using a mail service (SaaS)
 
 ## Suggested Learning:
 
-* [How Does Email Work](https://www.freecodecamp.org/news/how-does-email-work/){:target="_blank"}
-* [How Emails Works](https://www.youtube.com/watch?v=x28ciavQ4mI){:target="_blank"}
-* [Sending Email in Node.JS](https://www.w3schools.com/nodejs/nodejs_email.asp){:target="_blank"}
-* [Mailgun docs](https://www.mailgun.com/){:target="_blank"}
+- [How Does Email Work](https://www.freecodecamp.org/news/how-does-email-work/){:target="\_blank"}
+- [How Emails Works](https://www.youtube.com/watch?v=x28ciavQ4mI){:target="\_blank"}
+- [Sending Email in Node.JS](https://www.w3schools.com/nodejs/nodejs_email.asp){:target="\_blank"}
+- [Mailgun docs](https://www.mailgun.com/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

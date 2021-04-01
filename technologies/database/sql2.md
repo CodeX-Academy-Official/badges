@@ -4,29 +4,29 @@ Someone who is learning how to use relational databases.
 
 ## Master the following skills:
 
-* Demonstrate how to use primary keys
-* Demonstrate how to use foreign keys
-* Using SQL queries/commands, able to aggregate data using...
-  * group by
-  * count
-  * sum
-  * average
-  * max
-  * min
-* Apply indexes to improve query performance
-* Create and use stored procedures
-* Create and use stored functions
+- Demonstrate how to use primary keys
+- Demonstrate how to use foreign keys
+- Using SQL queries/commands, able to aggregate data using...
+  - group by
+  - count
+  - sum
+  - average
+  - max
+  - min
+- Apply indexes to improve query performance
+- Create and use stored procedures
+- Create and use stored functions
 
 ## Suggested Learning:
 
-* [Code Academy SQL](https://www.codecademy.com/learn/learn-sql){:target="_blank"}
-* [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql){:target="_blank"} by Khan Academy
+- [Code Academy SQL](https://www.codecademy.com/learn/learn-sql){:target="\_blank"}
+- [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql){:target="\_blank"} by Khan Academy
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

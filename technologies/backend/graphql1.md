@@ -4,26 +4,26 @@ A developer who can implement GraphQL in a front-end application.
 
 ## Master the following skills:
 
-* Compare/contrast GraphQL to REST
-* Write simple GraphQL queries to retrieve data
-* Implement GraphQL in a front-end to query and display data
+- Compare/contrast GraphQL to REST
+- Write simple GraphQL queries to retrieve data
+- Implement GraphQL in a front-end to query and display data
 
 ## Resources:
 
-* [List of open GraphQL servers](http://apis.guru/graphql-apis/){:target="_blank"}
+- [List of open GraphQL servers](http://apis.guru/graphql-apis/){:target="\_blank"}
 
 ## Suggested Learning:
 
-* [GraphQL docs](https://graphql.org/learn/){:target="_blank"}
-* [How to GraphQL](https://www.howtographql.com/){:target="_blank"}
-* [GraphQL - A Primer](https://www.udemy.com/course/graphql-a-primer/){:target="_blank"}
-* [GraphQL from Ground Up](https://www.udemy.com/course/graphql-from-ground-up/){:target="_blank"}
+- [GraphQL docs](https://graphql.org/learn/){:target="\_blank"}
+- [How to GraphQL](https://www.howtographql.com/){:target="\_blank"}
+- [GraphQL - A Primer](https://www.udemy.com/course/graphql-a-primer/){:target="\_blank"}
+- [GraphQL from Ground Up](https://www.udemy.com/course/graphql-from-ground-up/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

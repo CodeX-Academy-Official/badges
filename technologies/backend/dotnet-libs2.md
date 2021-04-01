@@ -4,28 +4,28 @@ A developer who can utilize various popular .NET libraries to save time and exte
 
 ## Master the following skills:
 
-* Can implement and utilize the following .NET libraries:
-  * Swashbuckle
-  * Polly
-  * MailKit
-  * SaasKit
-  * Hangfire
-  * CacheManager
+- Can implement and utilize the following .NET libraries:
+  - Swashbuckle
+  - Polly
+  - MailKit
+  - SaasKit
+  - Hangfire
+  - CacheManager
 
 ## Suggested Learning:
 
-* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore){:target="_blank"}
-* [Polly](https://github.com/App-vNext/Polly){:target="_blank"}
-* [MailKit](https://github.com/jstedfast/MailKit){:target="_blank"}
-* [SaasKit](https://github.com/saaskit/saaskit){:target="_blank"}
-* [Hangfire](http://hangfire.io/){:target="_blank"}
-* [CacheManager](https://github.com/MichaCo/CacheManager){:target="_blank"}
+- [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore){:target="\_blank"}
+- [Polly](https://github.com/App-vNext/Polly){:target="\_blank"}
+- [MailKit](https://github.com/jstedfast/MailKit){:target="\_blank"}
+- [SaasKit](https://github.com/saaskit/saaskit){:target="\_blank"}
+- [Hangfire](http://hangfire.io/){:target="\_blank"}
+- [CacheManager](https://github.com/MichaCo/CacheManager){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

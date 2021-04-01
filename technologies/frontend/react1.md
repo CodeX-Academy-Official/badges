@@ -30,12 +30,13 @@ A developer who is able to effectively use ReactJS to build immersive front-end 
 * [React Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0){:target="_blank"}
 * [React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/){:target="_blank"}
 * [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs){:target="_blank"}
+* [React for Begginers](https://reactforbeginners.com/){:target="_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-3-mastery-evaluation?a1=React%20Developer%201&a2=wa0Us0a_RSiW4ZvlbW6tRA) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/3?a1=React%20Developer%201&a2=wa0Us0a_RSiW4ZvlbW6tRA) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

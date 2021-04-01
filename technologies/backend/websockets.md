@@ -4,28 +4,29 @@ A developer who can implement WebSockets at a basic level and can assist in deci
 
 ## Master the following skills:
 
-* Describe how WebSockets work
-* List problems where WebSockets might be an appropriate solution.
-* Implement simple 2-way communication between front-end and back-end using WebSockets
+- Describe how WebSockets work
+- List problems where WebSockets might be an appropriate solution.
+- Implement simple 2-way communication between front-end and back-end using WebSockets
 
 ## Suggested Learning:
 
-* [What are WebSockets](https://www.youtube.com/watch?v=ZbrEztkwcw8){:target="_blank"}
-* [WebSockets Pros and Cons](https://www.youtube.com/watch?v=DFlgyrP5HMY){:target="_blank"}
+- [What are WebSockets](https://www.youtube.com/watch?v=ZbrEztkwcw8){:target="\_blank"}
+- [WebSockets Pros and Cons](https://www.youtube.com/watch?v=DFlgyrP5HMY){:target="\_blank"}
 
 Javascript/NodeJs:
-* [Using WebSockets with Node.Js](https://flaviocopes.com/node-websockets/){:target="_blank"}
-* [WebSockets in Node.js](https://masteringjs.io/tutorials/node/websockets){:target="_blank"}
+
+- [Using WebSockets with Node.Js](https://flaviocopes.com/node-websockets/){:target="\_blank"}
+- [WebSockets in Node.js](https://masteringjs.io/tutorials/node/websockets){:target="\_blank"}
 
 Python/Django:
-* [Getting Started with Django Channels](https://realpython.com/getting-started-with-django-channels/){:target="_blank"}
 
+- [Getting Started with Django Channels](https://realpython.com/getting-started-with-django-channels/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

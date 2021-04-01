@@ -4,31 +4,32 @@ A developer who can utilize various popular .NET libraries to save time and exte
 
 ## Master the following skills:
 
- Explain the utility of Nuget.
-* Add nuget packages to a project.
-* Can implement and utilize the following .NET libraries:
-  * AutoMapper
-  * Diagnostics.HealthChecks
-  * FluentValidation
-  * JSON.NET
-  * RestSharp
-  * NLog
+Explain the utility of Nuget.
+
+- Add nuget packages to a project.
+- Can implement and utilize the following .NET libraries:
+  - AutoMapper
+  - Diagnostics.HealthChecks
+  - FluentValidation
+  - JSON.NET
+  - RestSharp
+  - NLog
 
 ## Suggested Learning:
 
-* [Nuget Docs](https://www.nuget.org/){:target="_blank"}
-* [AutoMapper](https://github.com/AutoMapper/AutoMapper){:target="_blank"}
-* [Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks){:target="_blank"}
-* [FluentValidation](https://github.com/tallesl/net-libraries-that-make-your-life-easier#fluentvalidationb){:target="_blank"}
-* [JSON.NET](http://www.newtonsoft.com/json){:target="_blank"}
-* [RestSharp](http://restsharp.org/){:target="_blank"}
-* [NLog](https://github.com/NLog/NLog){:target="_blank"}
+- [Nuget Docs](https://www.nuget.org/){:target="\_blank"}
+- [AutoMapper](https://github.com/AutoMapper/AutoMapper){:target="\_blank"}
+- [Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks){:target="\_blank"}
+- [FluentValidation](https://github.com/tallesl/net-libraries-that-make-your-life-easier#fluentvalidationb){:target="\_blank"}
+- [JSON.NET](http://www.newtonsoft.com/json){:target="\_blank"}
+- [RestSharp](http://restsharp.org/){:target="\_blank"}
+- [NLog](https://github.com/NLog/NLog){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

@@ -4,30 +4,32 @@ A software developer who is able to use Material Design to simplify use of CSS i
 
 ## Master the following:
 
-* Implement Material Design in a React application using Material UI
-* Compare/contrast Material Design to other design systems like Bootstrap
-* Describe columns, gutters and margins.
-* Use the grid system to format content in rows and columns
-* Describe a layout with regions.
-* Understand Material Design's responsive breakpoints
-* Build mobile-first responsive web pages
-* Can utilize the following components:
-  * Text Fields
-  * Time Pickers
-  * Date Pickers
-  * Buttons
-  * Dialogs
-  * Lists
-  
+- Implement Material Design in a React application using Material UI
+- Compare/contrast Material Design to other design systems like Bootstrap
+- Describe columns, gutters and margins.
+- Use the grid system to format content in rows and columns
+- Describe a layout with regions.
+- Understand Material Design's responsive breakpoints
+- Build mobile-first responsive web pages
+- Can utilize the following components:
+
+  - Text Fields
+  - Time Pickers
+  - Date Pickers
+  - Buttons
+  - Dialogs
+  - Lists
+
 ## Suggested Learning:
-* [Material Design Documentation](https://material.io/){:target="_blank"}
-* [Material UI](https://material-ui.com/){:target="_blank"}
+
+- [Material Design Documentation](https://material.io/){:target="\_blank"}
+- [Material UI](https://material-ui.com/){:target="\_blank"}
 
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](http://evals.codex.academy) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

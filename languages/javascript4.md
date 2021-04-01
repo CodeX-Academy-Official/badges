@@ -26,6 +26,6 @@ A developer who can code independently and build complex applications in the bro
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-academy/level-3-mastery-evaluation?a1=JavaScript%20Developer%204&a2=j7PDl2gDRauSz4_KcE-M1Q) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/3?a1=JavaScript%20Developer%204&a2=j7PDl2gDRauSz4_KcE-M1Q) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-3)

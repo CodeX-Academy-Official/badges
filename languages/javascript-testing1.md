@@ -22,6 +22,6 @@ Able to develop Javascript code using various forms of testing.
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-3-mastery-evaluation?a1=JavaScript%20Tester%201&a2=iKAzbvaGQuOjxekhw0StGw) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-evaluations/3?a1=JavaScript%20Tester%201&a2=iKAzbvaGQuOjxekhw0StGw) to request an evaluation.
 
 [.](level-3)

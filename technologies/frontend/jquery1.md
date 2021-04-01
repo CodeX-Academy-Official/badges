@@ -20,6 +20,6 @@ A software developer who can code independently using JQuery to build complex ap
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-academy/level-2-mastery-evaluation?a1=jQuery%20Developer%201&a2=Cnd-oYKxS_qOH_ZFcpwXkA) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-evaluations/2?a1=jQuery%20Developer%201&a2=Cnd-oYKxS_qOH_ZFcpwXkA) to request an evaluation.
 
 [.](level-2)
