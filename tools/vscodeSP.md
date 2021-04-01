@@ -1,6 +1,6 @@
 # Aprendiz VS Code 1
 
-Capaz de usar eficientemente VS Code y herramientas relacionadas.
+Ser capaz de usar eficientemente VS Code y herramientas relacionadas.
 
 ## Domina las siguientes habilidades
 
