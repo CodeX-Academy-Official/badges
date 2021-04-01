@@ -14,7 +14,8 @@ Able to use the basic functionality of the dev tools in Google Chrome.
 
 * [Udemy's Dev Tools Pro](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/){:target="_blank"}
 * [Google's Intro](https://developers.google.com/web/tools/chrome-devtools){:target="_blank"}
-* [Inspect Network Activity in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network){:target="_blank"}
+* [Inspect Network Activity in Chrome DevTools (Lecture)](https://developers.google.com/web/tools/chrome-devtools/network){:target="_blank"}
+* [Inspect Network Activity in Chrome DevTools (Video)](https://www.youtube.com/watch?v=e1gAyQuIFQo){:target="_blank"}
 
 ## Evaluation:
 
