@@ -12,9 +12,9 @@ A developer who can write basic JavaScript code to solve simple problems.
 
 ## Suggested Learning:
 
+* [Learn JavaScript - Full Course](https://youtu.be/PkZNo7MFNFg)
 * [Watch and Code - Practical Javascript](https://watchandcode.com/){:target="_blank"}
 * [The Odin Project - Web Development 101](https://www.theodinproject.com/){:target="_blank"}
-* [Learn JavaScript - Full Course](https://youtu.be/PkZNo7MFNFg)
 
 ## Evaluation:
 
