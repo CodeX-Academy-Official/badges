@@ -4,8 +4,9 @@ Someone who can use the basic features of a bash terminal.
 
 ## Master the following skills:
 
-* Open a bash terminal
+* Open a bash terminal (Windows users: We suggest you to use [Git Bash](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/){:target="_blank"})
 * Navigate a folder structure (opening a folder, going back one folder level, going to home)
+* List all folders and files in a directory
 * Make a folder
 * Create a file from command-line
 * Rename a file
