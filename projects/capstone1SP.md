@@ -18,10 +18,12 @@ Si necesitas ayuda pensando en que podrías desarrollar, aquí puedes ver una li
 
 * Lista de pendientes (To Do): Desarrollar una aplicación que te permita crear una lista de pendientes, agregar nuevos pendientes, eliminar y modificar pendientes. También debe ser capaz de registrar un pendiente como realizado. [Ejemplo](https://codepen.io/JohnPaulFich/full/MXmzzM){:target="_blank"}
 
-* Trivia: Crear un juego de trivia dónde tendrás distintos tipos de preguntas con sus respectivas posibles respuestas. Debe contar con sistema de puntaje y con pantalla de inicio y final del juego. [Ejemplo](https://codepen.io/SitePoint/full/GmPjjL)
+* Trivia: Crear un juego de trivia dónde tendrás distintos tipos de preguntas con sus respectivas posibles respuestas. Debe contar con sistema de puntaje y con pantalla de inicio y final del juego. [Ejemplo](https://codepen.io/SitePoint/full/GmPjjL){:target="_blank"}
 
 * Reloj Pomodoro: Crear un [reloj pomodoro](https://blog.trello.com/es/tecnica-pomodoro){:target="_blank"} dónde el usuario podrá iniciar, pausar, parar y resetear el contador. También debe poder establecer la cantidad de minutos que deben durar las sesiones de enfoque y las sesiones de descanso.
-Este proyecto puede ser combinado con el proyecto Lista de Pendientes. Combinados serán una gran ayuda para tu gestión de tiempo. [Ejemplo](https://pomofocus.io/)
+Este proyecto puede ser combinado con el proyecto Lista de Pendientes. Combinados serán una gran ayuda para tu gestión de tiempo. [Ejemplo](https://pomofocus.io/){:target="_blank"}
+
+* Ahorcado: Desarrollar un juego de ahorcado dónde el jugador deberá adivinar la palabra para poder salvar a una persona. Debe contar con varias palabras elegidas al azar y también una cuenta regresiva de tiempo que se reinicie cada vez que tenga una letra correcta. [Ejemplo](https://goodatcode.github.io/javascripthangman/){:target="_blank"}
 
 ## Evaluación
 
