@@ -26,6 +26,7 @@ Able to efficiently use VS Code and related tools.
   * Extensions and Themes
   * Built in Terminal
 * [Microsoft's Getting Started with VS Code](https://code.visualstudio.com/docs/introvideos/basics){:target="_blank"}
+* [VS Code Documentation on Settings](https://code.visualstudio.com/docs/getstarted/settings){:target="_blank"}
 
 ## Suggested Excercies:
 

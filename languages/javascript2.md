@@ -1,4 +1,4 @@
-# JavaScript Apprentice 2
+# JavaScript Developer 2
 
 A developer who can code independently and build simple applications using JavaScript in the browser.
 
@@ -8,13 +8,17 @@ A developer who can code independently and build simple applications using JavaS
 * Loops
 * Control Structures
 * Value vs reference
-* Browser DOM (select element, change contents, add event listeners)
+* Browser DOM (select element, change contents and styles, add event listeners)
 * Adheres to popular conventions for indentation
 
 ## Suggested Learning:
 
 * [Watch and Code - Practical Javascript](https://watchandcode.com/){:target="_blank"}
 * [The Odin Project - Web Development 101](https://www.theodinproject.com/){:target="_blank"}
+* Guides
+  * [Control Structure](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Control_flow_and_error_handling){:target="_blank"}
+  * [Loops](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Loops_and_iteration){:target="_blank"}
+  * [Comparisons](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators){:target="_blank"}
 
 ## Evaluation:
 

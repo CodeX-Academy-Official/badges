@@ -7,11 +7,11 @@ A developer who can code independently and build simple and well-structured webs
 * Understand basic document structure
 * Understand how HTML tags control page layout and output
 * Understand common tag attributes: IDs, Classes, Styles
-* Can utilize structural tags: body, header, footer, anchors, divisions
+* Can utilize structural tags: body, header, footer, divisions
 * Can utilize typography related tags: Headers (h1, h2, etc), Paragraphs
 * Can utilize list tags: Unordered lists, Ordered lists
 * Can utilize navigation related tags: anchors, other local html files, external urls
-* Can construct a table using tags: header, footer, rows, columns
+* Can construct a table using tags: table header, table footer, rows, columns
 
 ## Suggested Learning: 
 * [What is HTML](https://www.colorcode.io/course/html-basics){:target="_blank"}

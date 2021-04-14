@@ -12,9 +12,14 @@ A developer who can write basic JavaScript code to solve simple problems.
 
 ## Suggested Learning:
 
+* [Learn JavaScript - Full Course](https://youtu.be/PkZNo7MFNFg)
 * [Watch and Code - Practical Javascript](https://watchandcode.com/){:target="_blank"}
 * [The Odin Project - Web Development 101](https://www.theodinproject.com/){:target="_blank"}
-* [Learn JavaScript - Full Course](https://youtu.be/PkZNo7MFNFg)
+* Guides:
+  *[Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations){:target="_blank"}
+  *[Arrays](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array){:target="_blank"}
+  *[Function](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Functions){:target="_blank"}
+  *[Objetc](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Working_with_Objects){:target="_blank"}
 
 ## Evaluation:
 
