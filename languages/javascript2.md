@@ -22,6 +22,6 @@ A developer who can code independently and build simple applications using JavaS
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1?a1=Javascript%20Developer%202&a2=UpjeWGtrTNe2gf1MrHK5QA) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1?a1=Javascript%20Developer%202&a2=UpjeWGtrTNe2gf1MrHK5QA){:target="_blank"} to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-1)

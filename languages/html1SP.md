@@ -15,13 +15,13 @@ Ser un desarrollador que puede generar código independiente y construir un siti
 
 ## Aprendizaje sugerido
 
-*[Udemy Curso de HTML (Español)](https://www.udemy.com/course/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html/){:target="_blank"}
-*[Udemy Introducción a HTML (Español)](https://www.udemy.com/course/introduccion-a-html/){:target="_blank"}
-*[What is HTML (Inglés)](https://www.colorcode.io/course/html-basics){:target="_blank"}
-*[The Odin Project (Inglés)](https://www.theodinproject.com/courses/html-and-css){:target="_blank"} - Web Development 101 and HTML5 and CSS3
-*[W3C HTML5 Tutorial (Inglés)](http://www.w3schools.com/html/){:target="_blank"}
-*[HTML Dog's Tutorial (Inglés)](https://www.htmldog.com/guides/html/beginner/){:target="_blank"} - Beginner
-*[FreeCodeCamp.Com (Inglés)](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/){:target="_blank"} - Responsive Web Design - Basic HTML and Basic CSS
+* [Udemy Curso de HTML (Español)](https://www.udemy.com/course/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html/){:target="_blank"}
+* [Udemy Introducción a HTML (Español)](https://www.udemy.com/course/introduccion-a-html/){:target="_blank"}
+* [What is HTML (Inglés)](https://www.colorcode.io/course/html-basics){:target="_blank"}
+* [The Odin Project (Inglés)](https://www.theodinproject.com/courses/html-and-css){:target="_blank"} - Web Development 101 and HTML5 and CSS3
+* [W3C HTML5 Tutorial (Inglés)](http://www.w3schools.com/html/){:target="_blank"}
+* [HTML Dog's Tutorial (Inglés)](https://www.htmldog.com/guides/html/beginner/){:target="_blank"} - Beginner
+* [FreeCodeCamp.Com (Inglés)](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/){:target="_blank"} - Responsive Web Design - Basic HTML and Basic CSS
 
 ## Evaluación
 
