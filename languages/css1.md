@@ -6,7 +6,7 @@ A developer who can code independently and build simple and well-styled websites
 
 * Importing external css file (local file or url)
 * Selectors, Properties and Values
-* Colors
+* Colors (Color name, RGB, Hex)
 * Basic styling (colors, backgrounds, typography, etc)
 * Margins and Padding
 * Borders

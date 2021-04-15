@@ -19,6 +19,7 @@ Someone who is learning how to use the Git source control system.
 * [Udemy's Getting Started With Git](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LcWa2fBnTmPI5KyCoiS5ug){:target="_blank"}
 * [Udemy's Command Line Essentials](https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-uvcZ4.yYfUqcznE3sExmVg){:target="_blank"}
 * [Udemy's Git 5-Day Challenge](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-C4A7acx79m1Ej_KjcGpvag){:target="_blank"}
+* [Git CheatSheet](https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj){:target="_blank"}
 
 ## Evaluation:
 
