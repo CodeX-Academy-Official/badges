@@ -20,10 +20,10 @@ Ser un desarrollador que puede escribir código en JavaScript simple que pueda r
   * Funciones
   * Arrays, Objetos y JSON
 * Guías:
-  *[Variables (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Grammar_and_types#declaraciones){:target="_blank"}
-  *[Arreglos (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array){:target="_blank"}
-  *[Funciones (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions){:target="_blank"}
-  *[Objetos (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_Objects){:target="_blank"}
+  * [Variables (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Grammar_and_types#declaraciones){:target="_blank"}
+  * [Arreglos (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array){:target="_blank"}
+  * [Funciones (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions){:target="_blank"}
+  * [Objetos (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_Objects){:target="_blank"}
 * [Learn JavaScript - Full Course (Inglés)](https://youtu.be/PkZNo7MFNFg)
 * [Watch and Code - Practical Javascript (Inglés)](https://watchandcode.com/){:target="_blank"}
 * [The Odin Project - Web Development 101 (Inglés)](https://www.theodinproject.com/){:target="_blank"}
