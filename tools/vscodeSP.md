@@ -5,7 +5,7 @@ Ser capaz de usar eficientemente VS Code y herramientas relacionadas.
 ## Domina las siguientes habilidades
 
 * Instalar VS Code en tu computadora.
-* Instalar y usar extensiones (ejemplos: Prettier o Power Mode).
+* Instalar y usar extensiones (ejemplos: Prettier o Live Server).
 * Modificar la configuración del editor (global y por lenguaje).
 * Usar la terminal integrada.
 * Abrir o crear archivos y cerrar pestañas.
@@ -31,7 +31,7 @@ Ser capaz de usar eficientemente VS Code y herramientas relacionadas.
 
 ## Ejercicio sugerido
 
-* Puedes usar este [ejercicio](https://docs.google.com/document/d/14CHbTdab9pN10hCuc5JvQRh4r1_zCBCymKiHMkS8Qrg/edit?usp=sharing){:target="_blank"} para ayudarte a solidificar tu aprendizaje.
+* Puedes usar este [ejercicio](https://docs.google.com/document/d/1F_BgofG2nll23oWMhP8TR6ayEIaLJGF2X9E655kOUFQ/edit){:target="_blank"} para ayudarte a solidificar tu aprendizaje.
 
 ## Evaluación
 
