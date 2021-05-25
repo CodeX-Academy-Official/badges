@@ -15,6 +15,7 @@ Ser un desarrollador que puede generar código independiente y construir un siti
 
 ## Aprendizaje sugerido
 
+* [Curso CSS (español)](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR){:target="_blank"}
 * [Curso intensivo CSS (Español)](https://youtu.be/vvpfamcJVEU){:target="_blank"}
 * [CSS Curso Básico (Español)](https://youtube.com/playlist?list=PLKT_uPiD2acBRMz_OhKhNbZh8t8OEWVhv){:target="_blank"}
 * [Udemy Curso Básico (Español)](https://www.udemy.com/course/curso-basico-de-css/){:target="_blank"}

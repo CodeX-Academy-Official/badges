@@ -11,6 +11,7 @@ Ser un desarrollador que puede desplegar una aplicación a Heroku.
 
 ## Aprendizaje sugerido
 
+* [Subir pagina web a Heroku (Español)](https://www.youtube.com/watch?v=2qkdAt9PuqQ){:target="_blank"}
 * [Heroku tutorial (Español)](https://www.youtube.com/watch?v=2qkdAt9PuqQ){:target="_blank"}
 * [Subir web a Heroku (Español)](https://naps.com.mx/blog/subir-mi-web-a-la-nube-usando-heroku/){:target="_blank"}
 * [Deploying Applications with Heroku from Udacity (Inglés)](https://www.udacity.com/course/deploying-applications-with-heroku--ud272){:target="_blank"}

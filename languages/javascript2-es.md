@@ -15,6 +15,7 @@ Ser un desarrollador que puede construir aplicaciones simples usando JavaScript.
 ## Aprendizaje Sugerido
 
 * [Curso Javascript 2 (Español)](https://youtube.com/playlist?list=PLKT_uPiD2acBPIEqNwlN7JqDTvpC9FDHc){:target="_blank"}
+* [Curso Javascript 2 v2 (Español)](https://www.youtube.com/playlist?list=PLKT_uPiD2acDAlRpZU5B91xeJM5_Qu59K){:target="_blank"}
 * [Guía de estilo, convenciones y buenas prácticas (Español)](https://medium.com/@davidenq/gu%C3%ADa-de-estilo-convenciones-y-buenas-pr%C3%A1cticas-de-desarrollo-con-javascript-d2e9ef80d63b){:target="_blank"} - Si no pueden acceder, usar modo incógnito.
 * Guías:
   * [Estructuras de control (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Control_flow_and_error_handling){:target="_blank"}

@@ -16,6 +16,7 @@ Ser un desarrollador que puede generar código independiente y construir un siti
 
 ## Aprendizaje sugerido
 
+* [Curso HTML (español)](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z){:target="_blank"}
 * [Udemy Curso de HTML (Español)](https://www.udemy.com/course/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html/){:target="_blank"}
 * [Udemy Introducción a HTML (Español)](https://www.udemy.com/course/introduccion-a-html/){:target="_blank"}
 * [What is HTML (Inglés)](https://www.colorcode.io/course/html-basics){:target="_blank"}

@@ -13,6 +13,7 @@ Ser capaz de usar eficientemente VS Code y herramientas relacionadas.
 
 ## Aprendizaje sugerido
 
+* [VSCode Curso (español)](https://www.youtube.com/playlist?list=PLKT_uPiD2acCWimlvfdqY2DOnO1qbbXA0){:target="_blank"}
 * [Udemy VS Code (español)](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/){:target="_blank"}
 * [VS Code for Beginners (inglés)](https://youtu.be/0fROnrISdZU){:target="_blank"} by Byron Sommardahl at CodeX Academy
 * [freeCodeCamp.org Visual Studio Code Crash Course (inglés)](https://www.youtube.com/watch?v=WPqXP_kLzpo&ab_channel=freeCodeCamp.org){:target="_blank"}
