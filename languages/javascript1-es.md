@@ -13,6 +13,7 @@ Ser un desarrollador que puede escribir código en JavaScript simple que pueda r
 ## Aprendizaje sugerido
 
 * [Curso Javascript (Español)](https://youtube.com/playlist?list=PLKT_uPiD2acBKCj38oTrVtr2Wlzq-9MkF){:target="_blank"}
+* [Curso Javascript v2 (Español)](https://www.youtube.com/playlist?list=PLKT_uPiD2acCRqGk_pxxhu4Qh46YNFDjL){:target="_blank"}
 * [Curso Javascript Capitulos 1 y 2 (Español)](https://youtu.be/z95mZVUcJ-E){:target="_blank"}
 * [Udemy Javascript (Español)](https://www.udemy.com/course/javascript-curso-gratis-2020/){:target="_blank"}
   * Introducción

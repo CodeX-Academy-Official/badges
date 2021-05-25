@@ -9,6 +9,10 @@ En CodeX Academy creemos que una característica esencial de un desarrollador ef
 * Recibir realimentación de la comunidad si ven necesario mejorar la redacción de la pregunta
 * Ser amable y paciente con los miembros de la comunidad mientras intentar responder tu pregunta.
 
+#Aprendizaje Sugerido
+
+* [Que es StackOverflow? (Español)](https://www.youtube.com/watch?v=DYpOsgBdN6k){:target="_blank"}
+
 ## Evaluación
 
 Luego de publicar una pregunta relevante y no trivial a un foro público como StackOverflow y recibir al menos una respuesta plausible de alguien no afiliado a CodeX Academy, podrás reclamar la insignia y deberás publicar el enlace de la pregunta en el canal de tu nivel en Slack como evidencia.

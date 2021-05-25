@@ -17,6 +17,8 @@ Ser alguien que pueda usar los comandos básicos de Git y entender para que func
 
 ## Aprendizaje sugerido
 
+* [Comandos Git 1 (Español)](https://www.youtube.com/watch?v=iT4UOkyI09k){:target="_blank"}
+* [Git y VS Code (Español)](https://www.youtube.com/watch?v=jPQQISFOkRE&t=51s){:target="_blank"}
 * [Guia de Git (Español)](https://rogerdudler.github.io/git-guide/index.es.html){:target="_blank"}
 * [Hoja de referencia Git (Español)](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf){:target="_blank"}
 * [Udemy's Getting Started With Git (Inglés)](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LcWa2fBnTmPI5KyCoiS5ug){:target="_blank"}
