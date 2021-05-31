@@ -8,7 +8,7 @@ Ser un desarrollador que puede construir aplicaciones simples usando JavaScript.
 * Ciclos o Bucles
 * Estructuras de control
 * Valor vs Referencia
-* Callbacks
+* Funciones Callback
 * DOM (seleccionar elementos, cambiar contenidos y estilos, eventos)
 * Desestructuración
 * Convenciones y buenas prácticas
