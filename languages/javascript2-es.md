@@ -8,6 +8,7 @@ Ser un desarrollador que puede construir aplicaciones simples usando JavaScript.
 * Ciclos o Bucles
 * Estructuras de control
 * Valor vs Referencia
+* Callbacks
 * DOM (seleccionar elementos, cambiar contenidos y estilos, eventos)
 * Desestructuración
 * Convenciones y buenas prácticas
@@ -21,6 +22,7 @@ Ser un desarrollador que puede construir aplicaciones simples usando JavaScript.
   * [Estructuras de control (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Control_flow_and_error_handling){:target="_blank"}
   * [Bucles (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration){:target="_blank"}
   * [Operadores de comparación (Español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_de_comparaci%C3%B3n){:target="_blank"}
+  * [Curso de JavaScript - Funciones Callback](https://www.youtube.com/watch?v=EA94aQwqVsY){:target="_blank"}
 * [Watch and Code - Practical Javascript (Inglés)](https://watchandcode.com/){:target="_blank"}
 * [The Odin Project - Web Development 101 (Inglés)](https://www.theodinproject.com/){:target="_blank"}
 
