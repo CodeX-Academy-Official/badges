@@ -7,6 +7,7 @@ A developer who can code independently and build simple applications using JavaS
 * Comparisons
 * Loops
 * Control Structures
+* Callbacks
 * Value vs reference
 * Browser DOM (select element, change contents and styles, add event listeners)
 * Adheres to popular conventions for indentation
@@ -19,6 +20,7 @@ A developer who can code independently and build simple applications using JavaS
   * [Control Structure](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Control_flow_and_error_handling){:target="_blank"}
   * [Loops](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Loops_and_iteration){:target="_blank"}
   * [Comparisons](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators){:target="_blank"}
+  * [Callbacks](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/){:target="_blank"}
 
 ## Evaluation:
 
