@@ -19,7 +19,7 @@ A developer who can write basic JavaScript code to solve simple problems.
   * [Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations){:target="_blank"}
   * [Arrays](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array){:target="_blank"}
   * [Function](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Functions){:target="_blank"}
-  * [Objetc](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Working_with_Objects){:target="_blank"}
+  * [Object](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Working_with_Objects){:target="_blank"}
 
 ## Evaluation:
 
