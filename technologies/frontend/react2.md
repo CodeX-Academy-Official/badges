@@ -24,7 +24,7 @@ A developer who can expertly use ReactJS to build stateful, immersive front-end 
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/4?a1=React%20Developer%202&a2=8-c_6XvmTn2KYODKTMDh1w) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

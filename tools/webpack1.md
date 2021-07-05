@@ -1,4 +1,4 @@
-# Webpack Power User 1
+# Webpack Developer 1
 
 A developer who is able to effectively integrate and use Webpack in a web project.
 
@@ -13,7 +13,7 @@ A developer who is able to effectively integrate and use Webpack in a web projec
 
 * [Webpack Documentation](https://webpack.js.org/){:target="_blank"}
 * [Learn Webpack to simplify and speed up your website](https://www.freecodecamp.org/news/webpack-course/){:target="_blank"}
-*[A mostly complete guide to webpack](https://www.valentinog.com/blog/webpack/){:target="_blank"}
+* [A mostly complete guide to webpack](https://www.valentinog.com/blog/webpack/){:target="_blank"}
 * [Webpack: The Core Concepts](https://webpack-academy.teachable.com/p/the-core-concepts){:target="_blank"}
 * [Wanago's Webpack 4 Course](https://wanago.io/courses/webpack-4-course/){:target="_blank"}
 

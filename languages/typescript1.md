@@ -1,4 +1,4 @@
-# TypeScript Apprentice 1
+# TypeScript Developer 1
 
 A developer who is proficient programming in the TypeScript language.
 
@@ -41,4 +41,6 @@ A developer who is proficient programming in the TypeScript language.
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/4?a1=TypeScript%20Developer%201&a2=_vGuJgBcQkC7uj5p5tE5nA) to find a time on the calendar. After the evaluation, claim the badge.
+
+[.](level-4)

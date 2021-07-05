@@ -10,6 +10,7 @@ A developer who is able to use Knex to connect NodeJS to a database.
 - Write parameterized queries to prevent SQL injection.
 
 ## Suggested Learning:
+
 - [Knex.JS Docs](http://knexjs.org/){:target="\_blank"}
 - [This youtube playlist might be helpful.](https://www.youtube.com/watch?v=4nP6zFEvF_c&list=PL7sCSgsRZ-smPRSrim4bX5TQfRue1jKfw){:target="\_blank"}
 - [Bobby Tables: A Guide to Preventing SQL Injection](https://bobby-tables.com/){:target="\_blank"}
@@ -18,7 +19,7 @@ A developer who is able to use Knex to connect NodeJS to a database.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/4?a1=Knex%20Developer%201&a2=oPR6uhy5Qi-QDwMXYDGrKA) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
