@@ -11,7 +11,7 @@ A developer who is able to work with Babel to transpile javascript code to stand
 
 ## Suggested Learning:
 
-* [Babel Documentation](https://babeljs.io/)(https://babeljs.io/){:target="_blank"}
+* [Babel Documentation](https://babeljs.io/){:target="_blank"}
 
 ## Evaluation:
 
