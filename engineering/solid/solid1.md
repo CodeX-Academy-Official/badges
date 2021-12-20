@@ -19,7 +19,7 @@ A developer who strives to write code that adheres to the SOLID principles.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/5?a1=SOLID%20Principles%20Apprentice%201&a2=IJ2XbdzST0G5Ef0hnsgFzw) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

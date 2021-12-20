@@ -29,4 +29,4 @@ A developer who is proficient in writing production TypeScript code following TD
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/5?a1=TypeScript%Testing%20Apprentice%201&a2=pkajsF9oRdG9Iw0D_GOzPA) to find a time on the calendar. After the evaluation, claim the badge.
