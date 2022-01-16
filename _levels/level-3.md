@@ -1,6 +1,8 @@
 ---
 number: 3
 category: Front-End Developer
+pathway: https://codexacademy.badgr.com/public/pathway/5e0f533246e0fb002739c4f1
+badge_image: https://media.badgr.com/uploads/badges/e46ea77a-df4e-4c9c-b92a-26989b062e98.png
 description: Build and deploy responsive data-driven web applications using ReactJS, SASS, JavaScript and other modern tools.
 skills: 
   - skill: Write maintainable JavaScript code to solve complex problems.

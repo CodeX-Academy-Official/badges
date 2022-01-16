@@ -1,6 +1,8 @@
 ---
 number: 2
 category: Front-End Developer
+pathway: https://codexacademy.badgr.com/public/pathway/5df50e9d46e0fb002140d64f
+badge_image: https://media.badgr.com/uploads/badges/819351c0-e7c9-475e-a516-ddff0a90a4e6.png
 description: Utilize various development tools and technologies to build and automatically deploy dynamic and responsive web applications using HTML, CSS/SASS, JavaScript, JQuery and external REST APIs.
 skills: 
   - skill: Utilize built-in browser developer tools to debug and troubleshoot code or layout issues in web applications.

@@ -1,6 +1,8 @@
 ---
 number: 7
 category: Full-Stack Engineer
+pathway: https://codexacademy.badgr.com/public/pathway/5e0fb93446e0fb002739c864
+badge_image: https://media.badgr.com/uploads/badges/68a106c6-436c-46ef-9f32-6def56318611.png
 description: Masterfully design and build complex full-stack applications using software engineering principles and practices.
 skills: 
   - skill: Write .NET applications using features of C# such as extension methods, generic types, advanced built-in and custom types, and advanced execution flow control.

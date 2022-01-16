@@ -1,6 +1,8 @@
 ---
 number: 5
 category: Full-Stack Developer
+pathway: https://codexacademy.badgr.com/public/pathway/5e0fb6a346e0fb002739c85b
+badge_image: https://media.badgr.com/uploads/badges/4e0ac70c-19d7-4e10-8520-5f9c087d6d77.png
 description: Build and deploy database-driven web applications using ReactJS and NodeJS.
 skills: 
   - skill: Write maintainable object-oriented code using TypeScript.

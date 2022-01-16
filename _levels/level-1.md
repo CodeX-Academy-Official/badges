@@ -1,6 +1,8 @@
 ---
 number: 1
 category: Front-End Developer
+pathway: https://badgr.com/public/pathway/5df3b7bc46e0fb002140cd03
+badge_image: https://media.badgr.com/uploads/badges/4c257320-74f4-4710-8305-3f19bc1847d7.png
 description: Utilize various development tools and technologies to build and deploy simple public websites using basic HTML, CSS and JavaScript.
 skills: 
   - skill: Utilize development environments and editors to organize files and write code. 
