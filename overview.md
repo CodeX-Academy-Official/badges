@@ -8,7 +8,7 @@ CodeX Academy's Front-End Developer levels build and prove mastery of skills nee
 
 #### Level 1
 
-Level 1 developers are able to utilize various development tools and technologies to build and deploy simple public websites using basic HTML, CSS and JavaScript.
+Utilize various development tools and technologies to build and deploy simple public websites using basic HTML, CSS and JavaScript.
 
 **Skills:**
 
@@ -23,7 +23,7 @@ Level 1 developers are able to utilize various development tools and technologie
 
 #### Level 2
 
-Level 2 developers are able to utilize various development tools and technologies to build and automatically deploy dynamic and responsive web applications using HTML, CSS/SASS, JavaScript, JQuery and external REST APIs.
+Utilize various development tools and technologies to build and automatically deploy dynamic and responsive web applications using HTML, CSS/SASS, JavaScript, JQuery and external REST APIs.
 
 **Skills:**
 
@@ -39,7 +39,7 @@ Level 2 developers are able to utilize various development tools and technologie
 
 #### Level 3
 
-Level 3 developers are able to build and deploy responsive data-driven web applications using ReactJS, SASS, JavaScript and other modern tools.
+Build and deploy responsive data-driven web applications using ReactJS, SASS, JavaScript and other modern tools.
 
 **Skills:**
 
@@ -59,7 +59,7 @@ Level 3 developers are able to build and deploy responsive data-driven web appli
 
 #### Level 4
 
-Level 4 developers are able to build custom backend-driven web applications using HTML, CSS, TypeScript and NodeJS.
+Build custom backend-driven web applications using HTML, CSS, TypeScript and NodeJS.
 
 **Skills:**
 
@@ -76,7 +76,7 @@ Level 4 developers are able to build custom backend-driven web applications usin
 
 #### Level 5
 
-Level 5 developers are able to build and deploy database-driven web applications using ReactJS and NodeJS.
+Build and deploy database-driven web applications using ReactJS and NodeJS.
 
 **Skills:**
 
@@ -94,7 +94,7 @@ Level 5 developers are able to build and deploy database-driven web applications
 
 #### Level 6
 
-Level 6 developers are able to build and deploy complex, maintainable, database-driven web applications using React, Angular, NodeJS and other modern tools.
+Build and deploy complex, maintainable, database-driven web applications using React, Angular, NodeJS and other modern tools.
 
 **Skills:**
 
@@ -116,7 +116,7 @@ Level 6 developers are able to build and deploy complex, maintainable, database-
 
 #### Level 7
 
-Level 7 developers are able to masterfully construct complex full-stack applications using software engineering principles and practices.
+Masterfully design and build complex full-stack applications using software engineering principles and practices.
 
 **Skills:**
 
@@ -138,7 +138,7 @@ Level 7 developers are able to masterfully construct complex full-stack applicat
 
 #### Level 8
 
-Level 8 developers are able to masterfully construct complex full-stack applications using software engineering principles and practices.
+Masterfully construct complex full-stack applications using software engineering principles and practices.
 
 **Skills:**
 
@@ -158,7 +158,7 @@ Level 8 developers are able to masterfully construct complex full-stack applicat
 
 #### Level 9
 
-Level 9 developers are able to masterfully construct complex full-stack applications using software engineering principles and practices.
+Masterfully construct complex full-stack applications using software engineering principles and practices.
 
 **Skills:**
 
