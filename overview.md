@@ -4,13 +4,14 @@
 
 {% for level in site.levels %}
 
-<img src="{{level.badge_image}}" alt="Level {{level.number}} badge" width="150"/>
-
 ### {{level.category}} {{ level.number }} 
 
 {{ level.description | markdownify }}
 
-[view pathway]({{level.pathway}})
+<a href="{{level.pathway}}" target="_blank">
+    <img src="{{level.badge_image}}" alt="Level {{level.number}} badge" width="150"/>
+</a>
+
 
 #### Skills:
 
