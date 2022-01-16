@@ -2,10 +2,6 @@
 
 ## Level Overview
 
-### Front-End Developer
-
-CodeX Academy's Front-End Developer levels build and prove mastery of skills needed to succeed in front-end web development. Starting with programming basics in Level 1, each level builds on previous skills. Working through these levels, learners will prove skills in various technologies including Git, Heroku deployment, VS Code, HTML, CSS and JavaScript. By Level 3, learners will build data-driven web applications using web technologies and Google's Firebase.
-
 {% for level in site.levels %}
 #### Level {{ level.number }} 
 
@@ -16,25 +12,6 @@ CodeX Academy's Front-End Developer levels build and prove mastery of skills nee
 {% for skill in level.skills %}
 - {{skill.skill}}{% endfor %}
 {% endfor %}
-
-
-#### Level 3
-
-Build and deploy responsive data-driven web applications using ReactJS, SASS, JavaScript and other modern tools.
-
-**Skills:**
-
-- Write maintainable [JavaScript](languages/javascript4.md) code to solve complex problems.
-- Integrate pre-built functionality from various libraries found in [NPM](tools/npm1.md).
-- Create reusable functions and variables in [SASS](languages/sass2.md).
-- Transpile cutting edge JavaScript code to legacy versions for browser compatibility using Babel.  
-- Automate the packaging of entire web applications using default Webpack configurations.
-- Integrate advanced HTML and CSS structures and components into existing web applications using Bootstrap.
-- Build modern component-based web applications with 2-way input binding using ReactJS.
-- Write isolated and repeatable unit tests for JavaScript code.
-- Utilize functional JavaScript libraries to extend applications and reduce maintenance liabilities.
-- Implement secure sections of a web application using Google SSO and Firebase Authentication.
-- Build web applications with CRUD data functionality using the firebase SDK.
 
 ### Full-Stack Developer
 

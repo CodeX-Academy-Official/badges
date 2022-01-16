@@ -1,5 +1,6 @@
 ---
 number: 1
+category: Front-End Developer
 description: Utilize various development tools and technologies to build and deploy simple public websites using basic HTML, CSS and JavaScript.
 skills: 
   - skill: Utilize development environments and editors to organize files and write code. 

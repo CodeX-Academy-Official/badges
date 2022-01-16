@@ -1,5 +1,6 @@
 ---
 number: 2
+category: Front-End Developer
 description: Utilize various development tools and technologies to build and automatically deploy dynamic and responsive web applications using HTML, CSS/SASS, JavaScript, JQuery and external REST APIs.
 skills: 
   - skill: Utilize built-in browser developer tools to debug and troubleshoot code or layout issues in web applications.

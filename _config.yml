@@ -7,4 +7,7 @@ collections:
   levels:
     output: true
     sort_by: number
+  level_categories:
+    output: true
+    sort_by: difficulty
     
