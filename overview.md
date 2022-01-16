@@ -4,7 +4,7 @@
 
 {% for level in site.levels %}
 
-![Level {{level.number}} badge]({{level.badge_image}})
+<img src="{{level.badge_image}}" alt="Level {{level.number}} badge" width="150"/>
 
 ### {{level.category}} {{ level.number }} 
 
