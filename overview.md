@@ -43,9 +43,9 @@ Level 3 developers are able to build and deploy responsive data-driven web appli
 
 **Skills:**
 
-- JavaScript
-- NPM
-- SASS
+- Write maintainable [JavaScript](languages/javascript4.md) code to solve complex problems.
+- Integrate pre-built functionality from various libraries found in [NPM](tools/npm1.md).
+- Create reusable functions and variables in [SASS](languages/sass2.md).
 - Babel
 - Webpack
 - Bootstrap
