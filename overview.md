@@ -10,6 +10,11 @@ CodeX Academy's Front-End Developer levels build and prove mastery of skills nee
 #### Level {{ level.number }} 
 
 {{ level.description | markdownify }}
+
+{% for skill in level.skills %}
+- {{skill.skill}}
+{% endfor %}
+
 {% endfor %}
 
 #### Level 1
