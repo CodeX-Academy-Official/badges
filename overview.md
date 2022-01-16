@@ -10,22 +10,22 @@ CodeX Academy's Front-End Developer levels build and prove mastery of skills nee
 
 Level 1 developers are able to build and deploy simple public websites using HTML and CSS.
 
-**Skils:**
+**Skills:**
 
-- VS Code
-- Chrome Developer Tools
-- Command Line
-- Git
-- HTML
-- CSS
-- JavaScript 1 and 2
-- Heroku
+- Utilize [development environments](tools/vscode.md) and editors to organize files and write code. 
+- Utilize built-in browser [developer tools](tools/chrom1.md) to understand and visualize web applications. 
+- Navigate file systems and perform common commands in the Windows or Linux [command line](tools/terminal1.md). 
+- Maintain a [Git](tools/git1.md) repository up-to-date with frequent commits. 
+- Create simple web layouts with the most common [HTML](languages/html1.md) tags. 
+- Apply basic styling to existing web layouts with the most common [CSS](languages/css1.md) selectors and styles. 
+- Write simple but functional JavaScript ([1](languages/javascript1.md)/[2](languages/javascript2.md)) code to manipulate the DOM and respond to changes.
+- Connect and deploy web projects in Git to deploy to [Heroku](heruku1.md). 
 
 #### Level 2
 
 Level 2 developers are able to build and auto-deploy dynamic web applications using HTML, CSS and Javascript.
 
-**Skils:**
+**Skills:**
 
 - Chrome Developer Tools
 - HTML
@@ -43,7 +43,7 @@ Level 2 developers are able to build and auto-deploy dynamic web applications us
 
 Level 3 developers are able to build and deploy responsive data-driven web applications using ReactJS, SASS, JavaScript and other modern tools.
 
-**Skils:**
+**Skills:**
 
 - JavaScript
 - NPM
@@ -63,7 +63,7 @@ Level 3 developers are able to build and deploy responsive data-driven web appli
 
 Level 4 developers are able to build custom backend-driven web applications using HTML, CSS, TypeScript and NodeJS.
 
-**Skils:**
+**Skills:**
 
 - TypeScript
 - NPM
@@ -80,7 +80,7 @@ Level 4 developers are able to build custom backend-driven web applications usin
 
 Level 5 developers are able to build and deploy database-driven web applications using ReactJS and NodeJS.
 
-**Skils:**
+**Skills:**
 
 - TypeScript
 - NodeJS
@@ -99,7 +99,7 @@ Level 5 developers are able to build and deploy database-driven web applications
 
 Level 6 developers are able to build and deploy complex, maintainable, database-driven web applications using React, Angular, NodeJS and other modern tools.
 
-**Skils:**
+**Skills:**
 
 - TypeScript
 - Test-Driven Development
@@ -121,7 +121,7 @@ Level 6 developers are able to build and deploy complex, maintainable, database-
 
 Level 7 developers are able to masterfully construct complex full-stack applications using software engineering principles and practices.
 
-**Skils:**
+**Skills:**
 
 - C#
 - C# Unit Testing
@@ -142,7 +142,7 @@ Level 7 developers are able to masterfully construct complex full-stack applicat
 
 Level 8 developers are able to masterfully construct complex full-stack applications using software engineering principles and practices.
 
-**Skils:**
+**Skills:**
 
 - .NET Libraries
 - Authentication
@@ -162,7 +162,7 @@ Level 8 developers are able to masterfully construct complex full-stack applicat
 
 Level 9 developers are able to masterfully construct complex full-stack applications using software engineering principles and practices.
 
-**Skils:**
+**Skills:**
 
 - .NET Libraries
 - SOLID Principles
