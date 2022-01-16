@@ -16,7 +16,7 @@
 #### Skills:
 
 {% for skill in level.skills %}
-- {{skill.skill}} {% for badge in level.badges %}[badge]({{badge}}){% endfor %}{% endfor %}
+- {{skill.skill}} {% for url in skill.badges %}[badge]({{url}}){% endfor %}{% endfor %}
 {% endfor %}
 
 
