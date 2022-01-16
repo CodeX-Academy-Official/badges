@@ -1,14 +1,25 @@
 # CodeX Academy
 
-## Competency Areas
+## Level Overview
 
-- [Technologies](technologies)
-- [Architecture](architecture)
-- [Engineering](engineering)
-- [Team](team)
-- [Languages](languages)
-- [Kata](kata.md)
+{% for level in site.levels %}
 
-## Levels
+### {{level.category}} {{ level.number }} 
 
-- [Overview](overview.md)
+{{ level.description | markdownify }}
+
+<a href="{{level.pathway}}" target="_blank">
+    <img align="right" src="{{level.badge_image}}" alt="Level {{level.number}} badge" width="150"/>
+</a>
+
+
+#### Skills:
+
+{% for skill in level.skills %}
+- {{skill.skill}} {% for url in skill.badges %}[badge]({{url}}){% endfor %}{% endfor %}
+{% endfor %}
+
+
+[Print Version](overview-print.md)
+
+
