@@ -6,6 +6,12 @@
 
 CodeX Academy's Front-End Developer levels build and prove mastery of skills needed to succeed in front-end web development. Starting with programming basics in Level 1, each level builds on previous skills. Working through these levels, learners will prove skills in various technologies including Git, Heroku deployment, VS Code, HTML, CSS and JavaScript. By Level 3, learners will build data-driven web applications using web technologies and Google's Firebase.
 
+{% for level in site.levels %}
+#### Level {{ level.number }} 
+
+{{ level.description | markdownify }}
+{% endfor %}
+
 #### Level 1
 
 Utilize various development tools and technologies to build and deploy simple public websites using basic HTML, CSS and JavaScript.
