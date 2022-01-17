@@ -3,7 +3,7 @@ number: 9
 category: Full-Stack Engineer
 pathway: https://codexacademy.badgr.com/public/pathway/5f18a8fb4e528560cd3d7155
 badge_image: https://media.badgr.com/uploads/badges/68045bae-41ae-4f6e-b41b-1575107e2aa2.png
-description: Masterfully construct complex full-stack applications using software engineering principles and practices.
+description: Lead a team of developers as they build valuable full-stack applications using modern technologies, software engineering principles and best practices.
 skills: 
   - skill: Build .NET applications that integrate reusable functionality from various advanced 3rd party libraries.
   - skill: Write code that adheres to the the Dependency Inversion Principle.

@@ -3,7 +3,7 @@ number: 6
 category: Full-Stack Developer
 pathway: https://codexacademy.badgr.com/public/pathway/5e0fb76446e0fb00221bc56b
 badge_image: https://media.badgr.com/uploads/badges/7c300d69-1fa3-4c26-8192-87ebc570b53f.png
-description: Build and deploy complex, maintainable, database-driven web applications using React, Angular, NodeJS and other modern tools.
+description: Build and deploy complex, maintainable, database-driven web applications using React, NodeJS and other modern tools.
 skills: 
   - skill: Write advanced object-oriented TypeScript with generics and reflection.
   - skill: Follow "red-geeen-refactor" to write entire suites of isolated unit tests with mocks and fakes that drive trustworthy, maintainable code with high test coverage.

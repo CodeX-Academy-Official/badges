@@ -3,7 +3,7 @@ number: 8
 category: Full-Stack Engineer
 pathway: https://codexacademy.badgr.com/public/pathway/5e0fc58846e0fb002739c897
 badge_image: https://media.badgr.com/uploads/badges/ee1a4e88-b9df-4aac-ad68-2c7b84d13be9.png
-description: Masterfully design and build complex full-stack applications using software engineering principles and practices.
+description: Masterfully architect robust and complex applications that scale and provide value.
 skills: 
   - skill: Build REST APIs with advanced routing and custom middleware in ASP.NET.
   - skill: Build .NET applications that integrate reusable functionality from various 3rd party libraries.
