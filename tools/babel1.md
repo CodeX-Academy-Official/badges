@@ -7,7 +7,7 @@ A developer who is able to work with Babel to transpile javascript code to stand
 * Explain what babel does for you
 * Demonstrate how babel transpiles javascript using a "repl"
 * Install babel in your web project
-* Transpile all legacy javascript in a project to ES6 with one command (npm script)
+* Transpile all modern (ES6+) javascript in a project to browser-compatible JavaScript with one command (npm script)
 
 ## Suggested Learning:
 
