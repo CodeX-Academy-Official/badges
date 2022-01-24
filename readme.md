@@ -12,7 +12,7 @@
   - [HTML](https://github.com/CodeX-Academy-Official/badges/blob/18123d2e779e7bf2132d26bac111e0bfb8120a05/languages/html1.md)
   - [CSS](https://github.com/CodeX-Academy-Official/badges/blob/18123d2e779e7bf2132d26bac111e0bfb8120a05/languages/css1.md)
   - [JAVASCRIPT 1](https://github.com/CodeX-Academy-Official/badges/blob/99e8cd23d465f90a544953ef84b1867cf18b4a75/languages/javascript1.md)
-  - [JAVASCRIPT 2]
+  - [JAVASCRIPT 2](./languages/javascript2.md)
   - [Deployment]
   - [Help Seeker]
   - [Capstone Project]
