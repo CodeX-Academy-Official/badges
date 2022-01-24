@@ -13,44 +13,116 @@
   - [CSS](./languages/css1.md)
   - [JAVASCRIPT 1](./languages/javascript1.md)
   - [JAVASCRIPT 2](./languages/javascript2.md)
-  - [Deployment]
-  - [Help Seeker]
-  - [Capstone Project]
-- **Level 2**
-  - [HTML/CSS]
-  - [Browser Tools 2]
-  - [SASS]
-  - [JAVASCRIPT 3]
-  - [Advanced GIT]
-  - [JQUERY]
-  - [Using Postman with API'S]
-  - [Bootstrap]
-  - [API
-  - [Help Seeker]
-  - [Captsone Project]
-- **Level 3**
-  - [JAVASCRIPT 4]
-  - [NPM Packages]
-  - [SASS 2]
-  - [BABEL]
-  - [Webpack]
-  - [Bootstrap]
-  - [React]
-  - [Testing]
-  - [Functional JAVASCRIPT]
-  - [AUTH]
-  - [Firebase]
+  - [Deployment](./technologies/devops/heruku1.md)
+- [**Level 2**](./_levels/level-2.md)
+  - [Browser Tools 2](./tools/chrome2.md)
+  - [HTML/CSS](./languages/html2.md)
+  - [SASS](./languages/sass1.md)
+  - [JQUERY](./technologies/frontend/jquery1.md)
+  - [JAVASCRIPT 3](./languages/javascript3.md)
+  - [Advanced GIT](./tools/git2.md)
+  - [Using Postman with API'S](./tools/postman1.md)
+  - [API](./technologies/backend/api1.md)
+  - [Bootstrap](./technologies/frontend/bootstrap1.md)
+- [**Level 3**](./_levels/level-3.md)
+  - [JAVASCRIPT 4](./languages/javascript4.md)
+  - [NPM Packages](./tools/npm1.md)
+  - [SASS 2](./languages/sass2.md)
+  - [BABEL](./tools/babel1.md)
+  - [Webpack](./tools/webpack1.md)
+  - [Bootstrap](./technologies/frontend/bootstrap2.md)
+  - [React](./technologies/frontend/react1.md)
+  - [Testing](./languages/javascript-testing1.md)
+  - [Functional JAVASCRIPT](./technologies/lodash.md)
+  - [Auth](./engineering/auth/auth1.md)
+  - [Firebase](./technologies/backend/firebase1.md)
 
-### [<img src="https://www.codex.academy/img/badges/fsd-master.png" width="100" height="100">](./_level_categories/fed.md) [Full Stack Developer](./_level_categories/fed.md)
+### [<img src="https://www.codex.academy/img/badges/fsd-master.png" width="100" height="100">](./_level_categories/fsd.md) [Full Stack Developer](./_level_categories/fed.md)
 
-- ## **Level 4**
-- **Level 5**
-- **Level 6**
+- [**Level 4**](./_levels/level-4.md)
+  - [TypeScript](./languages/typescript1.md)
+  - [Babel 2](./tools/babel2.md)
+  - [NPM Packages 2](./tools/npm2.md)
+  - [Basic Node.js](./technologies/backend/node1.md)
+  - [SQL](./technologies/database/sql1.md)
+  - [Unit Testing](./languages/javascript-testing1.md)
+  - [Webpack 2](./tools/webpack2.md)
+  - [ExpressJS](./technologies/backend/express1.md)
+  - [Knex](./technologies/backend/knex1.md)
+  - [Unit Testing in NodeJS](./languages/javascript-testing2.md)
+  - [Advanced React](./technologies/frontend/react2.md)
+  - [Deployment 2](./technologies/devops/heroku2.md)
+- [**Level 5**](./_levels/level-5.md)
+  - [TypeScript 2](./languages/typescript2.md)
+  - [Node/Express](./technologies/backend/express2.md)
+  - [Email Integration](./technologies/backend/email1.md)
+  - [TypeScript Testing](./languages/typescript-tdd1.md)
+  - [SQL 2](./technologies/database/sql2.md)
+  - [AWS](./technologies/devops/aws/aws1.md)
+  - [Bash](./technologies/devops/bash1.md)
+  - [CI/CD](./technologies/devops/cicd1.md)
+  - [SOLID Principals](./engineering/solid/solid1.md)
+  - [Auth 2](./engineering/auth/auth2.md)
+  - [ORM](./technologies/backend/typeorm1.md)
+- [**Level 6**](./_levels/level-6.md)
 
-  ### [<img src="https://www.codex.academy/img/badges/fse-master.png" width="100" height="100">](./_level_categories/fed.md) [Full Stack Engineer](./_level_categories/fed.md)
+  - [TypeScript 3](./languages/typescript3.md)
+  - [TypeScript Testing 2](./languages/typescript-tdd2.md)
+  - [C#](./languages/csharp1.md)
+  - [Hacker Defense](./engineering/defense/hackerdefense1.md)
+  - [Auth 3](./engineering/auth/auth3.md)
+  - [SOLID Principals 2](./engineering/solid/solid2.md)
+  - [Scrum](./teams/scrum1.md)
+  - [DDD](./architecture/ddd1.md)
+  - [Docker](./technologies/devops/docker1.md)
+  - [AWS 2](./technologies/devops/aws/aws2.md)
+  - [CI/CD 2](./technologies/devops/cicd2.md)
+  - [NoSQL](./technologies/database/nosql1.md)
+  - [GraphQL](./technologies/backend/graphql1.md)
 
-- ## **Level 7**
-- **Level 8**
-- **Level 9**
+  ### [<img src="https://www.codex.academy/img/badges/fse-master.png" width="100" height="100">](./_level_categories/fse.md) [Full Stack Engineer](./_level_categories/fed.md)
+
+- [**Level 7**](./_levels/level-7.md)
+
+  - [C# 2](./languages/csharp2.md)
+  - [C# Testing](./languages/csharp-tdd1.md)
+  - [AWS 3](./technologies/devops/aws/aws3.md)
+  - [Docker 2](./technologies/devops/docker2.md)
+  - [Adapter Pattern](./engineering/designpatterns.md)
+  - [Solid Principals 3](./engineering/solid/solid3.md)
+  - [ASP.NET](./backend/aspnet1.md)
+  - [NoSQL 2](./technologies/database/nosql2.md)
+  - [Auth 4](./engineering/auth/auth4.md)
+  - [Payment Gateways](./payment/payment1.md)
+  - [Agile](./teams/scrum2.md)
+  - [Hacker Defense 2](./engineering/defense/hackerdefense2.md)
+  - [DDD 2](./architecture/ddd2.md)
+  - [Serverless](./architecture/serverless1.md)
+  - [GraphQL 2](./technologies/backend/graphql2.md)
+
+- [**Level 8**](./_levels/level-8.md)
+  - [.NET Libraries](./backend/dotnet-libs1.md)
+  - [Entity Framework](./backend/entityframework1.md)
+  - [ASP.NET 2](./backend/aspnet2.md)
+  - [Strategy Pattern](./engineering/designpatterns.md)
+  - [SOLID Principals 4](./engineering/solid/solid4.md)
+  - [Auth 5](./engineering/auth/auth5.md)
+  - [Defensive Programming](./engineering/defensiveprogramming1.md)
+  - [Hacker Defense 3](./engineering/defense/hackerdefense3.md)
+  - [AWS 4](./technologies/devops/aws/aws4.md)
+  - [Architecture](./architecture/ddd3.md)
+  - [CQRS](./architecture/cqrs1.md)
+  - [Code Reviews](./teams/codereview1.md)
+  - [Agile](./teams/scrum3.md)
+- [**Level 9**](./_levels/level-9.md)
+  - [.NET Libraries](./backend/dotnet-libs2.html)
+  - [Solid Principals 5](./engineering/solid/solid5.md)
+  - [Reactive Programming](./engineering/reactive1.html)
+  - [Defensive Programming](./engineering/defensiveprogramming2.html)
+  - [Hacker Defense 4](./engineering/defense/hackerdefense4.md)
+  - [PubSub](./architecture/pubsub1.html)
+  - [CQRS](./architecture/cqrs2.html)
+  - [Agile](./teams/scrum4.html)
+  - [Pair Programming](./teams/pairprogramming1.html)
 
 </img>
