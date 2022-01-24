@@ -43,15 +43,13 @@
 
 ### [<img src="https://www.codex.academy/img/badges/fsd-master.png" width="100" height="100">](./_level_categories/fed.md) [Full Stack Developer](./_level_categories/fed.md)
 
-- **Level 4**
-  -
+- ## **Level 4**
 - **Level 5**
 - **Level 6**
 
   ### [<img src="https://www.codex.academy/img/badges/fse-master.png" width="100" height="100">](./_level_categories/fed.md) [Full Stack Engineer](./_level_categories/fed.md)
 
-- **Level 7**
-  -
+- ## **Level 7**
 - **Level 8**
 - **Level 9**
 

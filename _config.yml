@@ -3,3 +3,11 @@ title: CodeX Academy Badge Competencies
 description: Online home of CodeX Academy's library of technical competencies.
 show_downloads: false
 markdown: kramdown
+collections: 
+  levels:
+    output: true
+    sort_by: number
+  level_categories:
+    output: true
+    sort_by: difficulty
+    
