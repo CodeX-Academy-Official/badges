@@ -42,7 +42,7 @@
   - <img src="https://api.badgr.io/public/badges/sTJo44leTWWer9nZRFkWkg/image" width="15" height="15"/> [Auth](./engineering/auth/auth1.md)
   - <img src="https://api.badgr.io/public/badges/9x42ZE1TReGy7-go968UlA/image" width="15" height="15"/> [Firebase](./technologies/backend/firebase1.md)
 
-### [<img src="https://www.codex.academy/img/badges/fsd-master.png" width="100" height="100"/>](./_level_categories/fsd.md) [Full Stack Developer](./_level_categories/fed.md)
+### [<img src="https://www.codex.academy/img/badges/fsd-master.png" width="100" height="100"/>](./_level_categories/fsd.md) [Full Stack Developer](./_level_categories/fsd.md)
 
 - <img src="https://api.badgr.io/public/badges/8GCzVgyZQ42KrT_lKE1fLQ/image" width="40" height="40"/> [**Level 4**](./_levels/level-4.md)
 
@@ -89,7 +89,7 @@
   - <img src="https://api.badgr.io/public/badges/FPMxqMXOTn2Q61ezf6hFTA/image" width="15" height="15"/> [NoSQL](./technologies/database/nosql1.md)
   - <img src="https://api.badgr.io/public/badges/jYHToVSAQUa13idhneDiPQ/image" width="15" height="15"/> [GraphQL](./technologies/backend/graphql1.md)
 
-  ### [<img src="https://www.codex.academy/img/badges/fse-master.png" width="100" height="100"/>](./_level_categories/fse.md) [Full Stack Engineer](./_level_categories/fed.md)
+  ### [<img src="https://www.codex.academy/img/badges/fse-master.png" width="100" height="100"/>](./_level_categories/fse.md) [Full Stack Engineer](./_level_categories/fse.md)
 
 - <img src="https://api.badgr.io/public/badges/4Qwf9nVpQbaoms9S02TTEA/image" width="40" height="40"/> [**Level 7**](./_levels/level-7.md)
 
