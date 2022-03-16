@@ -25,6 +25,23 @@ Able to efficiently use VS Code and related tools.
   - Settings
   - Extensions and Themes
   - Built in Terminal
+- [CodeSTACKr Visual Studio Code 2022](https://youtu.be/fJEbVCrEMSE){:target="\_blank"}
+  - Intro
+  - Install VS Code
+  - Walkthrough
+  - Keyboard Shortcuts
+  - Basic Settings
+  - Themes
+  - Top 5 VS Code Themes!
+  - Extensions
+  - Open a Project Folder
+  - Add Folder Structure
+  - File Navigation Shortcuts
+  - Code Faster with Emmet
+  - VS Code IntelliSense
+  - Layout Customization
+  - Manipulating Text
+  - The Terminal
 - [Microsoft's Getting Started with VS Code](https://code.visualstudio.com/docs/introvideos/basics){:target="\_blank"}
 - [VS Code Documentation on Settings](https://code.visualstudio.com/docs/getstarted/settings){:target="\_blank"}
 
