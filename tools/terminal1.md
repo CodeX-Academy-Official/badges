@@ -17,6 +17,8 @@ Someone who can use the basic features of a bash terminal.
 
 ## Suggested Learning:
 
+- You can use [this exercise](hhttps://docs.google.com/document/d/e/2PACX-1vSphtAjunUSWqxXLypj_1edFB7xyxicpbUUacEcEj68v-mwCJrDfv67rAUrl9GYNmQBI44eYc4fX-cy/pub){:target="\_blank"} to help you solidify your knowledge.
+
 - [Beginner's Tutorial](https://www.davidbaumgold.com/tutorials/command-line/){:target="\_blank"}
 - [DataCamp's Intro to Shell](https://www.datacamp.com/courses/introduction-to-shell){:target="\_blank"}
 - [Udemy's Learn The Linux Command Line](https://www.udemy.com/course/command-line/){:target="\_blank"}
@@ -31,6 +33,8 @@ Someone who can use the basic features of a bash terminal.
   - clear - clear what’s on the screen
   - nano - create a file and write in it
   - ../ - go up one level
+
+## Suggested Excercies:
 
 ## Evaluation:
 

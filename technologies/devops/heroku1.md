@@ -17,6 +17,10 @@ Someone who is learning how to deploy applications to Heroku.
   - [Medium](https://medium.com/@winnieliang/how-to-run-a-simple-html-css-javascript-application-on-heroku-4e664c541b0b){:target="\_blank"}
   - [geeksforgeeks](https://www.geeksforgeeks.org/how-to-deploy-a-basic-static-html-website-to-heroku/){:target="\_blank"}
 
+## Suggested Excercies:
+
+- You can use [this exercise](https://consultantsussex.com/deploy-html-on-heroku/){:target="\_blank"} to help you solidify your knowledge.
+
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:

@@ -22,6 +22,10 @@ A developer who can code independently and build simple and well-styled websites
 - [CSS Crash Course with Traversy Media](https://youtu.be/yfoY53QXEnI){:target="\_blank"} - Absolute Beginners
 - [Learn HTML5 & CSS with Dev Ed](https://youtu.be/vQWlgd7hV4A){:target="\_blank"}
 
+## Suggested Excercies:
+
+- You can use [this tutorial](https://youtu.be/kMT54MPz9oE){:target="\_blank"} to help you solidify your knowledge.
+
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1?a1=CSS%20Apprentice%201&a2=O8cej6IdSwiTET8_a98TdA) to find a time on the calendar. After the evaluation, claim the badge.

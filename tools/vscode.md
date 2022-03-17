@@ -47,7 +47,7 @@ Able to efficiently use VS Code and related tools.
 
 ## Suggested Excercies:
 
-- You can use [this exercise](https://docs.google.com/document/d/14CHbTdab9pN10hCuc5JvQRh4r1_zCBCymKiHMkS8Qrg/edit?usp=sharing){:target="\_blank"} to help you solidify your knowledge.
+- You can use [this exercise](https://docs.google.com/document/d/e/2PACX-1vSvz6Y9ERJ9pm-8DeuJgoIG461k8sJoRu_O5FDC-M_-ON8JYg4_qzZlLHcrGo0t2NO5jVXuYOztUq4N/pub){:target="\_blank"} to help you solidify your knowledge.
 
 ## Evaluation:
 

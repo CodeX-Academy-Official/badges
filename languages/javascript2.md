@@ -29,6 +29,10 @@ A developer who can code independently and build simple applications using JavaS
   - [Browser DOM](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V){:target="\_blank"}
   - [Popular Conventions](https://youtu.be/8SbJzqF3Xyw){:target="\_blank"}
 
+## Suggested Excercies:
+
+- You can use [this tutorial](https://youtu.be/mCQ1-iDSnto){:target="\_blank"} to help you solidify your knowledge.
+
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1?a1=Javascript%20Developer%202&a2=UpjeWGtrTNe2gf1MrHK5QA){:target="\_blank"} to find a time on the calendar. After the evaluation, claim the badge.
