@@ -51,6 +51,10 @@ A developer who can code independently and build simple and well-structured webs
   - Forms & Inputs
   - HTML Project
 
+## Suggested Excercies:
+
+- You can use [this tutorial](https://youtu.be/PlxWf493en4){:target="\_blank"} to help you solidify your knowledge.
+
 ## Evaluation:
 
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1?a1=HTML%20Apprentice%201&a2=KxA14MJ9TmuDYCSOc6nytw) to find a time on the calendar. After the evaluation, claim the badge.

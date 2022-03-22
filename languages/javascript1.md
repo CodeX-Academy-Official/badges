@@ -20,6 +20,9 @@ A developer who can write basic JavaScript code to solve simple problems.
   - [Arrays](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array){:target="\_blank"}
   - [Function](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Functions){:target="\_blank"}
   - [Object](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Working_with_Objects){:target="\_blank"}
+
+## Suggested Tutorial:
+
 - [Javascript Tutorial with Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk&t=2041s){:target="\_blank"}
   - What is JavaScript
   - Setting Up the Development Environment

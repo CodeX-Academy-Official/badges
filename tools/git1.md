@@ -14,6 +14,7 @@ Someone who is learning how to use the Git source control system.
 - Cloning from a remote (ex: Github)
 - Pushing to remote
 - Pulling from remote
+  Hello World!
 
 ## Suggested Learning:
 
@@ -23,6 +24,10 @@ Someone who is learning how to use the Git source control system.
 - [Git CheatSheet](https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj){:target="\_blank"}
 - [Git Tutorial for Beginners with Mosh](https://youtu.be/8JJ101D3knE){:target="\_blank"}
 - [Git & Github Crash Course with Traversy Media](https://youtu.be/SWYqp7iY_Tc){:target="\_blank"}
+
+## Suggested Excercies:
+
+- You can use [this exercise](https://docs.google.com/document/d/e/2PACX-1vTpNTIFCd1VkJzLToPQXOiauSRCtqM-QT8EO5lOgdfFh2Y6kzgD4jwOsxRZpysBpe_1ZFTDpYe1Hi1D/pub){:target="\_blank"} to help you solidify your knowledge.
 
 ## Evaluation:
 
