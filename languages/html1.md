@@ -16,7 +16,7 @@ A developer who can code independently and build simple and well-structured webs
 ## Suggested Learning:
 
 - [What is HTML](https://www.colorcode.io/course/html-basics){:target="\_blank"}
-- [The Odin Project](https://www.theodinproject.com/courses/html-and-css){:target="\_blank"} - Web Development 101 and HTML5 and CSS3
+- [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-html-and-css){:target="\_blank"} - Introduction to HTML and CSS
 - [W3C HTML5 Tutorial](http://www.w3schools.com/html/){:target="\_blank"}
 - [HTML Dog's Tutorial](https://www.htmldog.com/guides/html/beginner/){:target="\_blank"} - Beginner
 - [FreeCodeCamp.Com](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/){:target="\_blank"} - Responsive Web Design - Basic HTML and Basic CSS
