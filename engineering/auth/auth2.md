@@ -23,10 +23,15 @@ A developer who can secure front-end and back-end systems using simple authentic
 - [What NOT to do!](https://www.cnbc.com/video/2019/03/21/facebook-stored-passwords-in-plain-text-accessible-by-employees-report-says.html){:target="\_blank"}
 - [HTTP Request Anatomy](https://www.youtube.com/watch?v=DvQp7hJk0TA){:target="\_blank"}
 - [The Anatomy of an HTTP Request](https://www.shipengine.com/the-anatomy-of-an-http-request/){:target="\_blank"}
-- [NodeJS - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/24/nodejs-basic-authentication-tutorial-with-example-api){:target="\_blank"}
 - [How Does Token-Based Authentication Work](https://www.solarwindsmsp.com/blog/how-does-token-based-authentication-work#){:target="\_blank"}
 - [Hashing Passwords: One-Way Road to Security](https://auth0.com/blog/hashing-passwords-one-way-road-to-security/){:target="\_blank"}
 - [Stateful vs Stateless Applications (Explained by Example)](https://www.youtube.com/watch?v=nFPzI_Qg3FU){:target="\_blank"}
+
+Node Applications:
+- [NodeJS - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/24/nodejs-basic-authentication-tutorial-with-example-api){:target="\_blank"}
+
+ASP.NET Applications:
+- [.NET 6.0 - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2021/12/20/net-6-basic-authentication-tutorial-with-example-api){:target="\_blank"}
 
 ## Evaluation:
 
