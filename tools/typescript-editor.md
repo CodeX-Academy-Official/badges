@@ -1,11 +1,11 @@
-# .NET Editor Power User
+# TypeScript Editor Power User
 
-Able to efficiently use a code editor or IDE to compile, execute and debug .NET code.
+Able to efficiently use a code editor or IDE to compile, execute and debug TypeScript code.
 
 ## Master the following skills:
 
-- Install a .NET code editor on your computer.
-- Use code editor to create functional .NET code.
+- Install a TypeScript-compatible code editor on your computer.
+- Use code editor to create functional TypeScript code.
 - Build applications from multiple source files.
 - Compile code using keyboard shortcuts in the code editor.
 - Run unit tests using keyboard shortcuts in the code editor.
