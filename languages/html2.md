@@ -36,6 +36,6 @@ Able to build a complex and interactive page using HTML5 and CSS3.
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-evaluations/2?a1=HTML%2FCSS%20%20Developer%202&a2=7S3UMjXhQNqw7g484oBh-g) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://codexacademy.io/mastery-eval-234234-5982?level=2&badge=7S3UMjXhQNqw7g484oBh-g) to request an evaluation.
 
 [.](level-2)
