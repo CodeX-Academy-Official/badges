@@ -24,7 +24,12 @@ A developer who can proficiently implement the named design pattern as well as r
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/full-stack) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking the scheduling link that corresponds with your level.
+
+* [Level 6](https://api.logro.io/widget/appointment/codex-evals/badge-level-6) 
+* [Level 7](https://api.logro.io/widget/appointment/codex-evals/badge-level-7) 
+* [Level 8](https://api.logro.io/widget/appointment/codex-evals/badge-level-8) 
+* [Level 9](https://api.logro.io/widget/appointment/codex-evals/badge-level-9) 
 
 or
 
