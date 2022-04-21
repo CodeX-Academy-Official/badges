@@ -17,6 +17,6 @@ A user of Postman who is able to use its features to access API's using HTTP req
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-evaluations/2?a1=Postman%20Power%20User%201&a2=XUSQ7P32TTSDfZy362fUgA) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-2?badge=XUSQ7P32TTSDfZy362fUgA) to request an evaluation.
 
 [.](level-2)

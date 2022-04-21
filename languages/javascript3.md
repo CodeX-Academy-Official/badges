@@ -23,6 +23,6 @@ A developer who can code independently and build complex applications in the bro
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://codexacademy.io/mastery-eval-234234-5982?level=2&badge=Hi3PzfAvTEOe75ricoA2RA) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-2?badge=Hi3PzfAvTEOe75ricoA2RA) to request an evaluation.
 
 [.](level-2)

@@ -25,6 +25,6 @@ A software developer who is able to use Bootstrap to simplify use of CSS in a we
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, click [here](https://calendly.com/codex-evaluations/2?a1=Bootstrap%20Developer%201&a2=66Pz-G6UScWSrbCUxsHuSg) to request an evaluation.
+Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-2?badge=66Pz-G6UScWSrbCUxsHuSg) to request an evaluation.
 
 [.](level-2)

@@ -21,7 +21,7 @@ A developer who is able to use SASS/SCSS effectively in a web application.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/2?a1=SASS%20Developer%201&a2=iWNQLnVmTqmpPUfNqgQs5A)) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-2?badge=iWNQLnVmTqmpPUfNqgQs5A) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
