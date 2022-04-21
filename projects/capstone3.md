@@ -10,6 +10,6 @@ Application should allow signup, require login, and perform all CRUD operations 
 
 ## Evaluation:
 
-Ask your mentor if you are ready for project evaluation. Then, click [here](https://calendly.com/codex-evaluations/capstone-3?a1=jmgDN7vmRw-e0tGvYiVW1Q&a2=Level%203) to request an evaluation.
+Ask your mentor if you are ready for project evaluation. Then, click [here](https://webdev.codex.academy/capstone-eval-3?badge=jmgDN7vmRw-e0tGvYiVW1Q) to request an evaluation.
 
 [.](level-3)
