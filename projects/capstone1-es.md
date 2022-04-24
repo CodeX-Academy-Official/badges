@@ -27,6 +27,6 @@ Este proyecto puede ser combinado con el proyecto Lista de Pendientes. Combinado
 
 ## Evaluación
 
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://calendly.com/codex-evaluations/capstone-1?a1=AiwQow-qSKyuxASGZZIORA&a2=Level%201){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
+Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/capstone-eval-1?badge=AiwQow-qSKyuxASGZZIORA){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
 
 [.](level-1)
