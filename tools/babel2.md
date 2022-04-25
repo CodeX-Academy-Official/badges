@@ -17,7 +17,7 @@ A developer who is able to work with Babel to transpile javascript code to stand
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/4?a1=Babel%20Developer%202&a2=7JoEH8LKShK1oqKS1TnKmQ) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=7JoEH8LKShK1oqKS1TnKmQ) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

@@ -17,6 +17,6 @@ A developer who can utilize .NET Core to backend simple console-based applicatio
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/4?a1=NodeJS%20Developer%201&a2=68Ur2l1ATt-KPBmhK9FESQ) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=68Ur2l1ATt-KPBmhK9FESQ) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-4)

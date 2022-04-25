@@ -18,7 +18,7 @@ A developer who is able to effectively integrate and use Webpack in advanced sce
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/4?a1=Webpack%20Developer%202&a2=xHK3WRWMTXylAWZrB4K88g) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=xHK3WRWMTXylAWZrB4K88g) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

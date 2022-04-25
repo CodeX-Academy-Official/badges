@@ -20,7 +20,7 @@ Someone who is learning how to use relational databases.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/4?a1=SQL%20Developer%201&a2=okTiXkVERH-cNJ9dtg2V4Q) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=okTiXkVERH-cNJ9dtg2V4Q) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
