@@ -29,6 +29,6 @@ A developer who is proficient programming in the TypeScript language using advan
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/6?a1=TypeScript%20Developer%203&a2=U_rornHgQsmlvdpls5JSIQ) to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-6?badge=U_rornHgQsmlvdpls5JSIQ) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-6)

@@ -36,7 +36,7 @@ Ser capaz de usar eficientemente VS Code y herramientas relacionadas.
 
 ## Evaluación
 
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1-first-steps?a1=VS%20Code%20Learner%201&a2=hpvFRz6yTtu2VvQPyA8LFg){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
+Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1-first-steps?badge=hpvFRz6yTtu2VvQPyA8LFg){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
 
 [.](level-1)
 
