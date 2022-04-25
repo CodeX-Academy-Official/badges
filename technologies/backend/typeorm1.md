@@ -30,7 +30,7 @@ A developer who can implement an ORM in a NodeJS application to communicate with
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/5?a1=TypeORM%20Apprentice%201&a2=Y4becHjvSSG6rbAVD3bI2Q) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-5?badge=Y4becHjvSSG6rbAVD3bI2Q) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

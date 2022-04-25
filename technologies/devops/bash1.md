@@ -19,7 +19,7 @@ A developer who can write automation shell scripts using Bash
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/5?a1=Bash%20Apprentice%201&a2=YOzH_Q7MQ0OWLsj9W161Jg) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-5?badge=YOzH_Q7MQ0OWLsj9W161Jg) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 

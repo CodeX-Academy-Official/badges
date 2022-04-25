@@ -26,7 +26,7 @@ Someone who is learning how to use relational databases.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/5?a1=SQL%20Apprentice%202&a2=Ii0rlSgNSamUOas6PBKuKA) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-5?badge=Ii0rlSgNSamUOas6PBKuKA) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
