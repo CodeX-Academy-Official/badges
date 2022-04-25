@@ -40,6 +40,6 @@ A developer who can write basic JavaScript code to solve simple problems.
 
 ## Evaluation:
 
-Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1?a1=Javascript%20Developer%201&a2=BZ4TfqPOQBqUsCy4FLVNQw){:target="\_blank"} to find a time on the calendar. After the evaluation, claim the badge.
+Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1?badge=BZ4TfqPOQBqUsCy4FLVNQw){:target="\_blank"} to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-1)

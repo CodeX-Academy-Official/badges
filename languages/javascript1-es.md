@@ -31,6 +31,6 @@ Ser un desarrollador que puede escribir código en JavaScript simple que pueda r
 
 ## Evaluación
 
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://calendly.com/codex-evaluations/1?a1=Javascript%20Developer%201&a2=BZ4TfqPOQBqUsCy4FLVNQw){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
+Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1?badge=BZ4TfqPOQBqUsCy4FLVNQw){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
 
 [.](level-1)

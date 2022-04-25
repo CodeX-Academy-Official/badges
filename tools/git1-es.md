@@ -28,7 +28,7 @@ Ser alguien que pueda usar los comandos básicos de Git y entender para que func
 
 ## Evaluación
 
-Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://calendly.com/codex-evaluations/1?a1=Git%20Power%20User%201&a2=xqS6trYnQmqoETwTIdhIeQ){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
+Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1?badge=xqS6trYnQmqoETwTIdhIeQ){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.
 
 ó
 

@@ -25,7 +25,7 @@ Someone who is learning how to deploy applications to Heroku.
 
 Ask your mentor if you are ready for evaluation. Then, do one of the following:
 
-1. Schedule a live evaluation by clicking [here](https://calendly.com/codex-evaluations/1?a1=Heroku%20Developer%201&a2=Cq9q8pooSYu6hyNj56SCkA) to find a time on the calendar. After the evaluation, claim the badge.
+1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-1?badge=Cq9q8pooSYu6hyNj56SCkA) to find a time on the calendar. After the evaluation, claim the badge.
 
 or
 
