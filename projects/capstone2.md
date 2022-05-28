@@ -22,6 +22,6 @@ Other project ideas are:
 
 ## Evaluation:
 
-Ask your mentor if you are ready for project evaluation. Then, click [here](https://webdev.codex.academy/capstone-eval-2?badge=eqrF8EpzSB6I1SvDAPxTpw) to request an evaluation.
+Ask your mentor if you are ready for project evaluation. Then, click [here](https://webdev.codex.academy/capstone2) to request an evaluation.
 
 [.](level-2)

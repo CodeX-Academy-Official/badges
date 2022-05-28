@@ -11,6 +11,6 @@ Unit test coverage in front-end and back-end should be at least 80% in each lang
 
 ## Evaluation:
 
-Ask your mentor if you are ready for project evaluation. Then, click [here](https://calendly.com/codex-evaluations/capstone-7?badge=OTL8BAJNR4e2a5iemIXc2Q) to request an evaluation.
+Ask your mentor if you are ready for project evaluation. Then, click [here](https://wevdev.codex.academy/capstone7) to request an evaluation.
 
 [.](level-7)
