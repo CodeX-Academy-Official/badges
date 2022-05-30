@@ -27,4 +27,3 @@ function showHideElements(keyValStore){
         showElements(".community", false);
     }
 }
-showHideElements(localStorage);
