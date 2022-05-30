@@ -13,7 +13,7 @@ function loadContact(keyValStore) {
 
     if(contact.currentLevelStudying===undefined){
         console.log("No current level found");
-        return;
+        return {};
     }
 
     return {
