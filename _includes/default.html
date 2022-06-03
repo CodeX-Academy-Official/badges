@@ -1,62 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <!--[if lt IE 8]>
-    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/ie.css">
+    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
-    <link href="{{ ASSET_PATH }}/css/styles.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/pygment_trac.css" rel="stylesheet" type="text/css" media="all">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="{{ ASSET_PATH }}/js/respond.js"></script>
-
-    <!-- Le fav and touch icons -->
-  <!-- Update these with your own img
-    <link rel="shortcut icon" href="img/favicon.ico">
-    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
-  -->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    {% include head-custom.html %}
   </head>
-
   <body>
-
-    <div id="header">
-      <img src="https://res.cloudinary.com/sommardahl-ventures/image/upload/c_scale,w_382/v1654288807/Stock/61f55f9f685cc3b2d03736d1_n6afml.png" />
-      <h1 id="project_title">Technical Competency Library</h1>
-        
-      <nav>
-        
-        <li class="title"><h1><a href="{{ HOME_PATH }}">{{ site.title }}</a></h1></li>
-        {% assign pages_list = site.pages %}
-        {% assign group = 'navigation' %}
-        {% include JB/pages_list %}
-      </nav>
-    </div>
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+            {% if site.show_downloads %}
+              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
+              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
+              <li class="title">DOWNLOADS</li>
+            {% endif %}
+          </ul>
+        </nav>
+      </div><!-- end header -->
 
     <div class="wrapper">
 
-      <div class="content">
+      <section>
+        <div id="title">
+          <img src="https://res.cloudinary.com/sommardahl-ventures/image/upload/c_scale,w_382/v1654288807/Stock/61f55f9f685cc3b2d03736d1_n6afml.png" />
+          <h1>CodeX Academy</h1>
+          <p>Technical Competency Library</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits right">Please [report any bugs or issues]({{ "/contributing.html" | relative_url }}) you find.</span>
+
+        </div>
+
         {{ content }}
-      </div>
 
-      <footer>
-        <p>Please [report any bugs or issues]({{ "/contributing.html" | relative_url }}) you find.</p>
-        <p>&copy; {{ site.author.name }} 2012
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-        </p>
-      </footer>
+      </section>
 
-    </div> <!-- /container -->
-    {% include JB/analytics %}
+    </div>
+
+    <footer>
+    </footer>
   </body>
 </html>
