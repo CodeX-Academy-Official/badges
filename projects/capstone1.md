@@ -12,4 +12,4 @@ NOTE: This project should NOT contain code from a template or boilerplate of any
 
 Ask your mentor if you are ready for project evaluation. Then, click [here](https://webdev.codex.academy/capstone1){:target="_blank"} to request an evaluation.
 
-_NOTE: If you find a problem with this badge, please [report it here](bugs.md)[.](level-1)_
+[.](level-1)
