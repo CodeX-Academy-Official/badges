@@ -1,2 +1,6 @@
 .body { background: linear-gradient(#a1a19e, #3e3e3e); }
 .text-center { text-align: center;}
+
+.top-bar { background-color: #fdbf00; }
+.top-bar .logo { padding: 5px; text-align: left; }
+.top-bar .tagline h2 { text-align: right; color: white; font-size: 23px; }
