@@ -10,6 +10,3 @@ collections:
   level_categories:
     output: true
     sort_by: difficulty
-    
-
-theme: jekyll-theme-midnight
