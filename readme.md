@@ -1,5 +1,3 @@
-# CodeX Academy
-
 ## Level Overview
 
 {% for level in site.levels %}
