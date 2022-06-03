@@ -1,5 +1,4 @@
-# CodeX Academy
-## Contributions
+## Contributing to This Library
 If you'd like to contribute to CodeX Academy's library of micro-certifications, you can do so by following the steps below.
 
 In advance, thanks for taking the time to help us constantly improve this library!

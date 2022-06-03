@@ -1,5 +1,4 @@
-# CodeX Academy
-## Bugs
+## Bugs and Issues
 
 If you find anything AT ALL that needs repair or improvement, we hope you will take the time to report it. This will help this library constantly evolve and improve. As a bug-finder you have a couple options:
 
