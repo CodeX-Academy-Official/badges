@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
-title: CodeX Academy Badge Competencies
+title: CodeX Academy Competency Library
+
 description: Online home of CodeX Academy's library of technical competencies.
 show_downloads: false
 markdown: kramdown
