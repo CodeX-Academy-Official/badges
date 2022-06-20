@@ -13,18 +13,16 @@ A developer who can code independently and build complex, interactive and well-s
 
 Master the following areas of CSS:
 
-* Positioning (floats, inline, etc)
-* Flexbox
-* Grid
-* Inline CSS vs external files
-* Grouping and Nesting
-* Pseudo Classes
 * Shorthand Properties
-* Background Images
 * Specificity
-* Display
-* Pseudo Elements
+* Grouping and Nesting
+* Background Images
+* Display states
+* Inline CSS vs external files
 * Page Layout
+* Positioning (floats, inline, flexbox, grid)
+* Pseudo Classes (non-experimental)
+* Pseudo Elements (non-experimental)
 
 Able to build a complex and interactive page using HTML5 and CSS3.
 
