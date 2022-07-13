@@ -7,9 +7,9 @@ A developer who can implement build backend applications using NodeJS and Expres
 - Install the latest LTS version of NodeJS on your machine using NVM.
 - Write a NodeJS application from scratch.
 - Write a simple HTTP server that responds to requests.
-- Use node-based libraries to interact with users
+- Use node-based libraries to interact with users.
 - Use node modules to separate and organize code.
-- Create simple command-line applications that take in arguments and return values to the console
+- Create simple command-line applications that take in arguments and return values to the console.
 
 ## Suggested Learning:
 
@@ -22,3 +22,5 @@ A developer who can implement build backend applications using NodeJS and Expres
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=68Ur2l1ATt-KPBmhK9FESQ) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-4)
+
+[Spanish version](node1-es.md)

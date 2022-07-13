@@ -24,7 +24,7 @@ Un desarrollador que es experto en utilizar ReactJS para construir aplicaciones 
 
 Pregunta a tu mentor si te encuentras listo para la evaluación. Si es así:
 
-1. Agenda una evaluación en vivo [aquí](https://webdev.codex.academy/mastery-eval-4?badge=8-c_6XvmTn2KYODKTMDh1w) para encontrar un espacio en el calendario. Posteriormente a la evaluación, puedes reclamar tu insignia.
+1. Agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-4?badge=8-c_6XvmTn2KYODKTMDh1w) para encontrar un espacio en el calendario. Posteriormente a la evaluación, puedes reclamar tu insignia.
 
 ó
 

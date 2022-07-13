@@ -10,7 +10,7 @@ Someone who is learning how to use relational databases.
   - create relations between tables
   - update and remove data using SQL
   - query data using SQL
-  - utilize joins to query tables across multiple tables
+  - utilize joins to query data across multiple tables
 
 ## Suggested Learning:
 
@@ -27,3 +27,5 @@ or
 2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.
 
 [.](level-4)
+
+[Spanish version](sql1-es.md)
