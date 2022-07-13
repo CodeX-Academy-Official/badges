@@ -4,14 +4,14 @@ A developer who is able to work with Babel to transpile javascript code to stand
 
 ## Master the following skills:
 
-* Explain the utility of Babel plugins in general
-* Extend Babel with existing plugins
-* Explain the utility of Babel presets in general
-* Utilize existing Babel presets
+- Explain the utility of Babel plugins in general
+- Extend Babel with existing plugins
+- Explain the utility of Babel presets in general
+- Utilize existing Babel presets
 
 ## Suggested Learning:
 
-* [Babel Documentation](https://babeljs.io/){:target="_blank"}
+- [Babel Documentation](https://babeljs.io/){:target="\_blank"}
 
 ## Evaluation:
 
@@ -24,3 +24,5 @@ or
 2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.
 
 [.](level-4)
+
+[Spanish version](babel2-es.md)
