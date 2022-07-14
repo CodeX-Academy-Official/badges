@@ -18,6 +18,7 @@ Ser un desarrollador que puede desplegar una aplicación a Heroku.
 * [Blog article/tutorial on how to deploy a static website to Heroku (Inglés)](https://blog.teamtreehouse.com/deploy-static-site-heroku){:target="_blank"}
 * [How to run a simple html site on Heroku (Inglés)](https://medium.com/@winnieliang/how-to-run-a-simple-html-css-javascript-application-on-heroku-4e664c541b0b){:target="_blank"}
 
+## Domina las siguientes habilidades:
 ## Evaluación
 
 Preguntale a tu mentor si ya estas listo para la evaluación. Después, agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-1?badge=Cq9q8pooSYu6hyNj56SCkA){:target="_blank"} para encontrar un tiempo disponible en el calendario. Una vez terminada la evaluación, se le otorgará la insignia por el evaluador.

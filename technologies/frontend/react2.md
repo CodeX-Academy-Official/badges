@@ -1,5 +1,7 @@
 # React Apprentice 2
 
+[Spanish version](react2-es.md)
+
 A developer who can expertly use ReactJS to build stateful, immersive front-end applications.
 
 ## Master the following skills:

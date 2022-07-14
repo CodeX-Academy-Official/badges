@@ -1,5 +1,7 @@
 # Knex Developer 1
 
+[Spanish version](knex1-es.md)
+
 A developer who is able to use Knex to connect NodeJS to a database.
 
 ## Master the following skills:

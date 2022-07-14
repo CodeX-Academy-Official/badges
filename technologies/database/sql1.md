@@ -1,5 +1,7 @@
 # SQL Apprentice 1
 
+[Spanish version](sql1-es.md)
+
 Someone who is learning how to use relational databases.
 
 ## Master the following skills:
@@ -10,7 +12,7 @@ Someone who is learning how to use relational databases.
   - create relations between tables
   - update and remove data using SQL
   - query data using SQL
-  - utilize joins to query tables across multiple tables
+  - utilize joins to query data across multiple tables
 
 ## Suggested Learning:
 

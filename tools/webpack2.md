@@ -1,5 +1,7 @@
 # Webpack Developer 2
 
+[Spanish version](webpack2-es.md)
+
 A developer who is able to effectively integrate and use Webpack in advanced scenarios.
 
 ## Master the following skills:

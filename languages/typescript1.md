@@ -1,5 +1,7 @@
 # TypeScript Developer 1
 
+[Spanish version](typescript1-es.md)
+
 A developer who is proficient programming in the TypeScript language.
 
 ## Master the following skills:
