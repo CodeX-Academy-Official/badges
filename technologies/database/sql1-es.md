@@ -1,5 +1,7 @@
 # Aprendiz de SQL 1
 
+[English version](sql1.md)
+
 Alguien que se encuentra aprendiendo a utilizar bases de datos relacionales.
 
 ## Domina las siguientes habilidades:

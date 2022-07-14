@@ -1,5 +1,7 @@
 # Desarrollador de Babel 2
 
+[English version](babel2.md)
+
 Un desarrollador que es capaz de trabajar con Babel para transpilar código JavaScript al estándar de código ES6.
 
 ## Domina las siguientes habilidades:

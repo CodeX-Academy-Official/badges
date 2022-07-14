@@ -1,5 +1,7 @@
 # Desarrollador de Knex 1
 
+[English version](knex1.md)
+
 Un desarrollador que es capaz de utilizar Knex para conectar NodeJS a una base de datos.
 
 ## Domina las siguientes habilidades:

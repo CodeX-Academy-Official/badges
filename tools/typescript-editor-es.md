@@ -1,5 +1,7 @@
 # Editor de TypeScript Avanzado
 
+[English version](typescript-editor.md)
+
 Ser capaz de usar eficientemente un editor de código o IDE para compilar, ejecutar y depurar (hacer debug) de código TypeScript.
 
 ## Domina las siguientes habilidades:

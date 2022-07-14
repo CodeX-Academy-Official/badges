@@ -1,5 +1,7 @@
 # Kata
 
+[Spanish version](kata-es.md)
+
 CodeX Academy expects its students to participate in Kata throughout their individual journeys to practice coding skills and solidify logical thinking and problem solving skills. In each level starting with Full-Stack Developer Apprentice 1, you will find a requirement to advance in kata training. We use [CodeWars](https://codewars.com){:target="\_blank"} as a kata training platform. If you're just getting started, you should create an account and take the platform tutorials.
 
 ## Requirements
@@ -18,5 +20,3 @@ Each pathway/level in CodeX Academy will have a corresponding CodeWars Rank requ
 ## Evaluation
 
 Once you have achieved the required rank in CodeWars, you may take a screen shot of your profile showing your name and your rank and submit it as evidence when claiming the corresponding badge.
-
-[Spanish version](kata-es.md)

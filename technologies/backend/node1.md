@@ -1,5 +1,7 @@
 # NodeJS Developer 1
 
+[Spanish version](node1-es.md)
+
 A developer who can implement build backend applications using NodeJS and Express.
 
 ## Master the following:
@@ -22,5 +24,3 @@ A developer who can implement build backend applications using NodeJS and Expres
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=68Ur2l1ATt-KPBmhK9FESQ) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-4)
-
-[Spanish version](node1-es.md)

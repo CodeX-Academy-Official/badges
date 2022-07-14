@@ -1,5 +1,7 @@
 # Babel Developer 2
 
+[Spanish version](babel2-es.md)
+
 A developer who is able to work with Babel to transpile javascript code to standard ES6 code.
 
 ## Master the following skills:
@@ -24,5 +26,3 @@ or
 2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.
 
 [.](level-4)
-
-[Spanish version](babel2-es.md)

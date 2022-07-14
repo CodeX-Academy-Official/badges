@@ -1,5 +1,7 @@
 # Tester de JavaScript 2
 
+[English version](javascript-testing2.md)
+
 Ser capaz de desarrollar código de JavaScript utilizando varias maneras de testeo.
 
 ## Domina las siguientes habilidades:

@@ -1,5 +1,7 @@
 # Heroku Developer 2
 
+[Spanish version](heroku2-es.md)
+
 Someone who is able to deploy backend API's to Heroku.
 
 ## Master the following:

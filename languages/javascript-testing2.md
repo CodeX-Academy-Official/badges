@@ -1,5 +1,7 @@
 # JavaScript Tester 2
 
+[Spanish version](javascript-testing2-es.md)
+
 Able to develop Javascript code using various forms of testing.
 
 ## Master the following:
@@ -22,5 +24,3 @@ Able to develop Javascript code using various forms of testing.
 Ask your mentor if you are ready for evaluation. Then, click [here](https://webdev.codex.academy/mastery-eval-4?badge=0jEVfXE4QtyZ7Jk0LgtWtg) to request an evaluation.
 
 [.](level-4)
-
-[Spanish version](javascript-testing2-es.md)

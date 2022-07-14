@@ -1,5 +1,7 @@
 # Desarrollador de TypeScript 1
 
+[English version](typescript1.md)
+
 Un desarrollador que domina la programación en el lenguaje TypeScript.
 
 ## Domina las siguientes habilidades:

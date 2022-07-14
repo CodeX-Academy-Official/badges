@@ -1,5 +1,7 @@
 # Aprendiz de React 2
 
+[English version](react2.md)
+
 Un desarrollador que es experto en utilizar ReactJS para construir aplicaciones front-end inmersivas y con estado.
 
 ## Domina las siguientes habilidades:

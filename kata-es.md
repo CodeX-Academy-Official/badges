@@ -1,5 +1,7 @@
 # Kata
 
+[English version](kata.md)
+
 CodeX Academy espera que sus estudiantes participen en Kata a lo largo de sus trayectorias individuales para practicar habilidades de codificación y solidificar el pensamiento lógico y las habilidades de resolución de problemas. En cada nivel, comenzando con Aprendíz Full-Stack Developer 1, encontrará un requisito para avanzar en el entrenamiento de kata. Utilizamos [CodeWars](https://codewars.com){:target="\_blank"} como plataforma de entrenamiento de kata. Si recién estás comenzando, debes crear una cuenta y tomar los tutoriales de la plataforma.
 
 ## Requerimientos

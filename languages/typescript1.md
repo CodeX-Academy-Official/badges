@@ -1,5 +1,7 @@
 # TypeScript Developer 1
 
+[Spanish version](typescript1-es.md)
+
 A developer who is proficient programming in the TypeScript language.
 
 ## Master the following skills:
@@ -44,5 +46,3 @@ A developer who is proficient programming in the TypeScript language.
 Ask your mentor if you are ready for evaluation. Then, schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-4?badge=_vGuJgBcQkC7uj5p5tE5nA) to find a time on the calendar. After the evaluation, claim the badge.
 
 [.](level-4)
-
-[Spanish version](typescript1-es.md)

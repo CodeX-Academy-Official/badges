@@ -1,5 +1,7 @@
 # Usuario avanzado de NPM 2
 
+[English version](npm2.md)
+
 Un desarrollador que es capaz de utilizar npm y sus paquetes para mejorar aplicaciones basadas en javascript.
 
 ## Domina las siguientes habilidades:

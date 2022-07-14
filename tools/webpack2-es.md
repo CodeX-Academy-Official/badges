@@ -1,5 +1,7 @@
 # Desarrollador de Webpack 2
 
+[English version](webpack2.md)
+
 Un desarrollador que es capaz de integrar efectivamente Webpack y utilizarlo en escenarios avanzados.
 
 ## Domina las siguientes habilidades:
