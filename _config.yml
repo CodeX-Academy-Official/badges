@@ -1,0 +1,13 @@
+title: CodeX Academy Competency Library
+theme: jekyll-theme-midnight
+description: Online home of CodeX Academy's library of technical competencies.
+show_downloads: false
+markdown: kramdown
+baseurl: badges
+collections: 
+  levels:
+    output: true
+    sort_by: number
+  level_categories:
+    output: true
+    sort_by: difficulty
