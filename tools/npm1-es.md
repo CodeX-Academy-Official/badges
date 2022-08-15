@@ -22,11 +22,11 @@ Un desarrollador que pueda utilizar npm y sus paquetes para mejorar las aplicaci
 - [npm for Beginners](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/){:target="\_blank"}
 - [Using npm to manage frontend dependencies](https://www.agiliq.com/blog/2019/01/using-npm-to-manage-frontend-libraries/){:target="\_blank"}
 
-## Evaluation:
+## Evaluación:
 
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
+Pregunta a tu mentor si te encuentras listo para la evaluación, luego realiza una de las siguientes opciones:
 
-1. Pregunta a tu mentor si te encuentras listo para la evaluación. Luego presiona click [aquí](https://webdev.codex.academy/mastery-eval-3?badge=cu12fxrOSs2N9nnck3A7JQ) para encontrar un espacio en el calendario. Posteriormente a la evaluación, puedes reclamar tu insignia.
+1. Agenda una evaluación en vivo haciendo click [aquí](https://webdev.codex.academy/mastery-eval-3?badge=cu12fxrOSs2N9nnck3A7JQ) para encontrar un espacio en el calendario. Posteriormente a la evaluación, puedes reclamar tu insignia.
 
 ó
 
