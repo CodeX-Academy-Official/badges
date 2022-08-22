@@ -1,25 +1,25 @@
-# SASS Developer 2
+# Desarrollador SASS 2
 
-A developer who is able to use SASS/SCSS variables and mix-ins effectively in a web application.
+Un desarrollador que puede usar variables y complementos SASS/SCSS de manera efectiva en una aplicación web.
 
-## Master the following skills:
+## Domina las siguientes habilidades:
 
-* Use variables to reuse constants like colors and fonts
-* Use mixins to build groups of CSS declarations for reuse
+- Use variables para reutilizar constantes como colores y fuentes
+- Use mixins para crear grupos de declaraciones CSS para su reutilización
 
-## Suggested Learning:
+## Aprendizaje sugerido:
 
-* [Sass Documentation](https://sass-lang.com/){:target="_blank"}
+- [Sass Documentación](https://sass-lang.com/){:target="\_blank"}
 
-## Evaluation:
+## Evaluación:
 
-Ask your mentor if you are ready for evaluation. Then, do one of the following:
+Pregúntele a su mentor si está listo para la evaluación. Luego, realice una de las siguientes acciones:
 
-1. Schedule a live evaluation by clicking [here](https://webdev.codex.academy/mastery-eval-3?badge=Z-klvrJhRqeKklycobm89Q) to find a time on the calendar. After the evaluation, claim the badge.
+1. Programe una evaluación en vivo haciendo clic [aquí](https://webdev.codex.academy/mastery-eval-3?badge=Z-klvrJhRqeKklycobm89Q) para encontrar un espacio en el calendario. Posteriormente a la evaluación, puedes reclamar tu insignia.
 
+ó
 
-or
-
-2. Record a screencast where you talk about and demonstrate each competency listed above. Make sure badge criteria and relevant tools are visible in the screen cast AND that your audio is good enough for the evaluator to hear. Upload the video to a service like Vimeo or Youtube (unlisted is fine) so that you can provide a public url for an evaluator to view. Claim the badge and include the video url in the evidence box.
+2. Realice una grabación de pantalla donde hable y demuestre cada competencia mencionada anteriormente. Asegúrese de que los criterios de la insignia y las herramientas relevantes estén visibles en la transmisión de pantalla Y que su audio sea lo suficientemente bueno para que el evaluador lo escuche. Cargue el video en un servicio como Vimeo o Youtube (si no figura en la lista está bien) para que pueda proporcionar una URL pública para que lo vea un evaluador. Reclame la insignia e incluya la URL del video en el cuadro de evidencia.
 
 [.](level-3)
+
