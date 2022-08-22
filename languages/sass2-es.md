@@ -22,3 +22,4 @@ Pregúntele a su mentor si está listo para la evaluación. Luego, realice una d
 2. Realice una grabación de pantalla donde hable y demuestre cada competencia mencionada anteriormente. Asegúrese de que los criterios de la insignia y las herramientas relevantes estén visibles en la transmisión de pantalla Y que su audio sea lo suficientemente bueno para que el evaluador lo escuche. Cargue el video en un servicio como Vimeo o Youtube (si no figura en la lista está bien) para que pueda proporcionar una URL pública para que lo vea un evaluador. Reclame la insignia e incluya la URL del video en el cuadro de evidencia.
 
 [.](level-3)
+
