@@ -1,6 +1,6 @@
-# HTML/CSS Apprentice 2
+# HTML Developer 2
 
-A developer who can code independently and build complex, interactive and well-styled websites.
+A developer who can build interactive websites and user interfaces using HTML.
 
 ## Master the following skills:
 
@@ -10,21 +10,6 @@ A developer who can code independently and build complex, interactive and well-s
 - User Input
 - Form (action, method, target, submit)
 - Form Validation
-
-Master the following areas of CSS:
-
-- Shorthand Properties
-- Specificity
-- Grouping and Nesting
-- Background Images
-- Display states
-- Inline CSS vs external files
-- Page Layout
-- Positioning (floats, inline, flexbox, grid)
-- Pseudo Classes (non-experimental)
-- Pseudo Elements (non-experimental)
-
-Able to build a complex and interactive page using HTML5 and CSS3.
 
 ## Suggested Learning:
 
