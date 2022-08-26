@@ -12,4 +12,7 @@ NOTE: This project should NOT contain code from a template or boilerplate of any
 
 Ask your mentor if you are ready for project evaluation. Then, click [here](https://webdev.codex.academy/capstone1){:target="_blank"} to request an evaluation.
 
+## Resources:
+- There are plenty of app ideas on the following repository - [https://github.com/florinpop17/app-ideas](https://github.com/florinpop17/app-ideas){:target="\_blank"}
+
 [.](level-1)
