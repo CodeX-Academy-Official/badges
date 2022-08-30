@@ -4,14 +4,18 @@ A developer who can code independently and build simple and well-styled websites
 
 ## Master the following skills:
 
-- Importing external css file (local file or url)
-- Selectors, Properties and Values
-- Colors (Color name, RGB, Hex)
-- Basic styling (colors, backgrounds, typography, etc)
-- Margins and Padding
-- Borders
-- Understand the box model and how margins, borders, padding and inner content work together
-- Understand and be able to identify what styles are built in to existing HTML tags.
+- Describe why CSS is important to web development
+- Use inline CSS styles change the visual behavior of HTML elements
+- Include CSS styles in the head section of an HTML document
+- Import CSS from local files into an HTML document
+- Import CSS from remote locations into an HTML document
+- Differentiate between selectors, properties and values in the CSS Context
+- Control the color of HTML elements using color names, RGB values and Hex values
+- Control the style of text elements in HTML
+- Compare and contrast the concepts of margin and padding
+- Control padding, margin and background for block elements using CSS
+- Control the border styles of inline and block elements using CSS
+- Control differing styles for HTML elements based on hover state
 
 ## Suggested Learning:
 

@@ -1,19 +1,18 @@
 # CSS Developer 2
 
-A developer developer who can style HTML elements using various CSS style attributes independently and masterfully.
+A developer who can style HTML elements using various CSS style attributes independently and masterfully.
 
 ## Master the following skills:
 
-- Shorthand Properties
-- Specificity
-- Grouping and Nesting
-- Background Images
-- Display states
-- Inline CSS vs external files
-- Page Layout
-- Positioning (floats, inline, flexbox, grid)
-- Pseudo Classes (non-experimental)
-- Pseudo Elements (non-experimental)
+- Understand element spacing using the “box model”
+- Describe how your browsers’ built-in styles affect custom styling efforts
+- Control the transparency of HTML elements using RGBa values
+- Differentiate between shorthand and longhand properties in CSS
+- Override existing CSS styles using principles of specificity
+- Override existing CSS styles using grouping and nesting
+- Differentiate between inline and block elements
+- Apply background images to block and inline elements.
+- Control the display or visibility of HTML elements
 
 ## Suggested Learning:
 
