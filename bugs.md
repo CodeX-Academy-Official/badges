@@ -14,4 +14,4 @@ or
 2. Start a "New Issue"
 3. In the title, give a quick summary of what's wrong (something better than "It doesn't work", of course).
 4. In the description, please help a bug-fixer understand the steps they should perform to reproduce your bug. If possible, a link to the page you're talking about would be genious!
-5. Save the issue (and consider [fixing it yourself](contributing.html) if you can)
+5. Save the issue (and consider [fixing it yourself](contributing.md) if you can)
